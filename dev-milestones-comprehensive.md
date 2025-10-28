@@ -45,9 +45,9 @@
 | | Social & Emotional | • **4M:** Recognizes mother<br>• **5M:** Smiles spontaneously, reacts to voice tones<br>• **6M:** Shows preference for person, gets upset without caregiver, recognizes faces, tries to hold bottle |
 | | Cognitive | • **4M:** Reaches for and looks at objects held<br>• **5M:** Reaches/grasps dangling objects, interested in small objects<br>• **6M:** Looks to floor when drops toy |
 | **Growth** | Physical | • **4M:** Boys 15 lb 7 oz; Girls 14 lb 2 oz<br>• **5M:** Boys 16 lb 9 oz; Girls 15 lb 3 oz<br>• **6M:** Boys 17 lb 8 oz; Girls 16 lb 2 oz<br>• Weight gain slows to 4-5 oz/week |
-| **Teeth** | Eruption | • **4-6M:** First teeth may begin (lower central incisors)<br>• Teething symptoms: drooling, chewing, sore gums |
-| **Vision** | Development | • **By 5M:** Good color vision developed<br>• Eyes work together consistently<br>• Depth perception beginning<br>• Can track moving objects, visual clarity improving |
-| **Hearing** | Development | • **4-6M:** Follows sounds with eyes<br>• Makes raspberry sounds<br>• Begins to understand "no-no" |
+| **Teeth** | Eruption | • **4M:** First teeth may begin (lower central incisors)<br>• Teething symptoms: drooling, chewing, sore gums |
+| **Vision** | Development | • **5M:** Good color vision developed<br>• Eyes work together consistently<br>• Depth perception beginning<br>• Can track moving objects, visual clarity improving |
+| **Hearing** | Development | • **4M:** Follows sounds with eyes<br>• Makes raspberry sounds<br>• Begins to understand "no-no" |
 
 ---
 
@@ -60,9 +60,9 @@
 | | Social & Emotional | • **9M:** Shy, clingy, or fearful around strangers<br>• Shows several facial expressions (happy, sad, angry, surprised)<br>• Looks when you call name<br>• Reacts when you leave<br>• Smiles/laughs at peek-a-boo<br>• Finger feeds soft foods<br>• Attempts to hold spoon |
 | | Cognitive | • **9M:** Bangs two things together |
 | **Growth** | Physical | • **7M:** Boys 18 lb 5 oz; Girls 16 lb 14 oz<br>• **8M:** Boys 19 lb; Girls 17 lb 7 oz<br>• **9M:** Boys 19 lb 10 oz; Girls 18 lb 2 oz<br>• Increased mobility as crawling begins |
-| **Teeth** | Eruption | • **6-9M:** Upper central incisors erupt<br>• **9-13M:** Lateral incisors may begin<br>• Most have 4-8 teeth by 9 months |
-| **Vision** | Development | • **By 8M:** Crawling helps develop eye-hand-foot-body coordination<br>• Grasps object permanence<br>• **By 9M:** Eye color becomes more permanent<br>• Vision sharpens, depth perception well-developed |
-| **Hearing** | Development | • **7-12M:** Babbles, tries to communicate with gestures<br>• Tries to repeat sounds<br>• Imitates familiar sounds<br>• Produces non-repetitive syllables |
+| **Teeth** | Eruption | • **6M:** Upper central incisors erupt<br>• **9M:** Lateral incisors may begin<br>• Most have 4-8 teeth by 9 months |
+| **Vision** | Development | • **8M:** Crawling helps develop eye-hand-foot-body coordination<br>• Grasps object permanence<br>• **9M:** Eye color becomes more permanent<br>• Vision sharpens, depth perception well-developed |
+| **Hearing** | Development | • **7M:** Babbles, tries to communicate with gestures<br>• Tries to repeat sounds<br>• Imitates familiar sounds<br>• Produces non-repetitive syllables |
 
 ---
 
@@ -75,9 +75,9 @@
 | | Social & Emotional | • **12M:** Plays games with you (pat-a-cake)<br>• Consistently finger feeds soft foods<br>• Cooperates with dressing (pushes arms through sleeves) |
 | | Cognitive | • **12M:** Puts something in container<br>• Looks for things you hide |
 | **Growth** | Physical | • **10M:** Boys 20 lb 3 oz; Girls 18 lb 11 oz<br>• **11M:** Boys 20 lb 12 oz; Girls 19 lb 4 oz<br>• **12M:** Boys 21 lb 4 oz; Girls 19 lb 12 oz<br>• Most tripled birth weight by 12 months<br>• Length increased 50% since birth |
-| **Teeth** | Eruption | • **13-19M:** First molars may begin<br>• **16-22M:** Canines begin<br>• Most have 6-12 teeth by 12 months |
-| **Vision** | Development | • **By 12M:** Sees across room, recognizes people from distance<br>• Judges distances well, throws with precision<br>• Eye-hand coordination well-developed |
-| **Hearing** | Development | • **9-12M:** Pays attention to book/toy for 2 minutes<br>• Follows simple directions with gestures<br>• Answers questions nonverbally<br>• Points to objects, pictures, family members |
+| **Teeth** | Eruption | • **13M:** First molars may begin<br>• **16M:** Canines begin<br>• Most have 6-12 teeth by 12 months |
+| **Vision** | Development | • **12M:** Sees across room, recognizes people from distance<br>• Judges distances well, throws with precision<br>• Eye-hand coordination well-developed |
+| **Hearing** | Development | • **9M:** Pays attention to book/toy for 2 minutes<br>• Follows simple directions with gestures<br>• Answers questions nonverbally<br>• Points to objects, pictures, family members |
 
 ---
 
@@ -90,7 +90,7 @@
 | | Social & Emotional | • **14M:** Parallel play, frightened by loud noises, wants attention/praise, reacts to routine changes, self-soothes<br>• **15M:** Copies other children, shows affection, claps when excited, drinks from sippy cup independently<br>• **16M:** Pretend play begins, enjoys praise, upset when doesn't get way<br>• **18M:** Moves away but checks you're close, points to show interest, helps dress self, uses spoon with moderate spilling |
 | | Cognitive | • **14M:** Puts 2 cubes in 1 hand to hold 3rd<br>• **15M:** Uses things right way, stacks 2+ objects<br>• **16M:** Looks for hidden toys, enjoys textured books<br>• **18M:** Knows what ordinary things are for |
 | **Growth** | Physical | • **15M:** Boys 22 lb 11 oz; Girls 21 lb 3 oz<br>• **18M:** Boys 24 lb 1 oz; Girls 22 lb 8 oz<br>• Growth rate slowing, toddler proportions developing |
-| **Teeth** | Eruption | • **13-19M:** First molars erupt<br>• **16-23M:** Canines continue<br>• Most have 12-16 teeth by 18 months |
+| **Teeth** | Eruption | • **13M:** First molars erupt<br>• **16M:** Canines continue<br>• Most have 12-16 teeth by 18 months |
 | **Vision** | Development | • Vision approaching adult clarity<br>• Recognizes/points to pictures in books<br>• Visual memory developing |
 | **Hearing** | Development | • Vocabulary expanding rapidly<br>• Understanding exceeds speaking ability<br>• Follows simple one-step commands |
 
@@ -105,8 +105,8 @@
 | | Social & Emotional | • **20M:** Feeds self, takes off clothes, feeds self with spoon with moderate success<br>• **24M:** Matches objects to pictures, imitates others, OK when separated, tests limits, has tantrums, less frightened, cries if you're upset, jealous, recognizes self in mirror, asks questions, interested in body/genitals, says "no" often, enjoys praise, interested in same-age children, notices when others hurt/upset, drinks from open cup with some spilling, removes shoes and socks independently, helps with hand washing |
 | | Cognitive | • **20M:** Scribbles with crayon<br>• **24M:** Pretend play, copies lines, enjoys repetition, matches objects to pictures, enjoys puzzles/textured books, holds container while taking off lid, uses switches/knobs, plays with multiple toys at once |
 | **Growth** | Physical | • **20M:** Boys 25 lb; Girls 23 lb 7 oz<br>• **24M:** Boys 27 lb 8 oz; Girls 26 lb 7 oz<br>• Height gain 4-5 inches/year<br>• Head circumference growth slowing |
-| **Teeth** | Eruption | • **23-33M:** Second molars begin<br>• Most have 16-20 teeth by 24 months<br>• Complete set of 20 primary teeth by 2.5-3 years |
-| **Vision** | Development | • **By 24M:** Eye-hand coordination and depth perception well developed<br>• Vision essentially mature<br>• Can focus on near and far objects |
+| **Teeth** | Eruption | • **23M:** Second molars begin<br>• Most have 16-20 teeth by 24 months<br>• Complete set of 20 primary teeth by 2.5-3 years |
+| **Vision** | Development | • **24M:** Eye-hand coordination and depth perception well developed<br>• Vision essentially mature<br>• Can focus on near and far objects |
 | **Hearing** | Development | • Rapid language development<br>• Can follow 2-step commands<br>• Understanding simple concepts (big/small, in/out) |
 
 ---
@@ -120,9 +120,9 @@
 | | Social & Emotional | • **30M:** Plays next to and sometimes with other children, shows what they can do, follows simple routines, drinks from open cup without spilling<br>• **36M:** Calms within 10 minutes after drop-off, notices other children and joins play, interested in body parts/genitals, uses toilet with assistance, washes and dries hands with help |
 | | Cognitive | • **30M:** Uses things to pretend, shows problem solving, follows 2-step instructions, names 2+ colors<br>• **36M:** Draws circle when shown, avoids hot objects when warned |
 | **Growth** | Physical | • **30M:** Boys 29 lb 5 oz; Girls 28 lb 2 oz<br>• **36M:** Boys 31 lb 12 oz; Girls 30 lb 10 oz<br>• Body proportions becoming more child-like |
-| **Teeth** | Eruption | • **23-33M:** Second molars complete<br>• **By age 3:** Complete set of 20 primary teeth (10 upper, 10 lower) |
+| **Teeth** | Eruption | • **23M:** Second molars complete<br>• **36M:** Complete set of 20 primary teeth (10 upper, 10 lower) |
 | **Vision** | Development | • Vision fully developed to adult level<br>• Identifies and matches colors<br>• Visual memory well-established |
-| **Hearing** | Development | • **By age 3:** Clear speech strangers understand most of time<br>• Follows multi-step instructions<br>• Understands most of what's said |
+| **Hearing** | Development | • **36M:** Clear speech strangers understand most of time<br>• Follows multi-step instructions<br>• Understands most of what's said |
 
 ---
 
@@ -150,7 +150,7 @@
 | | Social & Emotional | • **60M:** Follows rules/takes turns in games, sings/dances/acts for you, does simple chores, wants to please/be like friends, agrees with rules, likes to perform, shows independence, tells real from make-believe, shows affection, aware of gender, independent with toileting including wiping, dresses and undresses independently, brushes teeth independently (may need supervision), pours own drinks without spilling |
 | | Cognitive | • **60M:** Counts to 10, names numbers 1-5 when pointed to, uses time words, pays attention 5-10 minutes, writes some letters of name, names some letters when pointed to, draws person with 6+ body parts, copies triangle/geometric shapes, knows about everyday things, understands counting concept, names 4+ colors, understands same/different, plays board/card games, identifies most letters |
 | **Growth** | Physical | • **60M:** Boys 40 lb; Girls 39 lb<br>• Height 43-44 inches<br>• Adult proportions beginning<br>• BMI important measurement |
-| **Teeth** | Eruption | • All 20 primary teeth present and stable<br>• **Around age 6:** First permanent molars erupt (behind primary teeth)<br>• **Around age 6:** Primary teeth loosen and fall out (starting with central incisors)<br>• Spaces between primary teeth normal |
+| **Teeth** | Eruption | • All 20 primary teeth present and stable<br>• **72M:** First permanent molars erupt (behind primary teeth)<br>• **72M:** Primary teeth loosen and fall out (starting with central incisors)<br>• Spaces between primary teeth normal |
 | **Vision** | Development | • Visual acuity typically 20/20<br>• Recognizes all letters/numbers<br>• Eye-hand coordination excellent<br>• Tracks fast-moving objects<br>• Visual perception supports reading<br>• **Should have vision screening before school** |
 | **Hearing** | Development | • Hearing fully mature<br>• Understands all speech in various environments<br>• Follows multi-step complex instructions<br>• May struggle with very noisy environments (normal)<br>• **Should have hearing screening before school** |
 
