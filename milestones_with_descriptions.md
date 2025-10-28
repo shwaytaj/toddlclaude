@@ -331,6 +331,96 @@ Newborns arrive with powerful rooting and sucking reflexes. Put simply: if somet
 
 ---
 
+### GROWTH
+
+#### Birth weight and length
+
+**About**
+
+At birth, healthy full-term babies show a wide range of normal weights and lengths. Average birth weight is around 7–7.5 pounds (3.2–3.4 kg) for boys and slightly less for girls, though the normal range extends from about 5.5 to 10 pounds. Birth length averages around 19–20 inches (49–50 cm). In the first week, babies typically lose 5–10% of birth weight (mostly water weight) before beginning to gain steadily. Weight gain in the first month is rapid—typically 5–7 ounces per week.
+
+**What to look for**
+- Birth weight: Boys average 7 lb 6 oz (3.3 kg); Girls average 7 lb 2 oz (3.2 kg)
+- Birth length: Boys average 19.7 inches (50 cm); Girls average 19.3 inches (49 cm)
+- Initial weight loss of 5–10% in first week is normal
+- Weight regained by 2 weeks of age
+- Steady weight gain of 5–7 oz per week after initial period
+- Regular monitoring at well-baby visits
+
+**Why it matters**
+
+Growth in the first month is a key indicator of health and adequate nutrition. Consistent weight gain shows that feeding (breast or bottle) is effective and that the baby is thriving. Healthcare providers track growth carefully during this period to ensure babies are getting enough nutrition and to identify any issues early. Growth patterns establish the foundation for healthy development throughout infancy.
+
+---
+
+### TEETH
+
+#### Primary teeth developing beneath gums
+
+**About**
+
+Although you can't see them yet, all 20 primary teeth are developing beneath your newborn's gums. Tooth buds began forming during pregnancy, and the mineralization process continues after birth. Most babies won't show visible teeth until around 4–7 months, but the development happening beneath the surface is crucial. Some babies are born with teeth (natal teeth) or develop them in the first month (neonatal teeth), though this is rare.
+
+**What to look for**
+- No visible teeth (normal for this age)
+- Gums are smooth and pink
+- Baby may bring hands to mouth (normal reflex, not teething)
+- Drooling is minimal at this age
+- No signs of teething discomfort yet
+- Rare cases: natal or neonatal teeth (consult pediatrician)
+
+**Why it matters**
+
+Understanding that teeth are developing even when invisible helps parents prepare for teething ahead. The foundation of dental health starts now—even before teeth emerge. Good oral hygiene habits (wiping gums gently after feeding) can begin in this first month. Rarely, natal or neonatal teeth may need evaluation to ensure they're securely attached and not causing feeding difficulties.
+
+---
+
+### VISION
+
+#### Blurry vision with close-range focus
+
+**About**
+
+Newborns can see from birth, but their vision is blurry—estimated at about 20/400 (compared to adult 20/20 vision). They see best at 8–12 inches away—the perfect distance from breast or bottle to your face during feeding. At birth, babies perceive light and dark and are drawn to high-contrast patterns (black and white, bold stripes). Their eyes may appear uncoordinated or crossed at times, which is normal as the eye muscles are still developing. Color perception is limited—they primarily see in shades of gray with some sensitivity to bright colors.
+
+**What to look for**
+- Focuses on objects 8–12 inches away (feeding distance)
+- Prefers high-contrast patterns over solid colors
+- Looks at faces more than other objects
+- Eyes may appear uncoordinated or drift (normal if occasional)
+- Perceives light and dark
+- Blinks at bright lights
+- Limited color vision at this age
+
+**Why it matters**
+
+Vision development in the first month sets up the visual pathways in the brain. Even though vision is blurry, babies are taking in critical visual information—especially about faces and patterns. The preference for faces is hardwired and essential for bonding and social development. Eye coordination develops over the first months, and occasional crossing or drifting is normal. Persistent eye issues (constant crossing, one eye turning) warrant pediatric evaluation.
+
+---
+
+### HEARING
+
+#### Hearing fully functioning at birth
+
+**About**
+
+Unlike vision, which develops gradually, hearing is fully functional at birth. Babies have been hearing sounds in the womb since around 18 weeks of pregnancy—especially mother's voice, heartbeat, and rhythmic sounds. At birth, they recognize familiar voices and show clear responses to sounds. The startle (Moro) reflex to sudden loud noises is strong in the first weeks. Newborns can distinguish their mother's voice from strangers' voices and show preference for familiar sounds.
+
+**What to look for**
+- Startle reflex (Moro) to sudden loud sounds
+- Calming to familiar voices, especially mother's
+- Pausing or stilling when someone speaks
+- Turning eyes or head slightly toward sounds
+- Different responses to different sounds (voice vs. background noise)
+- Reacts to loud sounds by blinking, changing breathing, or crying
+- Quiets when hearing soothing voices or music
+
+**Why it matters**
+
+Functional hearing from birth is critical for language development, bonding, and safety. Babies learn language by hearing it long before they can speak. Early hearing problems can significantly impact speech and language development, which is why newborn hearing screens are standard. Responding to sounds shows that auditory pathways are working, which is foundational for all future communication and learning.
+
+---
+
 ## 1-3 MONTHS
 
 ### GROSS MOTOR SKILLS
@@ -884,6 +974,97 @@ By 3 months, visual acuity improves significantly. Babies can now focus on small
 **Why it matters**
 
 Improving visual acuity allows babies to learn more from their environment. They can see facial expressions more clearly, notice small objects worth reaching for, and begin to discriminate fine details. This supports cognitive, social, and motor development.
+
+---
+
+### GROWTH
+
+#### Rapid weight and length gain
+
+**About**
+
+Growth during months 1–3 is remarkably rapid. Babies typically gain 5–7 ounces per week and add about 1 inch in length per month. By 1 month, boys average around 9 lb 15 oz and girls around 9 lb 4 oz. By 2 months, boys average 12 lb 6 oz and girls 11 lb 5 oz. By 3 months, boys typically weigh around 14 lb 2 oz and girls 12 lb 14 oz. This period represents some of the fastest growth in a child's entire life. Head circumference also increases steadily as the brain grows rapidly.
+
+**What to look for**
+- Steady weight gain of 5–7 oz per week
+- Length gain of approximately 1 inch per month
+- By 1 month: Boys ~10 lbs, Girls ~9 lbs
+- By 2 months: Boys ~12.5 lbs, Girls ~11.5 lbs
+- By 3 months: Boys ~14 lbs, Girls ~13 lbs
+- Outgrowing newborn clothes and moving to larger sizes
+- Regular monitoring at well-baby checkups
+
+**Why it matters**
+
+Rapid growth during this period reflects healthy nutrition and development. Consistent weight and length gain indicate that feeding is adequate and that the baby is thriving. Healthcare providers track growth curves carefully to ensure babies are following expected patterns. Deviations from expected growth patterns may indicate feeding issues, illness, or other concerns that need attention. This growth fuels the enormous brain development happening during these months.
+
+---
+
+### TEETH
+
+#### Teeth developing beneath gums; teething may begin
+
+**About**
+
+During months 1–3, primary teeth continue developing beneath the gums. Most babies won't show visible teeth yet, but some early teethers may begin showing signs toward the end of this period or into month 4. Increased drooling often starts around 2–3 months as salivary glands mature—this is normal development, not necessarily teething. True teething symptoms (fussiness, gum sensitivity, chewing on hands/objects) typically appear closer to 4–7 months when the first teeth (lower central incisors) begin to emerge.
+
+**What to look for**
+- No visible teeth yet (normal)
+- Increased drooling starting around 2–3 months
+- Hands to mouth frequently (normal exploration, not necessarily teething)
+- Gums remain smooth and pink
+- Some babies may show early teething signs toward end of period
+- Chewing on fingers or objects as hand-mouth coordination develops
+
+**Why it matters**
+
+Understanding the timeline of tooth development helps parents distinguish normal developmental drooling and hand-mouthing from actual teething. While teeth are forming, the foundation for oral health is being established. Parents can begin gentle gum care by wiping gums with a soft, damp cloth after feedings. This establishes good oral hygiene habits even before teeth emerge.
+
+---
+
+### VISION
+
+#### Improving focus and color vision
+
+**About**
+
+Visual development advances significantly during months 1–3. By 2 months, babies can track moving objects more smoothly and focus on parents' faces with increasing clarity. By 3 months, the eyes work together much better, reducing the crossing or drifting seen in newborns. Color vision begins developing—babies start distinguishing colors, especially bright ones. Eye-hand coordination emerges as babies begin connecting what they see with hand movements (batting at objects). Visual range extends beyond the 8–12 inch newborn range.
+
+**What to look for**
+- By 2 months: Tracking moving objects smoothly, focusing on parent's face clearly
+- By 3 months: Eyes working together consistently, less crossing or drifting
+- Color vision developing—response to bright colors
+- Eye-hand coordination beginning (batting at toys)
+- Following objects in circular patterns
+- Increased visual attention and engagement
+- Preference for faces remains strong
+
+**Why it matters**
+
+Vision improvements during this period support all areas of development. Better visual tracking allows babies to learn from their environment. Coordinated eye movements (binocular vision) are essential for depth perception, which develops over the coming months. Emerging color vision enriches babies' visual world. Eye-hand coordination—connecting vision with movement—is foundational for reaching, grasping, and all future motor skills. If eyes continue to cross constantly or turn after 3 months, evaluation is recommended.
+
+---
+
+### HEARING
+
+#### Vocal and auditory development
+
+**About**
+
+Hearing continues to mature during months 1–3. Babies become increasingly responsive to voices, turning toward familiar speakers and showing clear preferences for certain sounds. By 2–3 months, babies begin their own vocalizations—cooing and making vowel sounds—in response to voices they hear. They start to distinguish different tones (happy vs. stern) and react accordingly. The ability to localize sound sources improves—babies turn more purposefully toward voices and noises.
+
+**What to look for**
+- Vocalizing pleasure and displeasure (laughs, giggles, coos, cries)
+- Making noise when talked to
+- Changing pitch in cooing
+- Turning toward sounds more consistently
+- Different responses to different voice tones
+- Quieting to listen to voices
+- Beginning sound imitation (early vocal play)
+
+**Why it matters**
+
+Auditory development during this period is crucial for language learning. Babies are mapping the sounds of their native language, learning intonation patterns, and beginning to vocalize in response. The feedback loop—hearing sounds, making sounds, hearing responses—is how language develops. Responsiveness to different voice tones shows emotional and social learning. If babies don't respond to voices or sounds consistently by 3 months, hearing evaluation is recommended.
 
 ---
 
@@ -1477,6 +1658,98 @@ Object permanence is foundational for memory, problem-solving, and understanding
 
 ---
 
+### GROWTH
+
+#### Continued growth with slowing pace
+
+**About**
+
+Growth during months 3–6 continues steadily but begins to slow slightly from the rapid newborn pace. By 4 months, boys average around 15 lb 7 oz and girls 14 lb 2 oz. By 5 months, boys reach approximately 16 lb 9 oz and girls 15 lb 3 oz. By 6 months, boys typically weigh around 17 lb 8 oz and girls 16 lb 2 oz. Weight gain slows from 5–7 oz/week to about 4–5 oz/week. Babies are developing more muscle tone and body proportions are changing as they become more active with rolling and reaching.
+
+**What to look for**
+- Weight gain slowing to 4–5 oz per week (normal and healthy)
+- By 4 months: Boys ~15.5 lbs, Girls ~14 lbs
+- By 5 months: Boys ~16.5 lbs, Girls ~15 lbs
+- By 6 months: Boys ~17.5 lbs, Girls ~16 lbs
+- Increasing muscle tone and definition
+- Body proportions changing (less "newborn" appearance)
+- Continued monitoring at well-baby visits
+
+**Why it matters**
+
+The slowing of growth rate is normal and healthy. Babies are becoming more efficient feeders and more active, which changes how calories are used. Most babies double their birth weight by 4–5 months—a key milestone that healthcare providers track. Continued steady growth (even if slower) indicates healthy development. Tracking growth curves helps identify any concerns early. The physical changes support increasing mobility—rolling, reaching, and eventually sitting.
+
+---
+
+### TEETH
+
+#### First teeth beginning to emerge
+
+**About**
+
+The exciting milestone of first teeth typically occurs during this 4–6 month period, though timing varies widely (some babies teeth earlier or later—both normal). The most common first teeth are the lower central incisors (bottom front teeth), usually appearing around 4–7 months. Teething symptoms may include increased drooling, chewing on hands or objects, irritability, and sore, swollen gums. Some babies experience mild fever or loose stools, though high fevers warrant medical attention.
+
+**What to look for**
+- First teeth appearing, typically lower central incisors (4–7 months)
+- Increased drooling (may start earlier)
+- Chewing on hands, toys, or anything available
+- Irritability or fussiness, especially when teeth are moving through gums
+- Swollen, tender gums
+- Possible mild fever or changes in eating/sleeping
+- Some babies show minimal symptoms; others are quite uncomfortable
+
+**Why it matters**
+
+Teething marks an important developmental milestone and the beginning of oral health care. Once teeth appear, dental hygiene becomes critical—wiping teeth with a soft cloth or using a baby toothbrush prevents decay. Understanding normal teething symptoms helps parents provide comfort (cold teething toys, gentle gum massage) and distinguish teething from illness. First teeth also signal readiness for new food textures as babies begin to learn chewing. Wide variation in teething timing is normal—some babies have teeth at 3 months, others not until after 12 months.
+
+---
+
+### VISION
+
+#### Good color vision and depth perception developing
+
+**About**
+
+Vision matures significantly during months 4–6. By 5 months, good color vision has developed—babies can distinguish all colors, though they may still prefer bright, high-contrast patterns. The eyes work together consistently now, supporting the development of depth perception. Babies can track moving objects smoothly across their full visual field and are beginning to develop hand-eye coordination for reaching. Visual memory improves—babies recognize familiar faces across distances and remember objects they've seen before.
+
+**What to look for**
+- Good color vision fully developed by 5 months
+- Eyes working together consistently (binocular vision)
+- Depth perception beginning to develop
+- Smooth tracking of moving objects in all directions
+- Improved hand-eye coordination (reaching accurately for objects)
+- Visual recognition of familiar people and objects
+- Sustained visual attention (watching activities, studying toys)
+
+**Why it matters**
+
+Mature color vision and binocular vision are foundational for understanding and navigating the world. Depth perception—understanding distance and three-dimensional space—is critical for reaching, crawling, and later walking. Strong visual tracking supports learning by observation. Hand-eye coordination enables babies to interact with objects, which drives cognitive development. Visual memory supports attachment (recognizing caregivers) and learning (remembering objects and their properties). Any persistent eye crossing, turning, or lack of coordinated movement warrants evaluation.
+
+---
+
+### HEARING
+
+#### Sound localization and vocal experimentation
+
+**About**
+
+Auditory development during months 4–6 includes improved sound localization—babies can accurately turn toward sounds from various directions. They follow sounds with their eyes, seeking the source. Vocal development explodes: babies produce raspberry sounds (blowing air through lips), experiment with volume and pitch, and begin canonical babbling around 6 months ("bababa," "dadada"). They understand "no-no" starting around 4–6 months and show clear responses to emotional tones in voices.
+
+**What to look for**
+- Following sounds with eyes (looking for source)
+- Making raspberry sounds (4–6 months)
+- Beginning to understand "no-no" (pausing or looking when said)
+- Babbling with consonant-vowel combinations emerging ("baba," "dada")
+- Experimenting with volume, pitch, and different sounds
+- Responding differently to happy vs. stern tones
+- Turning quickly and accurately toward sounds from all directions
+
+**Why it matters**
+
+Sound localization is essential for safety, learning, and social interaction. It shows the auditory system is maturing and integrating with motor control. The emergence of babbling is a critical language milestone—babies are practicing the sound patterns of their native language. Understanding tone and simple words like "no" shows receptive language development. Vocal experimentation builds the motor patterns needed for speech. If babies don't turn toward sounds consistently or don't vocalize by 6 months, hearing and speech evaluation is recommended.
+
+---
+
 ## 6-9 MONTHS
 
 ### GROSS MOTOR SKILLS
@@ -1733,6 +2006,99 @@ This exploration is foundational for tool use, play skills, and understanding ho
 
 ---
 
+### GROWTH
+
+#### Steady growth with increasing mobility
+
+**About**
+
+Growth during months 6–9 continues at a steady but slower pace than the early months. By 7 months, boys average around 18 lb 5 oz and girls 16 lb 14 oz. By 8 months, boys reach approximately 19 lbs and girls 17 lb 7 oz. By 9 months, boys typically weigh around 19 lb 10 oz and girls 18 lb 2 oz. As babies become increasingly mobile with crawling and exploring, their body composition changes—more muscle development and less baby fat. Energy expenditure increases significantly with mobility, which affects weight gain patterns.
+
+**What to look for**
+- By 7 months: Boys ~18.5 lbs, Girls ~17 lbs
+- By 8 months: Boys ~19 lbs, Girls ~17.5 lbs
+- By 9 months: Boys ~19.5-20 lbs, Girls ~18 lbs
+- Increasing muscle tone from crawling and moving
+- Body becoming leaner as mobility increases
+- Still gaining weight steadily but at slower pace
+- Regular monitoring at well-baby visits
+
+**Why it matters**
+
+The combination of steady growth with increasing mobility shows healthy development. Babies are using calories for both growth and movement, which is why weight gain may plateau slightly during active phases like learning to crawl. Most babies have doubled their birth weight by 5–6 months and are working toward tripling it by their first birthday. The physical changes—stronger muscles, better coordination—support the gross motor milestones of this period. Healthcare providers monitor growth to ensure babies are thriving despite increased activity.
+
+---
+
+### TEETH
+
+#### Upper and lateral incisors emerging
+
+**About**
+
+During months 6–9, more teeth typically appear. After the lower central incisors (usually first, at 4–7 months), the upper central incisors generally emerge around 6–9 months. Later in this period or into the next, the lateral incisors (next to the central ones) may begin appearing around 9–13 months. Most babies have 4–8 teeth by 9 months, though wide variation is normal. Teething symptoms continue: drooling, chewing, irritability, and gum tenderness as each new tooth breaks through.
+
+**What to look for**
+- Upper central incisors erupting (6–9 months)
+- Lateral incisors may begin toward end of period (9–13 months)
+- Most babies have 4–8 visible teeth by 9 months
+- Continued teething symptoms: drooling, chewing, fussiness
+- Babies may bite while nursing or eating
+- Interest in hard foods and teething toys for relief
+- Regular dental hygiene increasingly important
+
+**Why it matters**
+
+Multiple teeth allow babies to begin practicing chewing and managing different food textures—an important feeding milestone. Dental care becomes critical once teeth are present: wiping or brushing teeth twice daily prevents decay. Understanding that teething is episodic (symptoms come and go as different teeth emerge) helps parents provide appropriate comfort. The appearance of multiple teeth also signals oral-motor readiness for more varied foods and self-feeding. Wide variation in teething timing is normal and doesn't indicate developmental concerns.
+
+---
+
+### VISION
+
+#### Crawling develops eye-hand-foot-body coordination
+
+**About**
+
+Vision during months 6–9 becomes increasingly sophisticated. By 8 months, crawling helps develop eye-hand-foot-body coordination—babies use vision to navigate, avoid obstacles, and reach destinations. They understand object permanence visually (if something rolls under furniture, they look for it). By 9 months, eye color becomes more permanent, and vision sharpens significantly. Depth perception is well-developed, allowing safe navigation during crawling and cruising.
+
+**What to look for**
+- Vision guiding movement during crawling
+- Well-developed depth perception (navigating edges, stairs)
+- Grasping object permanence (looking for hidden objects)
+- Eye color becoming more permanent by 9 months
+- Visual acuity improving (noticing small details)
+- Coordinated eye-hand-body movements
+- Visual problem-solving (figuring out how to reach objects)
+
+**Why it matters**
+
+Vision is now fully integrated with motor planning. Babies use their eyes to navigate space, judge distances, and plan movements—essential for safe crawling and cruising. Object permanence understanding shows cognitive-visual integration. Depth perception prevents falls and injuries as babies become mobile. Visual problem-solving (seeing a toy under furniture and figuring out how to reach it) shows higher-level thinking. Well-developed vision at this stage supports all learning and exploration. Any concerns about eye alignment, tracking, or vision should be evaluated.
+
+---
+
+### HEARING
+
+#### Language comprehension and babbling advancement
+
+**About**
+
+Auditory and language development accelerates during months 6–9. Babies engage in rich babbling—long strings of varied consonant-vowel combinations ("bababa," "dadada," "mamama"). They respond to their name consistently by 9 months. Comprehension grows significantly: babies understand simple words and phrases, follow simple gestures, and may respond to "no." They imitate familiar sounds and produce non-repetitive syllables. Babies try to communicate through gestures combined with vocalizations.
+
+**What to look for**
+- Babbling with varied consonant-vowel combinations (7–12 months)
+- Responding to own name by 9 months
+- Trying to repeat sounds heard
+- Imitating familiar sounds and speech patterns
+- Producing non-repetitive syllables
+- Attempting gestures combined with sounds
+- Understanding simple words ("no," "bye-bye")
+- Following sounds with eyes and head turns
+
+**Why it matters**
+
+This period is critical for language foundation. Babbling with varied sounds shows babies are practicing the specific sound patterns of their native language. Name recognition is a key comprehension milestone and important for safety. The combination of gestures and vocalizations is intentional communication—babies are expressing needs and wants. Understanding simple words shows receptive language is developing ahead of expressive language. If babies don't respond to their name, don't babble, or don't seem to hear consistently by 9 months, evaluation is recommended.
+
+---
+
 ## 9-12 MONTHS
 
 ### GROSS MOTOR SKILLS
@@ -1940,6 +2306,100 @@ By 12 months, object permanence is solid. Babies actively search for hidden obje
 **Why it matters**
 
 Object permanence is foundational for memory, problem-solving, and understanding the world. It's why peek-a-boo and hiding games are so important—they teach that disappearance isn't permanent. Strong object permanence predicts better problem-solving and learning abilities.
+
+---
+
+### GROWTH
+
+#### Approaching tripled birth weight
+
+**About**
+
+Growth during months 9–12 continues steadily as babies approach their first birthday. By 10 months, boys average around 20 lb 3 oz and girls 18 lb 11 oz. By 11 months, boys reach approximately 20 lb 12 oz and girls 19 lb 4 oz. By 12 months (first birthday), boys typically weigh around 21 lb 4 oz and girls 19 lb 12 oz. Most babies have tripled their birth weight by their first birthday—a major milestone. Length has increased by about 50% since birth, with babies typically measuring 28–30 inches at 12 months.
+
+**What to look for**
+- By 10 months: Boys ~20 lbs, Girls ~19 lbs
+- By 11 months: Boys ~21 lbs, Girls ~19.5 lbs
+- By 12 months: Boys ~21.5 lbs, Girls ~20 lbs
+- Most babies triple birth weight by 12 months
+- Length increased by about 50% from birth (typically 28–30 inches)
+- Body proportions changing—looking more toddler-like
+- Individual variation in size is normal and healthy
+
+**Why it matters**
+
+Tripling birth weight by one year is a standard pediatric milestone that indicates healthy growth and development. The 50% increase in length shows skeletal and muscular development. As babies become walkers, their body composition continues changing—more muscle, less baby fat. Growth patterns during the first year establish trajectories for childhood growth. Healthcare providers use growth charts to ensure babies are following their individual curve, whether that's 10th percentile or 90th—consistency matters more than specific numbers. Significant deviations warrant evaluation.
+
+---
+
+### TEETH
+
+#### First molars and canines beginning
+
+**About**
+
+By 9–12 months, most babies have 6–12 teeth. The lateral incisors (next to the central ones) continue emerging during this period. Looking ahead, first molars typically begin appearing around 13–19 months, and canines (pointed teeth) around 16–22 months. Teething continues to be episodic—periods of discomfort as new teeth push through, followed by relief. The variety of teeth allows babies to practice more sophisticated chewing and manage increasingly complex food textures.
+
+**What to look for**
+- Most babies have 6–12 teeth by 12 months
+- Lateral incisors completing (9–13 months)
+- First molars may begin toward end of period or into next (13–19 months)
+- Continued teething symptoms with each new tooth
+- Increasing ability to chew various food textures
+- Regular dental hygiene essential with multiple teeth
+- May bite hard foods and toys for relief
+
+**Why it matters**
+
+Multiple teeth allow toddlers to chew a variety of foods, supporting nutrition and oral-motor development. Chewing practice strengthens jaw muscles used for eating and speech. Dental hygiene becomes increasingly important—brushing twice daily prevents decay. Some parents schedule first dental visits around the first birthday. Understanding ongoing teething helps parents provide comfort and distinguish teething discomfort from illness. Wide variation in number of teeth at 12 months is normal—some babies have only 2 teeth, others have 12.
+
+---
+
+### VISION
+
+#### Vision approaching adult level
+
+**About**
+
+Vision at 9–12 months is approaching adult clarity and sophistication. Babies can see across rooms, recognize people from distances, and judge distances well enough to navigate safely while crawling and cruising. They throw objects with precision, showing excellent hand-eye coordination and depth perception. Visual memory is strong—babies remember where objects are kept and can find favorite toys. Eye color is now set (though may subtly change through early childhood). Visual acuity is sharp enough to notice small details and track fast-moving objects.
+
+**What to look for**
+- Seeing and recognizing people across rooms
+- Excellent depth perception (navigating stairs, furniture)
+- Throwing with precision
+- Well-developed eye-hand coordination
+- Remembering locations of objects
+- Noticing small details and changes in environment
+- Tracking fast-moving objects smoothly
+- Eye color relatively stable
+
+**Why it matters**
+
+Vision at this level supports all learning and exploration. Babies use vision to navigate independently, learn by observation, and interact with their world. Strong depth perception keeps them safe as they climb and explore. Hand-eye coordination enables fine motor development and tool use. Visual memory supports learning and routines. If vision concerns arise—crossed eyes, lack of visual engagement, unusual eye movements—evaluation is important. Most children should have a comprehensive eye exam between 6–12 months, especially if there's family history of eye problems.
+
+---
+
+### HEARING
+
+#### Following directions and pointing communication
+
+**About**
+
+Auditory development at 9–12 months includes following simple one-step directions, especially when paired with gestures. Babies pay attention to books and toys for 2+ minutes with auditory engagement. They answer questions nonverbally—shaking head for "no," pointing to desired objects. Babies point to objects, pictures, and family members when named. They understand many more words than they can say. Babbling continues to be rich and varied, and first true words typically emerge during this period ("mama," "dada" used meaningfully).
+
+**What to look for**
+- Following simple directions with gestures (9–12 months)
+- Paying attention to books/toys for 2+ minutes
+- Answering questions nonverbally (pointing, shaking head)
+- Pointing to objects, pictures, family members when named
+- Comprehending many words (receptive vocabulary growing)
+- First meaningful words emerging ("mama," "dada," "uh-oh")
+- Understanding "no" and pausing when heard
+- Responding to name consistently
+
+**Why it matters**
+
+The gap between receptive language (understanding) and expressive language (speaking) is widest now—babies understand far more than they can say. Following directions shows comprehension and cognitive development. Pointing is intentional communication and a strong language predictor. First words are a monumental milestone marking the transition from pre-linguistic to linguistic communication. If babies don't respond to their name, don't understand simple words, or don't attempt communication (gestures or sounds) by 12 months, evaluation is recommended. Early intervention for hearing or language concerns is most effective when started early.
 
 ---
 
@@ -2570,6 +3030,98 @@ By 18 months, toddlers understand the purpose of common objects: cups are for dr
 **Why it matters**
 
 Understanding object functions shows cognitive development: categorization, memory, and conceptual thinking. It's foundational for language (words represent categories), problem-solving (using tools), and daily functioning (self-care skills). This knowledge supports independence and learning.
+
+---
+
+### GROWTH
+
+#### Toddler proportions developing
+
+**About**
+
+Growth during months 12–18 continues but at a noticeably slower pace than infancy. By 15 months, boys average around 22 lb 11 oz and girls 21 lb 3 oz. By 18 months, boys typically weigh around 24 lb 1 oz and girls 22 lb 8 oz. The dramatic growth rate of the first year has slowed significantly—this is normal and healthy. Toddlers are developing more mature body proportions: longer legs, less prominent belly, more defined muscles from constant movement. Appetites may seem smaller or erratic as growth slows, which worries some parents but is developmentally appropriate.
+
+**What to look for**
+- By 15 months: Boys ~23 lbs, Girls ~21 lbs
+- By 18 months: Boys ~24 lbs, Girls ~22.5 lbs
+- Growth rate slowing significantly from first year
+- Body proportions changing—less "baby" appearance
+- Developing toddler physique with longer limbs
+- Appetite may fluctuate as growth slows
+- Individual variation in size remains normal
+
+**Why it matters**
+
+The slowing growth rate is healthy and expected—toddlers don't need the rapid growth of infancy. Energy goes toward development, learning, and constant physical activity rather than just growing. Healthcare providers track growth velocity (rate of change) more than absolute numbers—steady growth along a percentile curve is what matters. Erratic eating is common and normal; offering nutritious options and trusting appetite cues supports healthy eating patterns. Body proportion changes support new motor skills like walking, running, and climbing.
+
+---
+
+### TEETH
+
+#### First molars and canines erupting
+
+**About**
+
+During months 12–18, significant teething continues. First molars typically erupt around 13–19 months—these are larger, flat teeth in the back used for grinding food. Canines (pointed "eye teeth") begin appearing around 16–23 months. These teeth are often more uncomfortable than earlier teeth because they're larger and break through thicker gum tissue. Most toddlers have 12–16 teeth by 18 months. The variety of teeth allows more sophisticated chewing and food texture management.
+
+**What to look for**
+- First molars erupting (13–19 months), often more uncomfortable
+- Canines beginning (16–23 months)
+- Most have 12–16 teeth by 18 months
+- Increased teething discomfort with larger teeth
+- Greater ability to chew various foods
+- Regular brushing twice daily essential
+- First dental visit recommended by 12–18 months
+
+**Why it matters**
+
+Molars enable true grinding and chewing, allowing toddlers to manage adult food textures safely. Canines help tear food. The variety of teeth supports nutrition and oral-motor development. Dental hygiene is critical—cavities can form quickly once multiple teeth are present. First dental visits establish positive relationships with dental care and allow early problem detection. Understanding that molar teething is often more intense helps parents provide appropriate comfort. Some toddlers experience sleep disruption, appetite changes, or increased irritability during molar eruption.
+
+---
+
+### VISION
+
+#### Vision approaching adult clarity
+
+**About**
+
+Vision during months 12–18 continues refining and approaching adult levels. Toddlers recognize and point to pictures in books, showing visual memory and comprehension. They can identify familiar people and objects from photographs. Visual attention span increases—toddlers can sustain focus on books, activities, or observations. Hand-eye coordination supports fine motor tasks like stacking blocks, using utensils, and drawing. Color recognition may emerge during this period.
+
+**What to look for**
+- Recognizing people and objects in photographs
+- Pointing to pictures in books when named
+- Sustained visual attention to activities (5–10 minutes)
+- Accurate hand-eye coordination for fine motor tasks
+- Beginning color recognition (naming comes later)
+- Visual memory for locations and routines
+- Watching and learning from observation
+
+**Why it matters**
+
+Mature vision supports all learning and daily functioning. Visual memory helps toddlers learn routines and find desired objects. Picture recognition is a pre-literacy skill—understanding that two-dimensional images represent three-dimensional reality. Hand-eye coordination enables increasing independence in feeding, dressing, and play. Vision guides safe navigation as toddlers climb, run, and explore. Any persistent vision concerns warrant evaluation to ensure visual development is on track.
+
+---
+
+### HEARING
+
+#### Vocabulary expanding and following simple commands
+
+**About**
+
+Auditory and language development accelerates dramatically during months 12–18. Vocabulary expands from a few words to 20–50+ words by 18 months, though huge individual variation is normal. Toddlers follow simple one-step commands, especially with gestures: "Get your shoes," "Come here," "Give me the cup." They understand far more words than they can say (receptive vocabulary of 100–200+ words). Simple songs and rhymes are enjoyed and anticipated.
+
+**What to look for**
+- Following simple one-step commands (with gesture support)
+- Vocabulary expanding (3–50+ words by 18 months, huge variation normal)
+- Understanding far exceeds speaking ability
+- Recognizing names of familiar people, objects, body parts
+- Enjoying songs, rhymes, finger plays
+- Pointing to communicate wants and share interest
+- Attempting to imitate new words
+
+**Why it matters**
+
+This period is critical for language foundation. The vocabulary explosion that typically occurs around 18–24 months is set up by the word learning of this period. Following commands shows comprehension and cognitive development. The gap between receptive and expressive language is widest now, which can be frustrating for toddlers—they understand much more than they can communicate, leading to tantrums. Supporting language development through talking, reading, singing, and responding to communication attempts accelerates growth. If a toddler isn't using any words or following simple commands by 18 months, evaluation is recommended.
 
 ---
 
@@ -3539,6 +4091,99 @@ Multi-toy play shows cognitive complexity: holding multiple elements in mind, pl
 
 ---
 
+### GROWTH
+
+#### Continued steady growth with changing proportions
+
+**About**
+
+Growth during months 18–24 continues at the slowed toddler pace. By 20 months, boys average around 25 lbs and girls 23 lb 7 oz. By 24 months (2nd birthday), boys typically weigh around 27 lb 8 oz and girls 26 lb 7 oz. Height gain averages 4–5 inches per year during toddlerhood. Head circumference growth has slowed significantly as brain growth stabilizes. Body proportions continue changing—longer legs, more upright posture, decreasing pot belly. Appetite continues to be erratic as growth remains slower than infancy.
+
+**What to look for**
+- By 20 months: Boys ~25 lbs, Girls ~23.5 lbs
+- By 24 months: Boys ~27.5 lbs, Girls ~26.5 lbs
+- Height gain of 4–5 inches per year
+- Head circumference growth slowing
+- More proportionate body—longer legs, slimmer trunk
+- Continued appetite fluctuations (normal)
+- Individual growth patterns following consistent percentiles
+
+**Why it matters**
+
+Steady, consistent growth along a child's established percentile curve indicates healthy development. The slowed growth rate is appropriate for this age—energy goes toward constant activity, learning, and development. Changing body proportions support new motor skills. Healthcare providers monitor for concerning patterns: crossing percentiles dramatically, falling off growth curves, or poor weight-to-height ratios. Most variation is normal; consistent patterns matter most. Erratic eating is developmentally normal and shouldn't be forced—trust appetite cues and offer nutritious options.
+
+---
+
+### TEETH
+
+#### Second molars beginning; primary teeth completing
+
+**About**
+
+During months 18–24 and beyond, the final primary teeth emerge. Second molars typically begin appearing around 23–33 months—these are the large back teeth used for grinding food. Canines continue erupting through this period. By 24 months, most children have 16–20 teeth, and by age 2.5–3 years, all 20 primary teeth are usually present (10 upper, 10 lower). Second molar eruption can be particularly uncomfortable due to tooth size and location.
+
+**What to look for**
+- Second molars beginning (23–33 months), often most uncomfortable
+- Most have 16–20 teeth by 24 months
+- Complete set of 20 primary teeth by 2.5–3 years
+- Significant teething discomfort possible with second molars
+- Full chewing ability once molars are present
+- Brushing twice daily with fluoride toothpaste (rice-grain size)
+- Regular dental checkups recommended
+
+**Why it matters**
+
+Complete primary dentition allows full chewing capability, supporting nutrition and oral-motor development. Proper dental care prevents cavities, which can affect permanent teeth development and overall health. Primary teeth hold space for permanent teeth and support proper jaw development. Understanding that second molars are often the most uncomfortable helps parents provide appropriate comfort and medical care if needed. Establishing good dental habits now prevents problems later.
+
+---
+
+### VISION
+
+#### Eye-hand coordination and depth perception well developed
+
+**About**
+
+Vision at 18–24 months is essentially mature in terms of acuity and coordination. Eye-hand coordination and depth perception are well developed, allowing toddlers to manipulate small objects, complete puzzles, draw, and navigate complex environments safely. Vision can now focus on near and far objects quickly. Color recognition improves, and toddlers may begin correctly identifying colors. Visual memory is strong—children remember people, places, and objects from weeks or months prior.
+
+**What to look for**
+- Excellent eye-hand coordination for fine motor tasks
+- Well-developed depth perception (navigating stairs, jumping, climbing)
+- Quick focus changes from near to far
+- Color interest and beginning naming
+- Strong visual memory for familiar people and places
+- Completing visual tasks (puzzles, matching games)
+- Vision essentially mature (20/20 or close)
+
+**Why it matters**
+
+Mature vision supports all learning, play, safety, and independence. Eye-hand coordination enables fine motor skills critical for self-care and later writing. Depth perception keeps toddlers safe during active play. Visual memory supports learning, routines, and relationships. Most vision development is complete, though fine-tuning continues. Any persistent vision concerns (crossing, squinting, bumping into things, lack of eye contact) warrant professional evaluation. Early detection and treatment of vision problems yields best outcomes.
+
+---
+
+### HEARING
+
+#### Rapid language development and following multi-step instructions
+
+**About**
+
+Auditory and language development during months 18–24 can be explosive. Many toddlers experience a "vocabulary explosion" during this period, going from 50 words to 200+ words. Two-word combinations emerge ("More milk," "Daddy go," "Big truck"), showing grammar development. Toddlers can follow 2-step commands, understand simple concepts (big/small, in/out), and enjoy longer stories and songs. Comprehension far exceeds expression—toddlers understand complex sentences even when speaking in 2–3 word phrases.
+
+**What to look for**
+- Vocabulary explosion (50+ words by 24 months, some much more)
+- Two-word combinations emerging ("More juice," "Daddy work")
+- Following 2-step instructions
+- Understanding concepts: big/small, in/out, hot/cold
+- Half of speech understandable to strangers
+- Using action words, descriptors, names
+- Asking "What's that?" questions
+- Enjoying stories, songs, rhymes
+
+**Why it matters**
+
+This period is critical for language development. The vocabulary explosion sets up grammar, conversation, and literacy. Two-word combinations show emerging grammar—understanding that word order matters ("push car" vs "car push"). Following multi-step instructions shows working memory and comprehension. If a child isn't using 25+ words or any two-word combinations by 24 months, evaluation is recommended. Early language skills strongly predict literacy, academic success, and social competence. Rich language exposure (talking, reading, singing) accelerates development.
+
+---
+
 ## 24-36 MONTHS (2-3 YEARS)
 
 ### GROSS MOTOR SKILLS
@@ -4236,6 +4881,100 @@ Safety awareness and impulse control are critical for injury prevention. Underst
 
 ---
 
+### GROWTH
+
+#### Body proportions becoming more child-like
+
+**About**
+
+Growth during years 2–3 continues at the steady preschool pace. By 30 months, boys average around 29 lb 5 oz and girls 28 lb 2 oz. By 36 months (3rd birthday), boys typically weigh around 31 lb 12 oz and girls 30 lb 10 oz. Body proportions are shifting toward childhood appearance—longer legs, slimmer trunk, less toddler "belly." Height increases steadily. Appetite remains variable, which is normal and healthy. BMI (body mass index) becomes a useful measurement tool alongside height and weight.
+
+**What to look for**
+- By 30 months: Boys ~29 lbs, Girls ~28 lbs
+- By 36 months: Boys ~32 lbs, Girls ~31 lbs
+- Body proportions more child-like—longer, leaner
+- Height increasing steadily (averaging 2–3 inches per year)
+- Appetite continues to fluctuate
+- Energy levels high with constant activity
+- Individual growth patterns following established curves
+
+**Why it matters**
+
+Steady growth along established percentile curves indicates health. Growth velocity matters more than absolute size—consistent growth is key. Body proportion changes support increasingly sophisticated motor skills—running, jumping, climbing, balancing. Variable appetites are normal; children are good at self-regulating intake over several days. Forcing food can create unhealthy relationships with eating. BMI helps assess whether height and weight are proportionate. Healthcare providers monitor growth to ensure healthy development.
+
+---
+
+### TEETH
+
+#### Complete primary dentition established
+
+**About**
+
+By age 2.5–3 years, all 20 primary teeth are typically present: 10 upper (4 incisors, 2 canines, 4 molars) and 10 lower (same distribution). Second molars complete the set, usually erupting by 23–33 months. These teeth will remain (with normal wear) until age 6–12, when they begin falling out and are replaced by permanent teeth. Proper care prevents decay and ensures healthy development of permanent teeth beneath.
+
+**What to look for**
+- Complete set of 20 primary teeth by age 3 (10 upper, 10 lower)
+- Second molars completing (23–33 months)
+- All teeth types present: incisors, canines, molars
+- Regular brushing twice daily essential
+- Regular dental checkups (every 6 months recommended)
+- May begin to see spacing between teeth (normal—jaw growing)
+- No decay or significant dental issues
+
+**Why it matters**
+
+Complete primary dentition allows full chewing function and supports nutrition. Primary teeth are critical: they hold space for permanent teeth, guide permanent teeth eruption, support jaw development and facial structure, and enable clear speech development. Decay in primary teeth can damage developing permanent teeth and cause pain, infection, and eating difficulties. Good dental care now establishes lifelong habits. Spacing between teeth is normal as jaws grow—it provides room for larger permanent teeth.
+
+---
+
+### VISION
+
+#### Vision fully developed to adult level
+
+**About**
+
+By age 3, vision has reached adult functional levels. Visual acuity is typically 20/20 or close. Children can identify and match colors reliably. Visual memory is well-established—children remember people, places, and events from months before. Eye-hand coordination supports detailed tasks like drawing, cutting, and manipulating small objects. Depth perception and spatial awareness are mature.
+
+**What to look for**
+- Visual acuity approaching 20/20
+- Identifying and matching colors correctly
+- Strong visual memory for people, places, events
+- Excellent eye-hand coordination for fine motor tasks
+- Depth perception supporting safe navigation
+- Sustained visual attention (10+ minutes)
+- Recognizing letters and shapes
+- No persistent eye issues (crossing, turning, squinting)
+
+**Why it matters**
+
+Mature vision supports all learning, play, and daily functioning. Visual skills are foundational for school readiness—recognizing letters, numbers, colors, and shapes. Eye-hand coordination enables writing and detailed manipulative tasks. Visual memory supports learning and following routines. Most children should have comprehensive eye exams before starting school (age 3–5) to identify and correct any issues. Early detection of vision problems allows intervention before they impact learning.
+
+---
+
+### HEARING
+
+#### Clear speech and following complex instructions
+
+**About**
+
+By age 3, auditory and language development is sophisticated. Speech is clear enough that strangers understand most of what children say (75–90%). Vocabulary is large—300–1000+ words. Children use 3–4+ word sentences with increasingly correct grammar. They follow 2–3 part instructions when focused: "Put on your shoes, get your coat, and wait by the door." They understand most of what's said in everyday conversation, including abstract concepts.
+
+**What to look for**
+- Clear speech strangers understand most of the time
+- Vocabulary of 300–1000+ words
+- Using 3–4+ word sentences
+- Following 2–3 part instructions when focused
+- Understanding most conversation
+- Asking and answering questions
+- Using sounds b, p, n, m, d, t, w, h clearly
+- Some later sounds (r, th, l, s blends) still developing
+
+**Why it matters**
+
+Language at this level supports school readiness, social interaction, and learning. Clear speech allows effective communication with teachers and peers. Large vocabulary and good comprehension enable learning from instruction. Following multi-step directions is essential for classroom success. If speech is significantly unclear, vocabulary is limited (<200 words), or child doesn't follow simple instructions by age 3, evaluation is strongly recommended. Early intervention for speech and language issues is highly effective.
+
+---
+
 ## 36-48 MONTHS (3-4 YEARS)
 
 ### GROSS MOTOR SKILLS
@@ -4783,6 +5522,100 @@ By 4 years, human figure drawings include 3–6 body parts: head, body, arms, le
 **Why it matters**
 
 Human figure drawing shows body awareness, fine motor control, and cognitive development. It's used to assess cognitive maturity and school readiness. The developmental progression (head → head plus body → limbs → details → proportions) reflects cognitive growth. Drawing supports creativity, fine motor skills, and self-expression.
+
+---
+
+### GROWTH
+
+#### Adult proportions beginning; BMI important
+
+**About**
+
+Growth during ages 3–4 years continues steadily. By 48 months (4th birthday), boys average around 36 lbs and girls 35 lbs. Height is approximately 40–41 inches. Body continues to lengthen and become slimmer—adult-like proportions are emerging. The pot belly of toddlerhood is gone. Growth rate remains slow and steady—about 4–5 pounds and 2–3 inches per year. BMI is increasingly important for assessing whether height and weight are proportionate. Individual variation remains wide and normal.
+
+**What to look for**
+- By 48 months: Boys ~36 lbs, Girls ~35 lbs
+- Height approximately 40–41 inches
+- Body proportions increasingly adult-like
+- Leaner, more muscular appearance
+- Growth rate steady: 4–5 lbs/year, 2–3 inches/year
+- Appetite variable but generally good
+- BMI used to assess proportionality
+
+**Why it matters**
+
+Consistent growth along established percentile curves indicates health. Growth patterns established in early childhood often predict patterns through adolescence. BMI helps identify children who may be underweight or overweight relative to height. Body proportion changes support sophisticated physical activities. Healthcare providers monitor growth trends more than single measurements. Extreme variations (crossing percentiles dramatically, very low or high BMI) warrant evaluation. Most variation is normal; context and trends matter most.
+
+---
+
+### TEETH
+
+#### All primary teeth present; jaw and facial growth
+
+**About**
+
+By age 4, all 20 primary teeth should be present and stable. The jaw and facial bones are growing, which creates spaces between teeth—this is normal and healthy, providing room for future larger permanent teeth. Around age 6, the first permanent molars will erupt behind the primary teeth, and primary teeth will begin loosening and falling out (typically starting with the central incisors). Good dental care during the primary teeth years prevents problems and establishes healthy habits.
+
+**What to look for**
+- All 20 primary teeth present and stable
+- Spacing between teeth normal (jaw growing)
+- Regular brushing twice daily with fluoride toothpaste
+- Regular dental checkups (every 6 months)
+- No decay, pain, or significant dental issues
+- Understanding of dental hygiene importance
+- Looking ahead: first permanent molars around age 6
+
+**Why it matters**
+
+Primary teeth remain important even as permanent teeth prepare to emerge. They maintain space for permanent teeth, support jaw development, enable proper chewing and nutrition, and affect speech clarity. Decay in primary teeth can damage developing permanent teeth beneath. Establishing good dental hygiene now prevents problems later. Understanding that primary teeth will eventually fall out helps children prepare for this normal transition. Spacing between teeth is healthy—it's a sign jaws are growing properly to accommodate larger adult teeth.
+
+---
+
+### VISION
+
+#### Visual acuity approaching 20/20; pre-reading skills developing
+
+**About**
+
+By age 4, visual acuity typically approaches 20/20 adult levels. Children can recognize many letters and numbers. Eye tracking and focus are fully mature, supporting detailed visual tasks. Color recognition is solid. Visual perception skills support pre-reading: recognizing that letters are different from pictures, understanding left-to-right orientation, and noticing details that distinguish similar letters (b vs. d).
+
+**What to look for**
+- Visual acuity approaching 20/20
+- Recognizing letters and numbers
+- Solid color recognition (all basic colors)
+- Eye tracking and focus fully mature
+- Visual perception supporting pre-reading
+- Sustained visual attention (15+ minutes)
+- Eye-hand coordination excellent
+- **Vision screening recommended before school**
+
+**Why it matters**
+
+Mature vision is essential for school readiness. Visual skills support reading (recognizing letters, tracking text), writing (eye-hand coordination), and math (recognizing numbers and symbols). Visual perception—the ability to interpret what's seen—is critical for literacy. All children should have comprehensive eye exams before starting kindergarten to identify and correct issues. Even minor vision problems can significantly impact learning. Early detection and treatment (glasses, vision therapy) ensure children start school with optimal vision.
+
+---
+
+### HEARING
+
+#### Hearing fully mature; complex language comprehension
+
+**About**
+
+By age 4, hearing is fully mature and functions at adult levels. Children understand virtually all speech in various environments, though very noisy settings can still be challenging (normal). They follow multi-step complex instructions reliably. Speech is 90–100% clear to strangers. Vocabulary is large (1500+ words), and grammar is largely correct. Children understand abstract concepts, time concepts, and complex questions.
+
+**What to look for**
+- Hearing fully mature, adult-level function
+- Understanding all speech in typical environments
+- Following multi-step complex instructions
+- Speech 90–100% clear to strangers
+- Vocabulary 1500+ words
+- Using complex sentences with correct grammar
+- May struggle in very noisy environments (normal)
+- **Hearing screening recommended before school**
+
+**Why it matters**
+
+Mature hearing supports school readiness, social interaction, and safety. Clear speech and strong language skills enable classroom participation and peer friendships. Following complex directions is essential for school success. All children should have hearing screenings before kindergarten to identify any issues. Even mild hearing loss can significantly impact learning, speech, and social development. Early detection and intervention (hearing aids, speech therapy, classroom accommodations) ensure optimal outcomes.
 
 ---
 
@@ -5576,7 +6409,182 @@ Letter knowledge is critical for reading. Children who know most letters by kind
 
 ---
 
+### GROWTH
+
+#### Kindergarten-ready physique; individual variation wide
+
+**About**
+
+Growth during ages 4–5 years continues at the slow, steady preschool/early childhood pace. By 60 months (5th birthday), boys average around 40 lbs and girls 39 lbs. Height is approximately 43–44 inches. Adult proportions are well-established—long legs, defined muscles, upright posture. Growth rate remains consistent: about 4–5 pounds and 2–3 inches per year. BMI is an important measurement for assessing healthy weight-to-height ratios. Wide individual variation is normal—some 5-year-olds are much larger or smaller than average, and both can be healthy.
+
+**What to look for**
+- By 60 months: Boys ~40 lbs, Girls ~39 lbs
+- Height approximately 43–44 inches
+- Adult-like body proportions well-established
+- Growth rate steady: 4–5 lbs/year, 2–3 inches/year
+- BMI indicates healthy weight-to-height ratio
+- Individual variation wide and normal
+- Physical capabilities supporting active play
+
+**Why it matters**
+
+Steady growth along established percentile curves through early childhood predicts healthy patterns ahead. Physical development supports school readiness—strength and coordination for PE, recess, and active learning. BMI helps identify children outside healthy ranges who may benefit from nutrition or activity support. Healthcare providers look at overall patterns, not single measurements. Most 5-year-olds are ready for the physical demands of kindergarten. Continued active play, good nutrition, and adequate sleep support healthy growth.
+
+---
+
+### TEETH
+
+#### Primary teeth stable; permanent teeth preparing to emerge
+
+**About**
+
+By age 5, all 20 primary teeth should be present, stable, and healthy. Spacing between teeth is normal and desirable—jaws are growing to accommodate future permanent teeth. Around age 6 (sometimes 5, sometimes 7—normal variation), the first permanent molars erupt behind the primary teeth, and the first primary teeth (usually lower central incisors) begin loosening and falling out. Primary teeth will continue falling out through ages 6–12 as permanent teeth emerge. Excellent dental care during age 5 sets up healthy permanent teeth.
+
+**What to look for**
+- All 20 primary teeth present and healthy
+- Spacing between teeth (normal jaw growth)
+- Regular brushing twice daily with pea-sized fluoride toothpaste
+- Regular dental checkups every 6 months
+- No decay, pain, or dental problems
+- Looking ahead: first permanent molars around age 6
+- Looking ahead: first loose teeth around age 6
+- Understanding dental health importance
+
+**Why it matters**
+
+Primary teeth remain critical until permanent teeth are ready. They hold space, guide permanent tooth eruption, support proper jaw development and facial structure, enable nutrition through proper chewing, and support clear speech. Decay or premature loss of primary teeth can cause permanent teeth problems. Children who lose primary teeth too early (from decay or injury) may need space maintainers. Excellent dental care now prevents future problems. Understanding that teeth will soon start falling out (normal and exciting!) prepares children for this milestone.
+
+---
+
+### VISION
+
+#### Vision fully mature; school readiness established
+
+**About**
+
+By age 5, vision is typically fully mature with 20/20 acuity (or very close). All visual skills are adult-level: tracking, focusing near and far, depth perception, color recognition, visual memory, and eye-hand coordination. Visual perception skills support reading: recognizing letters, tracking text left-to-right, distinguishing similar letters (b/d, p/q), and visual memory for sight words. Eye alignment and coordination are stable.
+
+**What to look for**
+- Visual acuity typically 20/20
+- Recognizing all letters and many numbers
+- Excellent visual perception for pre-reading/reading
+- Eye-hand coordination supporting writing
+- Tracking fast-moving objects
+- Excellent depth perception
+- Sustained visual attention (20+ minutes)
+- **Vision screening essential before kindergarten**
+
+**Why it matters**
+
+Mature vision is critical for school success. Reading, writing, math, and classroom learning all depend on excellent vision. Even minor vision problems can significantly impact learning and behavior. ALL children should have comprehensive eye exams before kindergarten (age 3–5). Problems detected early (nearsightedness, farsightedness, astigmatism, lazy eye, eye muscle issues) can be corrected with glasses, patching, or vision therapy. Starting school with optimal vision ensures children can learn effectively from day one.
+
+---
+
+### HEARING
+
+#### Hearing fully mature; advanced language supporting school readiness
+
+**About**
+
+By age 5, hearing is fully mature and functions at adult levels in all environments. Language is sophisticated: vocabulary of 2000–2500+ words, complex grammar, clear speech (100% understandable), advanced comprehension, and conversational competence. Children understand complex instructions, abstract concepts, time concepts, and can participate in extended conversations. They're ready for the auditory demands of classroom learning.
+
+**What to look for**
+- Hearing fully mature, adult-level function
+- Vocabulary 2000–2500+ words
+- Speech 100% clear and understandable
+- Complex grammar and sentence structure
+- Following multi-step, complex instructions
+- Understanding abstract and time concepts
+- Conversational competence with peers and adults
+- **Hearing screening essential before kindergarten**
+
+**Why it matters**
+
+Excellent hearing and language are foundational for school success. Classroom learning depends on hearing teachers, following instructions, participating in discussions, and interacting with peers. ALL children should have hearing screenings before kindergarten. Even mild hearing loss significantly impacts learning, speech clarity, and social development. Early detection allows intervention (hearing aids, speech therapy, classroom accommodations, preferential seating) that ensures children can access learning fully. Language skills at kindergarten entry strongly predict reading achievement and academic success throughout school.
+
+---
+
 ## SCREENING & INTERVENTION GUIDELINES
+
+### General Developmental Screening
+
+**About**
+
+Developmental screening uses standardized tools to identify children who may need further evaluation or early intervention. The American Academy of Pediatrics (AAP) recommends routine developmental screening at 9, 18, and 30 months, with additional screening anytime parents or providers have concerns. Common screening tools include the Ages and Stages Questionnaire (ASQ), Parents' Evaluation of Developmental Status (PEDS), and Survey of Wellbeing of Young Children (SWYC).
+
+**What to look for**
+- Screenings at 9, 18, and 30 months minimum
+- Standardized, validated screening tools (not informal checklists)
+- Screening all developmental domains: motor, language, cognitive, social-emotional
+- Parent concerns taken seriously and prompting screening
+- Referral for evaluation if screening indicates concerns
+- Early intervention referral for children birth-3 with delays
+
+**Why it matters**
+
+Early detection of developmental delays allows early intervention, which is most effective during the critical early years when the brain is most plastic. Children who receive early intervention services show better outcomes in language, cognition, motor skills, and social-emotional development. Screening catches concerns early, before they widen into significant delays. Federal law (IDEA Part C) guarantees early intervention services for eligible children birth to age 3, at no cost to families.
+
+---
+
+### Autism Screening
+
+**About**
+
+Autism spectrum disorder (ASD) screening is recommended at 18 and 24 months, or any time concerns arise. The Modified Checklist for Autism in Toddlers, Revised (M-CHAT-R) is a commonly used tool. Red flags include lack of response to name, limited eye contact, lack of joint attention (pointing to show interest), delayed or absent speech, repetitive behaviors, and loss of previously acquired skills.
+
+**What to look for**
+- Formal autism screening at 18 and 24 months
+- Any concerns prompting immediate screening (don't wait)
+- Red flags: no response to name, limited eye contact, no pointing/gestures, speech delays, repetitive behaviors
+- Regression (losing previously mastered skills) especially concerning
+- Immediate referral for comprehensive evaluation if screening positive
+- Early intervention critical for best outcomes
+
+**Why it matters**
+
+Early autism diagnosis (possible by age 2) and early intensive intervention significantly improve outcomes. Children who receive early intervention show better language development, social skills, cognitive abilities, and adaptive functioning. The earlier intervention starts, the better. Don't "wait and see" if concerns arise—immediate evaluation is recommended. ASD is diagnosed through comprehensive evaluation by specialists (developmental pediatricians, psychologists, neurologists).
+
+---
+
+### Vision Screening
+
+**About**
+
+Vision screening should occur before starting school (ages 3–5), with first comprehensive eye exams recommended at 6–12 months, especially for children with family history of eye problems. Screenings check visual acuity, eye alignment, eye movement, and overall eye health. Common issues include amblyopia (lazy eye), strabismus (eye misalignment), refractive errors (nearsighted, farsighted, astigmatism), and color vision deficiency.
+
+**What to look for**
+- First comprehensive eye exam at 6–12 months (AAP recommendation)
+- Vision screening before kindergarten (essential)
+- Professional eye exams if family history of eye problems
+- Red flags: crossed eyes, eye turning, squinting, sitting very close to TV, difficulty with visual tasks
+- Early treatment for amblyopia most effective before age 7
+- Glasses, patching, or vision therapy as needed
+
+**Why it matters**
+
+Vision problems are common but often missed without formal screening. About 1 in 20 preschoolers have vision problems that could affect learning. Many vision issues (especially lazy eye) must be treated early for best results—after age 7-9, treatment is less effective. Undetected vision problems cause unnecessary struggles in school and can be mistaken for learning disabilities or behavior problems. Early detection and treatment ensure children start school able to see clearly and learn effectively.
+
+---
+
+### Hearing Screening
+
+**About**
+
+All babies should have newborn hearing screens before hospital discharge. Additional hearing screening is recommended before starting school. About 1-3 in 1,000 babies are born with hearing loss, and others develop hearing loss later from ear infections, illnesses, or noise exposure. Even mild hearing loss impacts speech and language development significantly.
+
+**What to look for**
+- Newborn hearing screen for all babies (mandated in most states)
+- Re-screening if newborn screen not passed or concerns arise
+- Hearing screening before kindergarten
+- Red flags: not responding to sounds, unclear speech, asking "what?" frequently, difficulty following instructions
+- Immediate evaluation if concerns
+- Hearing aids, cochlear implants, or other interventions as needed
+
+**Why it matters**
+
+Early hearing loss detection allows immediate intervention, preventing speech and language delays. Babies identified with hearing loss and given hearing aids or cochlear implants by 6 months develop language on schedule. Delays in detection cause cascading delays in speech, language, reading, and social development. Even temporary hearing loss from chronic ear infections can impact development. Early detection, treatment, and intervention (hearing devices, speech therapy, educational support) ensure children develop to their full potential.
+
+---
 
 | Type | Timing | Notes |
 |------|--------|-------|
