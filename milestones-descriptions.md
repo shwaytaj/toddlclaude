@@ -1399,7 +1399,7 @@ Why it matters:
 - This is typically period of very robust growth
 - Monitoring continues to ensure trajectory remains appropriate
 
-#### Gains 5-7 oz/week, length +1 inch/month
+#### Gains 5-7 oz/week, Length +1 inch/month
 
 About
 
@@ -1565,7 +1565,7 @@ Why it matters:
 
 ### HEARING - Development
 
-#### Vocalizes pleasure/displeasure (laughs, giggles, coos, cries)
+#### Vocalizes pleasure/displeasure (laughs, Giggles, Coos, Cries)
 
 About
 
@@ -2588,7 +2588,7 @@ Why it matters:
 - Primary teeth important for eating, speech, and holding space for permanent teeth
 - Delayed eruption (beyond 12-15 months) may warrant dental evaluation
 
-#### Teething symptoms: drooling, chewing, sore gums
+#### Teething symptoms: drooling, Chewing, Sore gums
 
 About
 
@@ -2686,7 +2686,7 @@ Why it matters:
 - Develops throughout childhood, becoming more refined
 - Impaired depth perception may indicate vision problems requiring evaluation
 
-#### Can track moving objects, visual clarity improving
+#### Can track moving objects, Visual clarity improving
 
 About
 
@@ -3423,7 +3423,7 @@ Why it matters:
 - By 9-12 months, eye color is usually close to permanent
 - Heterochromia (different colored eyes) or very unusual colors may warrant exam
 
-#### 9M: Vision sharpens, depth perception well-developed
+#### 9M: Vision sharpens, Depth perception well-developed
 
 About
 
@@ -3449,7 +3449,7 @@ Why it matters:
 
 ### HEARING - Development
 
-#### 7M: Babbles, tries to communicate with gestures
+#### 7M: Babbles, Tries to communicate with gestures
 
 About
 
@@ -4084,7 +4084,7 @@ Why it matters:
 
 ### VISION - Development
 
-#### 12M: Sees across room, recognizes people from distance
+#### 12M: Sees across room, Recognizes people from distance
 
 About
 
@@ -4108,7 +4108,7 @@ Why it matters:
 - Distance vision supports cognitive development through observation
 - Vision functioning well for toddler's expanding world
 
-#### 12M: Judges distances well, throws with precision
+#### 12M: Judges distances well, Throws with precision
 
 About
 
@@ -4886,9 +4886,786 @@ Why it matters:
 - Fewer than 3-5 words by 18 months may warrant monitoring
 - No words by 18-24 months warrants evaluation
 
+### HEARING - Development
+
+#### Follows simple one-step commands
+
+About
+
+Between 12-18 months, toddlers develop reliable ability to follow simple verbal directions without needing accompanying gestures, though context and familiar routines still provide helpful support. According to ASHA language milestones, one-step commands at this age include familiar requests like "get your shoes," "give me the ball," "come here," "sit down," and "close the door." This demonstrates receptive vocabulary growing significantly, comprehension of action words (verbs), and ability to process verbal instruction, maintain it briefly in working memory, and execute the requested action. Success is greatest with familiar objects, routines, and environments, with generalization to novel contexts developing gradually.
+
+What to look for:
+- Following 5-10+ different simple commands without gestural support
+- Success with novel objects when asked (not just highly familiar routines)
+- Responding after brief processing time (few seconds delay normal)
+- Following commands across different contexts and from different speakers
+- Generalization from familiar to less familiar requests
+- May need occasional repetition but shows clear comprehension
+- Following commands even when engaged in other activities
+
+Why it matters:
+- Indicates receptive language vocabulary expanding significantly (50-100+ words understood)
+- Demonstrates ability to process verbal instruction and execute action sequences
+- Supports cooperation, safety, and participation in daily routines
+- Shows cognitive ability to understand increasingly abstract verbal concepts
+- Foundation for following multi-step directions in coming months
+- Significant difficulty with simple commands by 18 months warrants language evaluation
+
+---
+
+#### Understanding exceeds speaking ability
+
+About
+
+Throughout 12-18 months and beyond, toddlers' receptive language (what they understand) significantly exceeds expressive language (what they can say). According to language acquisition research, this gap is typical and expected—receptive vocabulary may include 50-150+ words while expressive vocabulary ranges from 5-50 words during this period. Toddlers demonstrate understanding through following directions, pointing to named objects, appropriate responses to questions, and nonverbal communication. Understanding includes object names, people's names, action words, body parts, and familiar routines. This receptive-expressive gap narrows somewhat over time but receptive language continues to lead.
+
+What to look for:
+- Responding appropriately to many more words than child can say
+- Following increasingly complex directions despite limited speech
+- Pointing to many objects when named even if can't name them
+- Understanding questions and requests about unseen objects or future events
+- Demonstrating knowledge through actions rather than words
+- Showing comprehension of concepts like "big/small," "in/out," "more/all done"
+- Growing receptive vocabulary evident through expanding appropriate responses
+
+Why it matters:
+- Normal pattern of language development—comprehension develops first
+- Indicates language processing and learning occurring even when expressive language is limited
+- Guides parents to talk richly despite child's limited verbal responses
+- Helps identify true language delays vs. normal expressive delays when receptive is strong
+- Shows cognitive and linguistic development on track despite limited talking
+- Supports patience with expressive language emergence knowing comprehension is strong
+
+---
+
+#### Vocabulary expanding rapidly
+
+About
+
+Between 12-18 months, toddlers' receptive vocabulary (words understood) grows rapidly from approximately 50 words at 12 months to 150-200+ words by 18 months according to language development research. This rapid growth is driven by increasing cognitive abilities including categorization, symbolic thinking, and explicit teaching/labeling by caregivers. Vocabulary includes expanding categories: more object names, people's names, action words (verbs), descriptors (big, hot), body parts, and routine words (more, all done). This receptive vocabulary growth provides the foundation for the "word explosion" in expressive language that typically occurs around 18-24 months. Words are learned through repeated exposure in meaningful contexts.
+
+What to look for:
+- Noticeably increasing number of words child responds to or comprehends
+- Pointing to many objects, pictures, or people when named
+- Following increasingly varied directions indicating word knowledge
+- Showing understanding of action words (verbs) like "eat," "throw," "give"
+- Responding to descriptive words like "hot," "big," "wet"
+- Understanding words across different contexts (generalizing word meanings)
+- Learning new words relatively quickly after several exposures (fast mapping emerging)
+
+Why it matters:
+- Indicates healthy language development and learning capacity
+- Provides foundation for upcoming expressive vocabulary explosion
+- Supports cognitive development through expanding conceptual knowledge
+- Enables more sophisticated communication and participation in routines
+- Strong predictor of later language and literacy skills
+- Slow vocabulary growth (fewer than 50 words understood by 18 months) may warrant evaluation
+
+---
+
+### TEETH - Eruption
+
+#### 13M: First molars erupt
+
+About
+
+Around 13 months (typically between 12-16 months), the first primary molars begin erupting, usually starting with lower first molars followed by upper first molars. According to pediatric dentistry guidelines, these are typically the fifth and sixth teeth to appear (after central and lateral incisors) and are large, flat teeth designed for chewing and grinding food. First molars often cause more discomfort than incisors due to their larger size and broader eruption surface. Once erupted, these molars significantly increase the child's ability to chew varied textures. Eruption timing varies widely—up to six months earlier or later than average is still considered within normal range.
+
+What to look for:
+- Increased fussiness, drooling, or chewing behavior around 12-16 months
+- Visible swelling or redness on gums toward back of mouth
+- Disrupted sleep or eating patterns during eruption
+- White spots appearing on back gums as teeth break through
+- Child chewing preferentially on back gums or avoiding certain foods
+- Relief from chewing on teething toys or cold foods
+- Four molars total (one in each quadrant) erupting over several weeks/months
+
+Why it matters:
+- Significantly expands chewing ability and food texture tolerance
+- Normal developmental progression in primary tooth eruption sequence
+- May cause more pronounced discomfort than earlier teeth due to size
+- Indicates appropriate dental development and jaw growth
+- Molars are critical for proper chewing and nutrition
+- Early dental visit recommended by age 1 to establish oral health care and assess development
+
+---
+
+#### 16M: Canines continue
+
+About
+
+Around 16 months (typically between 16-20 months), the canine teeth (pointed teeth between incisors and molars) erupt, usually starting with upper canines followed by lower canines. According to dental development norms, canines typically emerge after first molars despite being positioned between front teeth and molars. These pointed teeth are designed for tearing food and complete more of the chewing surface area. Canine eruption occurs during an age when toddlers are expanding their diet significantly, making these functional teeth important for handling meats, fruits, and other foods requiring tearing. Four canines total (one in each quadrant) will erupt, often over several weeks or months.
+
+What to look for:
+- Pointed teeth emerging on sides of smile between incisors and molars
+- Four canines (one per quadrant) erupting during 16-20+ month period
+- Possible increased teething symptoms: drooling, chewing, fussiness
+- May prefer softer foods temporarily during active eruption
+- Visible gum swelling where teeth are emerging
+- Complete eruption of canines may take several weeks per tooth
+- Expanding ability to handle different food textures
+
+Why it matters:
+- Completes more of primary dentition for functional chewing
+- Normal part of tooth eruption sequence
+- Enables better handling of varied food textures requiring tearing
+- Indicates appropriate dental and jaw development
+- With first molars and canines, toddler has most teeth needed for varied diet
+- Regular dental visits monitor eruption and oral health
+
+---
+
+### VISION - Development
+
+#### Recognizes/points to pictures in books
+
+About
+
+Between 12-18 months, toddlers develop the ability to recognize familiar objects, animals, and people in pictures and point to them when asked ("where's the dog?") or spontaneously. According to cognitive and visual development research, picture recognition requires understanding that two-dimensional images represent three-dimensional objects—an early form of symbolic thinking. Toddlers at this stage recognize realistic photographs and clear illustrations more easily than abstract or stylized images. This skill integrates visual perception, visual memory, categorization, receptive language, and the motor skill of pointing. Picture recognition is foundational for literacy, as reading requires understanding that symbols represent meaning.
+
+What to look for:
+- Pointing to familiar objects in books when asked "where is [object]?"
+- Spontaneously pointing to and labeling (or vocalizing about) pictures
+- Recognizing same object across different illustrations or photographs
+- Showing interest in picture books and sustained attention to images
+- Making connections between pictures and real objects (e.g., pointing to dog in book then real dog)
+- Turning pages to find particular pictures
+- Expanding number of images recognized from few to many over this period
+
+Why it matters:
+- Demonstrates symbolic thinking—understanding representations of reality
+- Foundation for literacy as reading requires interpreting visual symbols
+- Supports vocabulary development through picture-word associations
+- Indicates visual perception, memory, and categorization developing appropriately
+- Encourages book engagement and early literacy experiences
+- Strengthens caregiver-child interaction during shared book reading
+
+---
+
+#### Vision approaching adult clarity
+
+About
+
+By 12-18 months, toddlers' visual acuity approaches adult levels, typically 20/40 to 20/30, with continued refinement toward 20/20 occurring through early childhood. According to pediatric ophthalmology research, this represents substantial maturation of the retina, particularly the fovea (central retina), complete myelination of the optic nerve, and sophisticated visual cortex processing. While some fine-tuning continues until age 5-6, vision at 12-18 months is functionally mature for most daily activities. Toddlers can see fine details, discriminate small differences, recognize faces and objects clearly at distance, and process complex visual scenes. This visual clarity supports learning, mobility, and social interaction.
+
+What to look for:
+- Noticing small objects, details, or features easily
+- Recognizing familiar people at significant distances
+- Interest in detailed pictures, small parts of toys, or tiny objects
+- Accurate reaching and manipulation of small objects
+- No apparent squinting, head tilting, or eye strain during visual activities
+- Successful visual discrimination between similar objects or pictures
+- Age-appropriate participation in visual activities (puzzles, picture books)
+
+Why it matters:
+- Mature vision supports all areas of learning and development
+- Enables fine motor skill development through clear visual guidance
+- Critical for social interaction through facial recognition and expression reading
+- Supports spatial navigation and safety in environment
+- Foundation for later detailed visual tasks including reading and writing
+- Persistent vision problems at this age require evaluation and possible correction for optimal development
+
+---
+
+#### Visual memory developing
+
+About
+
+Visual memory—the ability to remember and recall visual information—develops significantly during 12-18 months as the hippocampus and visual cortex mature. According to developmental cognitive research, toddlers at this stage can remember people, objects, places, and events seen hours or days earlier and demonstrate this memory through recognition behaviors, search behaviors, and emerging ability to recall absent objects or people. Visual memory extends beyond simple object permanence to include spatial memory (remembering locations), sequential memory (remembering order), and associative memory (linking visual information with other sensory or emotional experiences). This supports navigation, learning, and social relationships.
+
+What to look for:
+- Recognizing places visited previously (even after weeks)
+- Remembering where objects are typically stored and searching there
+- Showing recognition of people not seen recently
+- Recalling and searching for hidden objects in correct locations
+- Remembering associations (coat means going outside, high chair means eating)
+- Visual attention to pictures of familiar people or places
+- Demonstrating memory through play (recreating observed activities)
+
+Why it matters:
+- Foundation for learning across all domains
+- Supports navigation and spatial understanding of environments
+- Critical for social relationships through person recognition and recall
+- Enables learning from past experiences and applying to new situations
+- Foundation for more complex memory including autobiographical memory
+- Supports language development as words link to remembered visual referents
+- Significant memory concerns warrant developmental evaluation
+
+---
+
 ### DEVELOPMENTAL - Social & Emotional
 
-(Continuing with all remaining social-emotional milestones for 12-18M, then proceeding to 18-24M, 24-36M, 36-48M, and 48-60M with all categories...)
+#### 14M: Parallel play
+
+About
+
+Parallel play emerges around 12-18 months as toddlers begin playing near other children while engaging in their own activities without direct interaction. According to child development research, this represents an important stage in social development where children are aware of peers and may watch or imitate them, but don't yet engage in cooperative play. Toddlers may sit side-by-side playing with similar toys, occasionally glancing at each other or mimicking actions. This is a normal and healthy developmental stage that precedes associative and cooperative play, which emerge later in the preschool years.
+
+What to look for:
+- Playing near other children without directly interacting
+- Engaging in own activity while aware of peers nearby
+- Occasionally watching or glancing at other children
+- May imitate actions of nearby children
+- Playing with similar toys as peers without sharing or cooperating
+- Comfortable in presence of other children
+- Beginning awareness of others in play space
+
+Why it matters:
+- Normal stage of social development in early toddlerhood
+- Foundation for later cooperative and interactive play
+- Shows emerging peer awareness and interest
+- Helps toddlers become comfortable with other children
+- Precursor to more complex social interactions
+- Indicates healthy social-emotional development
+- Provides opportunities for observational learning from peers
+
+---
+
+#### 14M: Frightened by loud noises
+
+About
+
+Heightened sensitivity to loud or sudden noises is common and developmentally normal around 12-18 months. According to developmental psychology, toddlers at this age are developing more sophisticated awareness of their environment while still lacking full understanding of cause and effect. Loud noises like vacuums, blenders, hand dryers, or sirens may trigger startle responses, crying, or seeking comfort from caregivers. This sensitivity reflects normal neurological and emotional development, not a problem. Most children gradually become less reactive to common loud sounds with repeated exposure and caregiver reassurance.
+
+What to look for:
+- Startling or showing distress at loud sudden noises
+- Crying or seeking comfort when frightened by sounds
+- Covering ears during loud noises
+- Anxiety before anticipated loud sounds (vacuum starting up)
+- Looking to caregiver for reassurance
+- May avoid or protest situations with loud sounds
+- Gradually becoming more comfortable with repeated exposure
+
+Why it matters:
+- Normal part of sensory and emotional development
+- Shows awareness of environment and potential threats
+- Indicates healthy attachment when seeking caregiver comfort
+- Not indicative of hearing problems (unless excessive)
+- Provides opportunity for caregiver to model coping strategies
+- Most children gradually desensitize with gentle exposure
+- Helps develop emotional regulation and coping skills
+
+---
+
+#### 14M: Wants attention/praise
+
+About
+
+Seeking adult attention and positive reinforcement becomes prominent around 12-18 months as toddlers develop self-awareness and desire for social connection. According to developmental psychology, toddlers actively seek eye contact, smiles, clapping, and verbal praise after accomplishments like stacking blocks, taking steps, or attempting new skills. This attention-seeking is healthy and appropriate, driving motivation to learn new skills and develop self-confidence. Positive, specific praise supports continued effort and builds secure attachment. Toddlers may repeatedly demonstrate skills or bring objects to adults specifically to receive positive reactions.
+
+What to look for:
+- Looking to caregiver after accomplishing something
+- Bringing objects or toys to show adults
+- Smiling and seeking eye contact during activities
+- Repeating actions that earned praise previously
+- Appearing pleased when receiving attention and encouragement
+- May say "look!" or gesture to direct adult attention
+- Increased motivation and effort following praise
+
+Why it matters:
+- Normal and healthy aspect of social-emotional development
+- Positive reinforcement supports learning and skill development
+- Builds self-confidence and sense of competence
+- Strengthens parent-child bond and secure attachment
+- Motivates continued practice and mastery of new skills
+- Foundation for developing intrinsic motivation over time
+- Specific descriptive praise more effective than generic praise
+
+---
+
+#### 14M: Reacts to routine changes
+
+About
+
+Increased sensitivity to changes in daily routines is common around 12-18 months as toddlers develop stronger memory and expectations for predictability. According to child development research, toddlers at this age find security and comfort in consistent routines and may become upset, clingy, or dysregulated when routines change—whether it's different bedtime, new caregiver, altered mealtime, or disrupted schedule. This reaction demonstrates cognitive advancement (memory and expectations) and emotional development. Preparing toddlers for changes, maintaining as much consistency as possible, and providing extra comfort during transitions helps them cope with necessary changes.
+
+What to look for:
+- Showing distress when routines are disrupted
+- Resistance to changes in schedule or sequence
+- Increased clinginess during transitions or new situations
+- Difficulty settling with altered bedtime or mealtime routines
+- More cooperation when routines are consistent
+- May protest when familiar routine is skipped
+- Calming when routine is restored
+
+Why it matters:
+- Indicates developing memory and understanding of sequences
+- Shows cognitive advancement in recognizing patterns
+- Reflects need for predictability and security at this age
+- Normal part of emotional development
+- Predictable routines support emotional regulation
+- Helps inform parenting approach (preparing for transitions)
+- Understanding this helps caregivers provide appropriate support
+
+---
+
+#### 14M: Self-soothes
+
+About
+
+Self-soothing abilities begin emerging around 12-18 months as toddlers develop increasing emotional regulation capacity. According to developmental psychology, self-soothing includes behaviors like sucking thumb or pacifier, cuddling with lovey or blanket, rocking, or seeking quiet space when overwhelmed. These strategies help toddlers manage distress, fall asleep, or calm from upset states with decreasing reliance on adult intervention. While caregiver comfort remains important, emerging self-soothing shows developing independence and emotional regulation. This skill develops gradually and varies significantly between individuals based on temperament and learned strategies.
+
+What to look for:
+- Using comfort object (blanket, stuffed animal) for self-calming
+- Thumb or pacifier sucking for comfort
+- Self-rocking or repetitive soothing movements
+- Seeking quiet space when overwhelmed
+- Calming without immediate adult intervention (emerging skill)
+- May hum or talk quietly to self
+- Gradually increasing ability to manage minor distress independently
+
+Why it matters:
+- Important emotional regulation milestone
+- Shows developing independence and coping skills
+- Supports better sleep and transitions
+- Reduces constant need for adult intervention
+- Builds confidence in managing own emotions
+- Foundation for more sophisticated emotional regulation later
+- Varies by temperament—some children need more support
+
+---
+
+#### 15M: Copies other children
+
+About
+
+Imitation of peer behaviors emerges around 12-18 months as toddlers become more socially aware and observant. According to social learning theory and child development research, toddlers watch and copy actions of other children—whether play behaviors, sounds, movements, or activities. This peer imitation is distinct from adult imitation and shows emerging peer interest and social learning. Toddlers may copy simple actions like clapping, waving, running, or using toys after observing other children. This observational learning from peers becomes increasingly important throughout childhood.
+
+What to look for:
+- Watching other children intently during play
+- Imitating actions, sounds, or play behaviors of peers
+- Copying how other children use toys
+- Mimicking movements like jumping, clapping, or running
+- May delay imitation until later (deferred imitation emerging)
+- Showing interest in what other children are doing
+- Learning new behaviors through peer observation
+
+Why it matters:
+- Important social learning mechanism
+- Shows peer awareness and interest developing
+- Demonstrates observational learning capacity
+- Foundation for later cooperative play and friendships
+- Supports skill acquisition through peer modeling
+- Indicates healthy social-cognitive development
+- Peer imitation becomes increasingly important with age
+
+---
+
+#### 15M: Shows affection
+
+About
+
+Demonstrating affection toward familiar people emerges clearly around 12-18 months as attachment bonds strengthen and social-emotional awareness grows. According to attachment theory and developmental research, toddlers show affection through hugs, kisses, pats, cuddling, bringing loved ones favorite toys, or leaning against caregivers. These affectionate behaviors are often spontaneous rather than only in response to adult requests. Showing affection indicates secure attachment, emotional connection, and social-emotional development. Individual toddlers vary in how physically demonstrative they are based on temperament and family culture.
+
+What to look for:
+- Spontaneous hugs, kisses, or cuddles with caregivers
+- Patting or gentle touching of familiar people
+- Bringing favorite toys or objects to loved ones
+- Leaning against or sitting close to caregivers
+- Smiling and showing pleasure when with loved ones
+- Seeking physical closeness for comfort and connection
+- May show affection to stuffed animals or dolls
+
+Why it matters:
+- Indicates secure attachment relationships
+- Shows social-emotional awareness developing
+- Demonstrates capacity for emotional connection
+- Reflects healthy bonding with caregivers
+- Foundation for future relationships and empathy
+- Supports emotional well-being and security
+- Expression varies by temperament and culture
+
+---
+
+#### 15M: Claps when excited
+
+About
+
+Clapping to express excitement and joy emerges around 12-18 months as toddlers develop more sophisticated emotional expression and motor control. According to developmental milestones, toddlers spontaneously clap when happy, excited, proud, or pleased—whether after accomplishing something, seeing something exciting, hearing favorite music, or experiencing joy. This combines motor coordination, emotional awareness, and social communication. Clapping may be accompanied by smiling, laughing, bouncing, or vocalizations. It represents both motor milestone and social-emotional development.
+
+What to look for:
+- Spontaneous clapping during moments of excitement or joy
+- Clapping after accomplishing something (stacking blocks, walking)
+- Clapping to music or songs
+- Clapping when seeing something exciting or favorite person
+- Accompanied by smiling, laughing, or happy sounds
+- Using clapping to express positive emotions
+- May clap along when others clap
+
+Why it matters:
+- Shows emotional expression becoming more sophisticated
+- Indicates understanding of social communication gestures
+- Demonstrates motor coordination for bilateral movements
+- Reflects joy and enthusiasm (positive emotional development)
+- Supports social interaction and shared enjoyment
+- Foundation for more complex emotional expression
+- Normal social-emotional developmental milestone
+
+---
+
+#### 15M: Drinks from sippy cup independently
+
+About
+
+Independent sippy cup use typically emerges around 12-18 months as fine motor skills, coordination, and self-help abilities develop. According to AAP feeding guidelines, toddlers can grasp, lift, tilt, drink from, and set down sippy cups without assistance (though spills still occur). This represents important self-feeding independence. AAP recommends transitioning from bottle to cup by 12-15 months and moving toward open cups as skills allow, as prolonged bottle or sippy cup use can affect dental health and oral motor development. Independence with drinking supports autonomy and reduces dependence on caregivers for basic needs.
+
+What to look for:
+- Independently picking up and holding sippy cup
+- Lifting cup to mouth and drinking without help
+- Tilting cup appropriately to access liquid
+- Setting cup down after drinking
+- Managing cup during meals and throughout day
+- Some spills still occur but decreasing
+- Transitioning toward open cup attempts
+
+Why it matters:
+- Important self-feeding independence milestone
+- Demonstrates fine motor coordination advancing
+- Supports autonomy and self-help skills
+- Reduces bottle dependence (recommended by 12-15 months)
+- Better for oral motor development than prolonged bottle use
+- Foundation for transitioning to open cup
+- Supports adequate hydration and nutrition
+
+---
+
+#### 16M: Pretend play begins
+
+About
+
+Symbolic or pretend play emerges around 12-18 months as a major cognitive milestone, showing the ability to represent one thing with another. According to cognitive development research, early pretend play includes actions like feeding baby doll, talking on toy phone, pretending to drink from empty cup, or using block as car. This demonstrates symbolic thinking—understanding that objects can represent other things and that one can act "as if." Initially, pretend play centers on self and familiar routines, gradually expanding to dolls, others, and more elaborate scenarios. This cognitive leap is foundational for language, problem-solving, and abstract thinking.
+
+What to look for:
+- Pretending to feed self or doll with toy food/utensil
+- "Talking" on toy or real phone
+- Pretending to drink from empty cup
+- Putting doll or stuffed animal to bed
+- Using objects symbolically (block as car, phone, etc.)
+- Acting out familiar routines in play
+- Brief pretend sequences (more elaborate play comes later)
+
+Why it matters:
+- Major cognitive milestone indicating symbolic thinking
+- Foundation for language development (words are symbols)
+- Shows understanding of representation and "as if" thinking
+- Supports creativity and imagination
+- Indicates cognitive development progressing typically
+- Precursor to more complex dramatic and imaginative play
+- Supports social-emotional development through role play
+
+---
+
+#### 16M: Enjoys praise
+
+About
+
+Active enjoyment and seeking of praise becomes evident around 12-18 months as self-awareness and social understanding develop. According to developmental psychology, toddlers show visible pleasure when receiving positive feedback—smiling, repeating actions, appearing proud, and seeking more praise. They understand praise as positive social feedback and are motivated by adult approval. This response to praise reflects developing self-concept, social awareness, and motivation. Specific, descriptive praise ("You stacked three blocks!") is more effective than generic praise ("Good job!") in supporting learning and self-confidence.
+
+What to look for:
+- Smiling and showing pleasure when praised
+- Seeking praise by showing accomplishments
+- Repeating actions that earned positive feedback
+- Looking to adults for reactions after achievements
+- Appearing proud and confident after receiving praise
+- Increased motivation following specific encouragement
+- May prompt praise by showing completed tasks
+
+Why it matters:
+- Reflects developing self-awareness and social cognition
+- Positive reinforcement supports learning and persistence
+- Builds self-confidence and sense of competence
+- Strengthens caregiver-child relationship
+- Motivates continued effort and skill practice
+- Foundation for internal motivation development
+- Specific praise more effective than generic praise
+
+---
+
+#### 16M: Upset when doesn't get way
+
+About
+
+Increased frustration and protest when desires are blocked or denied emerges around 12-18 months as autonomy drives strengthen while self-regulation skills remain immature. According to developmental psychology, toddlers at this age have growing desires for independence and control but lack language to express frustration and skills to manage intense emotions. This results in crying, tantrums, or protest when told "no," when transitions occur, or when preferred activities end. This challenging behavior reflects normal cognitive and emotional development—understanding wants without having regulatory capacity. Consistent, empathetic limit-setting while teaching coping skills helps toddlers gradually develop emotional regulation.
+
+What to look for:
+- Crying, tantrums, or protests when denied something wanted
+- Frustration when unable to do something independently
+- Difficulty with transitions or ending preferred activities
+- Protest when told "no" or given limits
+- Intense emotional reactions that seem disproportionate
+- Limited ability to calm quickly or accept redirection
+- Testing boundaries and caregiver responses
+
+Why it matters:
+- Normal part of autonomy and emotional development
+- Reflects gap between desires and regulatory abilities
+- Shows emerging independence and will
+- Indicates cognitive understanding without emotional management
+- Provides opportunity to teach coping and regulation
+- Challenging for caregivers but developmentally appropriate
+- Consistent limits with empathy support healthy development
+
+---
+
+#### 18M: Moves away but checks you're close
+
+About
+
+Exploration with periodic caregiver checking emerges around 15-18 months as an important secure attachment behavior. According to attachment theory, toddlers use caregivers as a "secure base" from which to explore—venturing away during play but regularly looking back, returning for reassurance, or visually checking caregiver's location. This balance between exploration and proximity-seeking indicates healthy attachment. Toddlers feel confident exploring because they trust caregiver availability. If caregiver leaves or is too far, distress occurs. This behavior reflects cognitive understanding of object permanence applied to people—knowing caregiver exists even when not in constant contact.
+
+What to look for:
+- Moving away to explore during play
+- Regularly looking back to visually locate caregiver
+- Periodically returning for brief contact or reassurance
+- Showing distress if caregiver is too far or out of sight
+- Confident exploration when caregiver is nearby
+- Using caregiver as secure base for venturing out
+- Balance between independence and connection
+
+Why it matters:
+- Indicates secure attachment relationship
+- Shows healthy balance of autonomy and security
+- Reflects cognitive understanding of object permanence
+- Foundation for increasing independence over time
+- Secure base behavior supports confident exploration
+- Normal and healthy attachment pattern
+- Excessive clinginess or indifference may warrant evaluation
+
+---
+
+#### 18M: Points to show interest
+
+About
+
+Declarative pointing—pointing to share interest or direct attention rather than to request—emerges around 12-18 months as an important social-communication milestone. According to language development research, toddlers point at objects, animals, people, or events to share attention and interest with others, showing understanding of joint attention and social connection. This differs from imperative pointing (requesting) which emerges earlier. Declarative pointing demonstrates social awareness, communication intent, and understanding that others have attention that can be directed. It often occurs with eye contact, checking if adult is looking, and vocalizing. This milestone is significant for language development and social communication.
+
+What to look for:
+- Pointing at objects or events to share interest (not to request)
+- Looking between object and adult to share attention
+- Pointing at things in books, during walks, or at home
+- Accompanying pointing with sounds or words
+- Seeking shared attention and enjoyment
+- Checking that adult is looking at what's pointed to
+- Different from pointing to request (imperative pointing)
+
+Why it matters:
+- Important social-communication and language milestone
+- Indicates understanding of joint attention (sharing focus)
+- Shows social awareness and desire to connect
+- Foundation for language development through shared attention
+- Supports vocabulary learning (adult labels what child points to)
+- Indicates social-cognitive development progressing
+- Absence or delay warrants developmental evaluation
+
+---
+
+#### 18M: Helps dress self
+
+About
+
+Emerging participation in dressing emerges around 15-18 months as toddlers develop motor skills, understanding, and desire for independence. According to self-care developmental milestones, early helping includes pushing arms through sleeves, lifting feet for shoes, pulling off socks, or attempting to remove simple clothing. Toddlers understand dressing routines and want to participate even though true independence is months away. This cooperation represents motor development, cognitive understanding of sequences, and growing autonomy. Encouraging participation (even when it slows down the process) supports skill development and independence.
+
+What to look for:
+- Pushing arms through sleeves when dressing
+- Lifting legs or feet to help with pants or shoes
+- Pulling off hat, socks, or loose clothing
+- Attempting to help rather than resisting dressing
+- Understanding dressing routines and sequences
+- Cooperation during dressing activities
+- May attempt clothing removal more successfully than putting on
+
+Why it matters:
+- Early self-help and independence milestone
+- Demonstrates motor skills, sequencing, and cooperation
+- Shows understanding of daily routines
+- Foundation for independent dressing (develops 2-4 years)
+- Supports autonomy and self-confidence
+- Encouraging participation supports skill development
+- Important for later self-care independence
+
+---
+
+#### 18M: Uses spoon with moderate spilling
+
+About
+
+Spoon use with improving accuracy emerges around 15-18 months as fine motor skills and hand-eye coordination advance. According to AAP feeding guidelines and developmental milestones, toddlers at this age can load spoon (with hand or by dipping), bring it to mouth, and deposit food, though spilling remains common and normal. Success rate improves but messiness is expected and appropriate for this age. Grip may still be fisted rather than mature grasp. Continued practice essential for skill refinement. By 24 months, most toddlers feed themselves with spoon for majority of meal despite ongoing spills. Patience and allowing practice supports independence.
+
+What to look for:
+- Scooping food onto spoon independently or with help
+- Bringing loaded spoon to mouth successfully (most attempts)
+- Some food reaches mouth while some spills
+- Using spoon for significant portion of meal
+- May use fisted grasp on spoon
+- Improving accuracy but still messy
+- Persistence with spoon despite challenges
+
+Why it matters:
+- Important self-feeding independence milestone
+- Demonstrates fine motor coordination advancing
+- Shows hand-eye coordination developing
+- Supports nutrition and mealtime independence
+- Continued practice essential for skill refinement
+- Messiness at this age completely normal and expected
+- Foundation for mature utensil use by preschool years
+
+---
+
+### DEVELOPMENTAL - Cognitive
+
+#### 14M: Puts 2 cubes in 1 hand to hold 3rd
+
+About
+
+Advanced object manipulation emerges around 14-16 months as toddlers develop problem-solving skills and motor planning. According to cognitive development milestones, toddlers at this age can hold two small blocks in one hand (adjusting grip to accommodate both) while reaching for a third object with the other hand. This requires motor planning, spatial awareness, understanding of quantity, and problem-solving—recognizing the need to consolidate objects in one hand to free the other. This sophisticated manipulation demonstrates cognitive and motor advancement beyond simple grasping and releasing.
+
+What to look for:
+- Holding two small objects in one hand simultaneously
+- Adjusting grip to accommodate multiple objects
+- Reaching for additional objects while maintaining hold on others
+- Problem-solving to free hand for reaching
+- Spatial awareness to organize objects in palm
+- Transferring or consolidating objects purposefully
+- May attempt to hold 3+ objects in one hand
+
+Why it matters:
+- Demonstrates advancing problem-solving abilities
+- Shows motor planning and spatial reasoning
+- Indicates understanding of object properties and quantity
+- Requires fine motor control and grip adjustment
+- Foundation for more complex object manipulation
+- Shows cognitive flexibility in approaching tasks
+- Typical milestone indicating integrated cognitive-motor development
+
+---
+
+#### 15M: Uses things right way
+
+About
+
+Functional object use emerges around 12-18 months as toddlers understand and demonstrate conventional use of objects. According to cognitive development research, toddlers show they understand object functions by using spoons for feeding (even if ineffectively), brushes for hair, cups for drinking, phones for talking, crayons for marking. This represents important cognitive milestone of understanding object affordances—what objects are for and how they're conventionally used. Initially demonstrated with highly familiar objects in appropriate contexts; generalization to novel objects and contexts develops gradually.
+
+What to look for:
+- Using spoon for eating (even if unsuccessfully)
+- Brushing hair with hairbrush
+- Attempting to use comb on hair
+- Putting phone to ear to "talk"
+- Using cup appropriately for drinking
+- Marking with crayon rather than mouthing or throwing
+- Understanding what common objects are for
+
+Why it matters:
+- Important cognitive milestone showing functional understanding
+- Demonstrates learning through observation and experience
+- Shows memory for object purposes and conventional uses
+- Foundation for tool use and problem-solving
+- Indicates cognitive understanding of object properties
+- Supports daily routines and self-help skills
+- Precursor to more sophisticated tool use and reasoning
+
+---
+
+#### 15M: Stacks 2+ objects
+
+About
+
+Vertical stacking of multiple objects emerges around 14-18 months as a cognitive and motor milestone. According to developmental guidelines, toddlers can deliberately stack two or more blocks, cups, or other objects vertically, requiring balance, spatial awareness, fine motor control, and understanding of physical properties. Initial stacks may be wobbly and collapse frequently; persistence despite failure shows problem-solving and learning. By 18 months, most can stack 2-4 blocks; by 24 months, 6+ blocks. Stacking demonstrates understanding of balance, gravity, spatial relationships, and purposeful construction.
+
+What to look for:
+- Deliberately stacking blocks or objects vertically
+- Successfully creating towers of 2-3+ blocks
+- Careful placement showing awareness of balance
+- Persistence despite frequent collapses
+- Understanding need for stable base
+- Attempting taller towers with practice
+- May knock down and rebuild repeatedly
+
+Why it matters:
+- Cognitive milestone showing spatial reasoning
+- Demonstrates understanding of physical properties and balance
+- Shows problem-solving and learning from experience
+- Indicates fine motor control and hand-eye coordination
+- Foundation for constructive and creative play
+- Precursor to more complex building and construction
+- Typical developmental progression in play skills
+
+---
+
+#### 16M: Looks for hidden toys
+
+About
+
+Active search for hidden objects emerges around 12-18 months as object permanence becomes fully established. According to Piaget's cognitive development theory and research, toddlers actively search for toys hidden under blankets, behind barriers, or in containers, demonstrating understanding that objects continue to exist when out of sight. This advances beyond earlier "out of sight, out of mind" thinking. Toddlers can now remember object location, plan search behavior, and persist in looking. This cognitive milestone enables hide-and-seek games, finding put-away toys, and understanding that caregivers exist elsewhere when absent.
+
+What to look for:
+- Actively searching for hidden toys or objects
+- Lifting blankets or looking behind barriers
+- Remembering where object was hidden and searching there
+- Persistence in searching despite not immediately finding
+- Understanding that hidden objects still exist
+- Enjoying hide-and-seek games
+- Looking for put-away or out-of-sight toys
+
+Why it matters:
+- Indicates object permanence fully established
+- Important cognitive milestone in understanding object properties
+- Foundation for memory and mental representation
+- Supports understanding of caregiver permanence (even when away)
+- Enables planning and purposeful search behaviors
+- Shows problem-solving and persistence
+- Supports understanding that things exist beyond immediate perception
+
+---
+
+#### 16M: Enjoys textured books
+
+About
+
+Interest in exploring varied sensory experiences in books emerges around 12-18 months as toddlers seek multisensory engagement and exploration. According to early literacy and sensory development, toddlers enjoy touch-and-feel books with different textures (fuzzy, rough, smooth, scratchy), flaps to lift, or interactive elements. They actively touch, pat, rub, or scratch textured areas while looking at pictures. This combines visual, tactile, and cognitive engagement, supporting attention, memory, and vocabulary development. Sensory exploration through books is developmentally appropriate and supports early literacy engagement beyond passive looking.
+
+What to look for:
+- Actively touching and exploring textured elements in books
+- Spending time patting, rubbing, or feeling different textures
+- Interest in lift-the-flap or interactive books
+- Combining looking and touching during book time
+- Sustained attention to books with sensory elements
+- May prefer textured books over plain picture books
+- Exploring same textures repeatedly
+
+Why it matters:
+- Supports multisensory learning and engagement
+- Enhances attention and interest in books
+- Develops tactile discrimination and sensory awareness
+- Combines cognitive and sensory development
+- Promotes early literacy engagement and book enjoyment
+- Supports vocabulary learning through multisensory association
+- Encourages shared reading time with caregivers
+
+---
+
+#### 18M: Knows what ordinary things are for
+
+About
+
+Understanding conventional functions of common objects is well-established by 18 months. According to cognitive development research, toddlers demonstrate knowledge of what familiar objects are for by using them appropriately or indicating their purpose—spoons are for eating, brushes for hair, cups for drinking, phones for talking, books for reading, balls for throwing. This functional knowledge develops through observation, experience, and teaching. Toddlers show understanding not just by using objects correctly but also by bringing appropriate objects when asked (getting brush when asked to brush hair) or identifying objects by function ("What do we eat with?"). This represents conceptual development and categorization by function.
+
+What to look for:
+- Using common objects for their intended purposes
+- Bringing appropriate object when activity is mentioned
+- Identifying objects by function when asked
+- Understanding what tools or items are used for various activities
+- Correct use of household objects (within developmental ability)
+- Categorizing objects by function (all things for eating together)
+- Generalizing function across similar objects
+
+Why it matters:
+- Important cognitive milestone showing functional understanding
+- Demonstrates conceptual development and categorization
+- Shows learning through observation and experience
+- Supports daily living skills and routines
+- Foundation for more abstract reasoning about object properties
+- Enables participation in daily activities and self-help
+- Indicates typical cognitive and language development
 
 ---
 
@@ -6470,7 +7247,7 @@ Why it matters:
 - Supports learning and daily routines
 - Foundation for more complex instruction-following
 
-#### Understanding simple concepts (big/small, in/out)
+#### Understanding simple concepts (big/small, In/out)
 
 About
 
@@ -6500,7 +7277,157 @@ Why it matters:
 
 ### DEVELOPMENTAL - Gross Motor Skills
 
-#### 30M: Twists things (doorknobs, lids)
+#### Climbs
+
+About
+
+Between 2-3 years, toddlers develop confident climbing skills on furniture, playground equipment, and stairs, demonstrating advancing strength, coordination, motor planning, and spatial awareness. According to gross motor development research, climbing at this age involves coordinating arm and leg movements, shifting weight appropriately, maintaining balance while transitioning body position, and planning movement sequences to reach goals. Toddlers climb on couches, chairs, beds, playground structures, and stairs with increasing confidence and decreasing need for assistance. Climbing represents a natural developmental drive to explore vertically and test physical capabilities. Safety judgment lags significantly behind climbing ability.
+
+What to look for:
+- Climbing onto furniture independently (couches, chairs, low tables)
+- Navigating playground climbing structures with supervision
+- Climbing stairs confidently (may still use rail or hand-holding)
+- Getting on and off equipment smoothly with fewer falls
+- Motor planning visible in choosing hand/foot placements
+- Increasing height and complexity of climbed structures
+- Emerging caution awareness (but still impulsive about climbing)
+
+Why it matters:
+- Builds significant upper and lower body strength
+- Develops bilateral coordination and motor planning
+- Supports spatial awareness and body position understanding
+- Provides proprioceptive input important for body awareness
+- Natural way children test capabilities and build confidence
+- Requires close supervision as climbing ability exceeds safety judgment, necessitating childproofing and boundary setting
+
+---
+
+#### Jumps confidently
+
+About
+
+Between 2-3 years, toddlers master jumping with both feet leaving the ground, landing with control, and showing increasing confidence, distance, and height. According to motor milestone research, jumping requires significant leg strength, coordination, balance, rhythm, and motor planning. Initial jumps at 2 years may be small with both feet barely leaving ground, progressing by age 3 to confident jumps forward, off low heights, over obstacles, and repeated jumping for play. Jumping develops through stages: two-foot takeoff and landing on same spot, jumping forward, jumping off low steps, and eventually jumping over objects. Arm movements become incorporated for momentum and balance.
+
+What to look for:
+- Both feet leaving ground simultaneously
+- Controlled landing without falling (most of the time)
+- Jumping forward several inches
+- Jumping off low steps or platforms (6-12 inches)
+- Repeated jumping for play and exploration
+- Bending knees appropriately for takeoff and landing
+- Using arms for momentum and balance during jumps
+
+Why it matters:
+- Demonstrates significant leg strength and power
+- Develops coordination, balance, and motor planning
+- Foundation for more complex movements including hopping and skipping
+- Supports cardiovascular fitness and active play
+- Builds confidence in body capabilities
+- Provides proprioceptive and vestibular input supporting sensory integration
+
+---
+
+#### Pedals tricycle
+
+About
+
+Around 2.5-3 years, many toddlers develop the complex coordination to pedal a tricycle, combining bilateral leg coordination (alternating leg movements), steering (hand-eye coordination and spatial awareness), and dynamic balance. According to motor development research, pedaling requires coordinating circular leg movements in opposition, maintaining trunk stability while legs move, steering to navigate path, and integrating all these components simultaneously. Some children pedal easily by 2.5 years while others don't master this until age 4—both represent normal developmental variation. Initial pedaling may be choppy or inconsistent, smoothing with practice into fluid circular movements.
+
+What to look for:
+- Alternating leg movements in circular pedaling motion
+- Sustaining pedaling for several rotations without stopping
+- Coordinating pedaling with steering (initially may do one or the other)
+- Feet staying on pedals through rotation cycle
+- Increasing speed and endurance with practice
+- Navigating simple paths or around obstacles
+- Progression from push-with-feet to true pedaling
+
+Why it matters:
+- Develops bilateral motor coordination and motor planning
+- Builds leg strength and cardiovascular endurance
+- Supports spatial awareness and navigation skills
+- Foundation for eventual bicycle riding
+- Provides independent mobility and confidence
+- Wide normal variation in acquisition—lack of pedaling by age 3 is not concerning if other motor skills progressing
+
+---
+
+#### Runs
+
+About
+
+Between 2-3 years, toddlers develop mature running patterns with a true flight phase (both feet briefly off ground), improved speed, control, balance, and ability to navigate while running. According to gross motor research, mature running includes arm swing in opposition to legs, forward trunk lean, longer stride length, and coordinated rhythm. Two-year-olds run somewhat stiffly with shorter strides; by age 3, running appears more fluid and controlled. Toddlers enjoy running for pleasure, in games, and as primary means of getting places quickly. Falls still occur but decrease as balance and control improve. Running supports cardiovascular fitness, leg strength, and overall physical development.
+
+What to look for:
+- Clear flight phase with both feet off ground
+- Coordinated arm swing opposite to leg movements
+- Running at varying speeds with some control
+- Ability to stop and change direction (improving but not fully mature)
+- Running on varied surfaces and terrains
+- Decreased frequency of falls compared to younger running
+- Using running functionally and in play
+
+Why it matters:
+- Demonstrates advancing gross motor coordination and control
+- Provides vigorous physical activity supporting overall health
+- Develops leg strength, cardiovascular endurance, and balance
+- Essential for active play, games, and peer interaction
+- Foundation for more complex motor skills including sports
+- Supports proprioceptive and vestibular development
+
+---
+
+#### Uses stairs
+
+About
+
+Between 2-3 years, toddlers progress in stair navigation from using both feet per step while holding support to alternating feet (one foot per step) going up stairs by age 2.5-3, with alternating feet going down developing closer to 3-4 years. According to motor milestone guidelines, stair use demonstrates balance, leg strength, motor planning, spatial awareness, and bilateral coordination. Two-year-olds typically go upstairs using both feet per step (marking time) while holding rail or hand; by age 3, many alternate feet going up. Descending stairs with alternating feet is more challenging and develops later. Adult-sized stairs are harder than shorter child-sized stairs.
+
+What to look for:
+- Progressing from both-feet-per-step to alternating feet ascending
+- Using handrail or wall for support initially
+- Decreasing need for hand-holding from caregiver
+- Improved confidence and speed on stairs
+- Looking at feet and steps less frequently (improving automaticity)
+- Descending stairs safely, typically both feet per step at this age
+- Appropriate caution showing emerging safety awareness
+
+Why it matters:
+- Critical functional skill for home and community independence
+- Demonstrates balance, strength, and motor planning development
+- Supports spatial awareness and body position understanding
+- Shows progressive motor skill refinement over time
+- Important safety skill requiring ongoing supervision and practice
+- Stair gates should remain until skill is consistent and reliable
+
+---
+
+#### Walks
+
+About
+
+By 2-3 years, toddlers have transitioned from newly acquired walking to mature walking patterns with improved balance, coordination, efficiency, and adaptability. According to gait development research, mature walking includes heel-strike, smooth weight transfer, toe push-off, reciprocal arm swing, narrow base of support (feet closer together), and consistent rhythm. Two-to-three-year-olds walk confidently on various surfaces, carry objects while walking, walk backward, walk on tiptoes briefly, and adjust pace and direction smoothly. Walking is now the primary comfortable mode of movement, used automatically without conscious effort in most situations. Refinements in gait pattern continue through early childhood.
+
+What to look for:
+- Smooth, coordinated walking pattern with narrow base
+- Heel-to-toe foot contact pattern
+- Reciprocal arm swing
+- Ability to walk on various surfaces (carpet, tile, grass, gravel)
+- Walking while carrying objects or toys
+- Smooth speed changes and direction changes
+- Walking long distances without tiring quickly
+
+Why it matters:
+- Indicates gross motor development progressing typically
+- Provides independent mobility for exploration and daily activities
+- Foundation for all more complex motor skills
+- Supports participation in family and community activities
+- Enables peer interaction through mobile play
+- Persistent immature gait patterns, frequent falling, or avoidance of walking warrants evaluation
+
+---
+
+#### 30M: Twists things (doorknobs, Lids)
 
 About
 
@@ -7672,6 +8599,106 @@ Why it matters:
 
 ### DEVELOPMENTAL - Gross Motor Skills
 
+#### Climbs well
+
+About
+
+Between 3-4 years, children become skilled climbers, navigating playground equipment, ladders, climbing structures, and obstacles with increasing confidence, planning, and emerging safety awareness. According to gross motor development, climbing at this age involves sophisticated motor planning (planning multi-step sequences), bilateral coordination (alternating hand-hand, foot-foot movements), dynamic balance (maintaining balance during movement transitions), and spatial problem-solving (determining hand and foot placements). Children can climb ladders with alternating feet, navigate complex playground equipment with multiple levels and challenges, and show improving judgment about feasible vs. too-difficult climbs, though supervision remains essential.
+
+What to look for:
+- Confident climbing on playground equipment of appropriate height
+- Alternating hand and foot movements on ladders and climbing structures
+- Motor planning visible in pausing to assess route before climbing
+- Successfully navigating equipment requiring sequences (climb ladder, cross bridge, go down slide)
+- Appropriate caution emerging (though still needs supervision)
+- Variety of climbing challenges attempted and mastered
+- Rare falls or difficulty compared to younger climbing
+
+Why it matters:
+- Demonstrates significant strength, coordination, and motor planning
+- Supports spatial reasoning and problem-solving skills
+- Builds confidence and age-appropriate risk-taking in safe contexts
+- Provides important proprioceptive and vestibular sensory input
+- Supports social play as playground climbing is often social activity
+- Continues to require supervision as risk assessment still developing
+
+---
+
+#### Hops on one foot
+
+About
+
+Around 3-4 years, children develop the balance, strength, and coordination to hop on one foot multiple times consecutively. According to motor milestone research, hopping requires single-leg strength, dynamic balance (maintaining balance during movement), motor planning, and rhythm. Most children begin hopping 1-3 times on one foot around age 3, progressing to 4-6+ consecutive hops by age 4. One foot may be easier than the other initially, with proficiency developing on both sides over time. Hopping is more challenging than jumping (two feet) because all weight and propulsion come from one leg while maintaining balance.
+
+What to look for:
+- Hopping on one foot 1-3+ times by age 3
+- Progressing to 4-10 consecutive hops by age 4
+- Both feet eventually achieving hopping, though one may lead
+- Using arms for balance
+- Hopping forward rather than just in place (emerging)
+- Incorporating hopping into play (hopscotch games emerging)
+- Rhythm and control improving with practice
+
+Why it matters:
+- Demonstrates significant single-leg balance and strength
+- Shows motor planning and coordination advancing
+- Foundation for skipping and more complex motor patterns
+- Important gross motor milestone indicating typical development
+- Supports participation in games and activities with peers
+- Some children achieve this earlier or later—wide normal range exists
+
+---
+
+#### Runs around obstacles
+
+About
+
+Between 3-4 years, children can run confidently while navigating around obstacles, demonstrating sophisticated integration of visual information, motor planning, spatial awareness, speed control, and coordination. According to motor development research, running with obstacle avoidance requires visual scanning ahead, planning path adjustments, maintaining running rhythm while adjusting course, and coordinating upper and lower body to change direction. Children navigate around furniture, playground equipment, other children, and various obstacles without significant slowing, colliding, or falling. This represents advancing executive function (planning), visual-motor integration, and dynamic balance.
+
+What to look for:
+- Running confidently in environments with furniture or obstacles
+- Adjusting path while maintaining running speed
+- Visual scanning ahead to anticipate obstacles
+- Smooth direction changes without stopping completely
+- Running safely among peers without frequent collisions
+- Navigating complex environments like playgrounds while running
+- Decreasing falls or crashes compared to younger running
+
+Why it matters:
+- Demonstrates visual-motor integration and spatial processing
+- Shows motor planning and executive function developing
+- Critical for safe navigation in real-world environments
+- Enables participation in active play, tag games, and peer activities
+- Indicates balance and coordination advancing appropriately
+- Supports confidence in movement abilities
+
+---
+
+#### Throws ball overhand
+
+About
+
+Around 3-4 years, children develop the coordination to throw a ball overhand with step-forward and follow-through motion, showing increasing accuracy, distance, and mature throwing pattern. According to motor development research, mature overhand throwing involves trunk rotation, stepping forward with opposite foot, arm coming from behind head, release at appropriate point, and follow-through across body. Three-year-olds may show components of this pattern; by age 4, most children demonstrate recognizable overhand throwing with forward step. Accuracy and distance improve significantly with practice. This motor pattern involves sequencing body movements (step, rotate, throw) and timing release for accuracy.
+
+What to look for:
+- Overhand arm motion (from above or behind head, not underhand)
+- Stepping forward with opposite foot (initially may step with same foot)
+- Trunk rotation toward target
+- Follow-through motion after release
+- Throwing with purpose toward general target area
+- Increasing distance and accuracy over this period
+- Practice and engagement in throwing activities
+
+Why it matters:
+- Demonstrates complex motor planning and sequencing
+- Foundation for ball sports and physical activities
+- Shows cross-body coordination (stepping with opposite foot)
+- Supports hand-eye coordination development
+- Provides opportunity for parent-child and peer play
+- Wide variation in throwing skill—gender differences often appear due to practice opportunities
+
+---
+
 #### 48M: Catches large ball most of time
 
 About
@@ -7792,7 +8819,7 @@ Why it matters:
 - Foundation for precise cutting skills
 - Important pre-academic skill
 
-#### 48M: Copies simple shapes (square, cross)
+#### 48M: Copies simple shapes (square, Cross)
 
 About
 
@@ -8430,49 +9457,47 @@ Why it matters:
 
 About
 
-Complete primary dentition (20 teeth) should be present by age 4. According to dental development, includes all incisors, canines, and molars - 10 upper, 10 lower. These teeth remain until permanent teeth begin erupting (age 6-12). AAPD and AAP emphasize: twice-daily brushing with fluoride toothpaste (pea-sized), flossing when teeth touch, regular dental visits (every 6 months), limiting sugary foods/drinks, and establishing lifelong oral health habits.
+By 36-48 months, most children have all 20 primary teeth fully erupted, completing the primary dentition that began around 6 months with first incisors. According to pediatric dental guidelines, the complete primary dentition includes 10 upper teeth (4 incisors, 2 canines, 4 molars) and 10 lower teeth (4 incisors, 2 canines, 4 molars). These teeth typically remain until age 6-7 when permanent teeth begin replacing them, starting with first molars and central incisors. Primary teeth are critical for chewing, speech development, maintaining space for permanent teeth, and jaw development. Proper oral hygiene including brushing twice daily and dental visits every 6 months is important.
 
 What to look for:
-- All 20 primary teeth present and functional
-- Healthy teeth and gums
-- Established dental care routine
-- Twice-daily brushing with fluoride toothpaste
-- Regular dental checkups
-- No cavities or dental problems (ideally)
-- Good oral hygiene habits
+- Complete set of 20 teeth: 8 incisors (4 upper, 4 lower), 4 canines (2 upper, 2 lower), 8 molars (4 upper, 4 lower)
+- All teeth fully erupted through gums
+- Teeth functional for chewing all food textures
+- Regular dental checkups established (recommended every 6 months)
+- Proper oral hygiene routine: brushing twice daily with fluoride toothpaste
+- No signs of cavities, decay, or dental pain
+- Age-appropriate speech development supported by complete dentition
 
 Why it matters:
-- Complete primary dentition
-- Essential for nutrition and speech
-- Primary teeth hold space for permanent teeth
-- Cavity prevention critical
-- Establishes lifelong oral health habits
-- Primary teeth important until age 6-12
-- Regular dental care prevents problems
+- Complete primary dentition essential for proper nutrition through effective chewing
+- Primary teeth maintain space for permanent teeth and guide their eruption
+- Critical for speech sound development, particularly sounds like f, v, th, s
+- Supports jaw growth and development
+- Establishes oral hygiene habits important for lifelong dental health
+- Primary tooth decay can affect developing permanent teeth, making preventive care crucial
 
 #### Jaw/facial bones growing, creating spaces (normal for permanent teeth)
 
 About
 
-Jaw growth creates natural spacing between primary teeth around age 4-6. According to dental development, these spaces are normal and necessary to accommodate larger permanent teeth. Shows facial bones growing and developing. Spacing allows permanent teeth to erupt properly aligned. Absence of spacing may indicate crowding risk when permanent teeth emerge. Normal developmental progression preparing for permanent dentition.
+Between ages 3-6, children's jaw and facial bones grow significantly in preparation for permanent teeth, which are larger than primary teeth. According to pediatric dentistry, this growth often creates spacing between primary teeth, particularly upper front teeth and between canines and molars. These "developmental spaces" or "primate spaces" are normal, beneficial, and actually indicate appropriate jaw growth. The spaces provide room for future permanent teeth and typically appear after age 3. Parents may notice gaps appearing between previously touching primary teeth. This spacing is expected and not cause for concern—in fact, absence of spacing may indicate insufficient jaw growth that could lead to crowding of permanent teeth.
 
 What to look for:
-- Gaps appearing between primary teeth
-- Normal spacing developing
-- Continued jaw growth
-- Primary teeth remain healthy
-- No concern about spaces (they're normal)
-- Preparing for permanent teeth
-- Individual variation in timing
+- Gaps developing between primary teeth, especially upper front teeth
+- Spaces particularly noticeable between canines and first molars
+- Previously touching teeth now having visible gaps
+- Spacing increasing gradually between ages 3-6
+- Overall jaw appearing larger and face lengthening
+- Primary teeth still stable and healthy despite spacing
+- Changes occurring gradually over months/years
 
 Why it matters:
-- Normal dental and jaw development
-- Spacing prepares for larger permanent teeth
-- Shows facial growth progressing
-- Spaces are healthy and expected
-- Absence of spacing may predict crowding
-- No intervention needed for normal spacing
-- Important developmental progression
+- Indicates normal jaw and facial growth
+- Creates necessary space for larger permanent teeth
+- Reduces likelihood of crowding when permanent teeth erupt
+- Reassures parents that spacing is positive, not problematic
+- Lack of spacing may indicate future orthodontic concerns
+- Distinguishes normal developmental spacing from spacing due to tooth loss or other issues
 
 ### VISION
 
@@ -8627,6 +9652,106 @@ Why it matters:
 ## 48-60 MONTHS
 
 ### DEVELOPMENTAL - Gross Motor Skills
+
+#### Does somersaults
+
+About
+
+Around 4-5 years, children develop the coordination, body awareness, and confidence to perform somersaults (forward rolls). According to motor development research, somersaults require tucking the chin, rounding the back, pushing off with legs, rolling smoothly over the back, and returning to standing or sitting position. This movement involves spatial awareness in unusual positions, core strength, coordination, overcoming fear of inversion, and motor sequencing. Some children find somersaults easy and enjoyable; others are hesitant or uncomfortable with inverted positions. Both represent normal variation. Proper technique (tucked chin) is important for safety. This is often learned through imitation, gymnastics, or physical education.
+
+What to look for:
+- Attempting forward rolls with tucked chin and rounded back
+- Smooth rolling motion over back from crouch to sitting/standing
+- Demonstrating understanding of body positioning needed
+- Overcoming initial hesitation about inverted position
+- Practice improving smoothness and control
+- Eventually performing somersaults with minimal assistance
+- May prefer this activity or avoid it based on temperament
+
+Why it matters:
+- Demonstrates body awareness in space including inverted positions
+- Shows coordination, core strength, and motor planning
+- Builds confidence with body movement in unusual orientations
+- Supports vestibular development (balance system)
+- Common component of gymnastics and physical education
+- Not all children enjoy inversions—forcing is not recommended
+
+---
+
+#### Skips
+
+About
+
+Around 4-5 years, children learn to skip—a complex movement pattern involving step-hop on alternating feet with rhythmic timing. According to motor milestone research, skipping is one of the most complex gross motor skills of early childhood, requiring bilateral coordination (alternating sides), rhythm, balance during single-leg hop phase, and motor sequencing. Children typically progress through galloping (leading with same foot) before achieving true skipping with alternating step-hops. Many children don't master skipping until age 5-6, with significant normal variation. Skipping involves coordination similar to walking but with added hop, making it substantially more challenging.
+
+What to look for:
+- Step-hop pattern on alternating feet (right step-hop, left step-hop)
+- Rhythmic timing maintained across several skips
+- Arms swinging in coordination with legs
+- Forward progression while skipping
+- Progression from galloping (one-sided) to true alternating skip
+- Smooth transitions between sides
+- Enjoyment and practice improving proficiency
+
+Why it matters:
+- One of most complex motor milestones of early childhood
+- Demonstrates bilateral coordination, rhythm, and motor planning
+- Shows balance sufficient for single-leg hop phase
+- Wide normal variation—many children don't skip until age 5-6 or later
+- Not predictive of motor concerns if delayed—some children skip late despite typical development
+- Often learned through observation, songs, and games
+
+---
+
+#### Stands on one foot 10+ seconds
+
+About
+
+By age 4-5, children can balance on one foot for 10 or more seconds, demonstrating excellent static balance and core strength. According to developmental milestones, standing balance on one foot progresses from 1-2 seconds at age 2, to 3-5 seconds at age 3, to 5-10 seconds at age 4, to 10+ seconds by age 5. This skill requires strength in the standing leg, core stability, vestibular function (inner ear balance), visual input, proprioception (body position sense), and concentration. Children may use arm movements for balance initially. Balance ability on one foot is important for many functional activities including dressing (standing to put on pants), sports, and play activities.
+
+What to look for:
+- Standing on one foot for 10+ seconds by age 5
+- Minimal wobbling or arm flailing
+- Ability to stand on both feet with similar proficiency
+- Maintaining balance without visual focus on foot (eyes can be on other things)
+- May use arms initially for balance
+- Concentration visible but becoming more automatic
+- Incorporating into games and activities (freeze dance, flamingo pose)
+
+Why it matters:
+- Indicates mature balance systems integration (vestibular, visual, proprioceptive)
+- Demonstrates core strength and single-leg stability
+- Essential for many functional activities including dressing
+- Foundation for sports and physical activities
+- Shows body awareness and control
+- Significant difficulty with balance by age 5 may warrant evaluation
+
+---
+
+#### Uses fork/spoon competently
+
+About
+
+By age 4-5, children use fork and spoon with mature grasp (not fisted), good control, appropriate food loading, and minimal spilling, feeding themselves independently. According to occupational therapy and self-care milestones, competent utensil use involves mature grasp with fingers (tripod or digital grasp rather than fisted palmar grasp), scooping and spearing food effectively, bringing utensil to mouth without spilling most of the time, and using utensils throughout meals rather than reverting to fingers. By this age, children can manage most foods including scooping rice or pasta, spearing vegetables or meat, and using utensils in social settings. Some mess is still expected, but dramatic improvement from toddler eating is evident.
+
+What to look for:
+- Mature grasp on utensils (fingers, not fisted in palm)
+- Successful scooping of various food textures
+- Effective spearing with fork
+- Bringing food to mouth without significant spilling
+- Using utensils throughout meals independently
+- Appropriate utensil choice for different foods
+- Socially appropriate eating with utensils in various settings
+
+Why it matters:
+- Demonstrates fine motor coordination and hand-eye coordination
+- Indicates self-care skills and independence progressing
+- Important for social eating situations and school meals
+- Shows maturation of grasp patterns
+- Enables participation in family and social meals
+- Foundation for more advanced utensil skills including knife use for cutting
+
+---
 
 #### 60M: Hops on one foot
 
@@ -9916,25 +11041,27 @@ Why it matters:
 
 About
 
-Comprehensive vision screening is strongly recommended before kindergarten. According to AAO and AAP guidelines, children should have professional vision screening by age 3-5 to detect problems early. Many vision issues are asymptomatic but impact learning. Early detection and treatment prevent permanent vision loss (amblyopia) and support school success. Critical preventive health measure.
+Children should receive comprehensive vision screening before starting kindergarten (ages 4-5) to identify any vision problems that could affect learning, reading development, hand-eye coordination, and classroom participation. According to AAP and American Academy of Ophthalmology guidelines, preschool vision screening tests visual acuity (clarity), eye alignment, depth perception, color vision, and overall eye health. Many vision problems including amblyopia (lazy eye), strabismus (eye misalignment), and refractive errors (nearsightedness, farsightedness, astigmatism) can be effectively treated if identified early but become more difficult to correct if detected after age 6-7. First comprehensive eye exam recommended by age 3, with screening before school entry.
 
-What to look for:
-- Vision screening completed by age 3-5
-- Professional evaluation, not just home tests
-- Checking acuity, alignment, eye health
-- Early detection of problems
-- Prompt treatment if issues found
-- Following up on recommendations
-- Ensuring vision supports learning
+What to look for (Signs of potential vision concerns):
+- Squinting, eye rubbing, or excessive blinking
+- Closing or covering one eye
+- Tilting head to see better
+- Sitting very close to television or holding books very close
+- Difficulty with eye-hand coordination tasks (catching, threading beads)
+- Avoiding coloring, puzzles, or visual detail activities
+- Complaining of headaches or tired eyes
+- Eyes appearing misaligned or one eye turning in/out
 
 Why it matters:
-- Critical preventive health screening
-- Many vision problems asymptomatic
-- Early detection prevents permanent vision loss
-- Untreated vision affects learning significantly
-- Treatment most effective when started early
-- AAO and AAP strongly recommend screening
-- Essential for school readiness and success
+- Undetected vision problems significantly impact school readiness and learning
+- Critical period for treating amblyopia closes around age 7-8
+- Early identification and treatment of eye misalignment prevents permanent vision loss
+- Vision problems affect reading development, writing, math, and all academic areas
+- Impacts behavior, attention, and social interaction in classroom
+- Many vision problems have no obvious symptoms but affect learning
+- Required by many schools for kindergarten entry
+- Children may not know their vision is abnormal or how to describe it
 
 ### HEARING
 
@@ -10038,25 +11165,25 @@ Why it matters:
 
 About
 
-Hearing screening is strongly recommended before kindergarten. According to AAP and ASHA guidelines, children should have hearing screening by age 4-5 to detect problems before school. Hearing loss impacts language, learning, and social development significantly. Early detection and intervention critical. Many children had newborn screening but hearing can change. Protects educational success.
+Children should receive hearing screening before starting kindergarten (ages 4-5) to identify any hearing problems that could affect learning, language development, social interactions, and academic performance. According to AAP and ASHA guidelines, even mild hearing loss can significantly impact speech development, following instructions, phonological awareness (important for reading), and classroom learning. Preschool screening tests various frequencies and volumes in both ears. In addition to birth screening, children should have periodic hearing checks, especially if history of ear infections, family history of hearing loss, or any concerns about hearing or speech. Many schools require documentation of hearing screening for kindergarten entry.
 
-What to look for:
-- Hearing screening completed by age 4-5
-- Professional evaluation
-- Checking hearing at all frequencies
-- Early detection of any hearing loss
-- Prompt intervention if problems found
-- Following up on recommendations
-- Ensuring hearing supports learning
+What to look for (Signs of potential hearing concerns):
+- Frequently saying "what?" or asking for repetition
+- Speaking louder than necessary
+- Difficulty following directions, particularly in noisy environments
+- Speech delays or articulation difficulties
+- Turning up volume on television or devices
+- Watching speakers' faces intently
+- Difficulty with phonological awareness tasks (rhyming, sound identification)
 
 Why it matters:
-- Critical preventive health screening
-- Hearing essential for learning and language
-- Hearing loss significantly impacts education
-- Early detection and intervention critical
-- Hearing can change after newborn screening
-- AAP and ASHA strongly recommend screening
-- Essential for school readiness and success
+- Even mild hearing loss significantly impacts learning and language
+- Early identification allows for intervention before school challenges develop
+- Hearing affects phonological awareness critical for reading development
+- May identify chronic ear fluid, wax buildup, or permanent hearing loss
+- Establishes baseline for future monitoring
+- Required by many schools for kindergarten entry
+- Undetected hearing loss is a common cause of learning and behavior difficulties
 
 ---
 
