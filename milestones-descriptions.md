@@ -6498,25 +6498,3590 @@ Why it matters:
 
 ## 24-36 MONTHS
 
-(Complete descriptions for all ~30 milestones across all categories...)
+### DEVELOPMENTAL - Gross Motor Skills
+
+#### 30M: Twists things (doorknobs, lids)
+
+About
+
+Twisting and rotating actions emerge 24-36 months. According to fine motor development milestones, toddlers can twist doorknobs, unscrew jar lids, turn faucets using wrist rotation and forearm supination/pronation. Requires bilateral coordination, motor planning, and strength. Shows advancing fine motor control and problem-solving. CDC notes this milestone indicates hand and wrist skill progressing, supporting independence in daily tasks.
+
+What to look for:
+- Turning doorknobs using wrist rotation
+- Unscrewing lids from jars or bottles
+- Operating faucets or knobs
+- Both hands working together
+- Appropriate force and direction
+- Problem-solving if mechanism is difficult
+- Applying skill to various objects
+
+Why it matters:
+- Fine motor and bilateral coordination milestone
+- Demonstrates wrist rotation and control
+- Shows problem-solving abilities
+- Supports independence (opening doors, containers)
+- Indicates motor planning advancing
+- Important functional daily skill
+- Foundation for more complex manipulations
+
+#### 30M: Takes off some clothes
+
+About
+
+Independent undressing advances 24-36 months. According to self-care milestones, toddlers can remove simple clothing: pulling off shirts, pants, underwear (when unfastened), shoes, socks. Requires motor planning, bilateral coordination, and sequencing. Undressing continues to be easier than dressing. Shows increasing independence and self-help skills. AAP notes this milestone supports toileting independence and autonomy development.
+
+What to look for:
+- Removing shirts/pullovers independently
+- Pulling down unfastened pants
+- Taking off shoes and socks
+- May still need help with fasteners
+- Sequencing steps appropriately
+- Persistence with challenging items
+- Pride in accomplishment
+
+Why it matters:
+- Self-care independence milestone
+- Demonstrates motor planning and coordination
+- Shows sequencing abilities
+- Essential for toileting independence
+- Supports autonomy and confidence
+- Precursor to dressing skills
+- Important daily living skill
+
+#### 30M: Jumps off ground with both feet
+
+About
+
+Bilateral jumping with clear airtime typically consolidates 24-36 months. According to WHO and CDC motor milestones, children jump with both feet leaving ground simultaneously and landing together. Earlier attempts (20-24M) were more stomping; now true jumping is consistent. Requires leg strength, bilateral coordination, balance, and motor planning. Foundation for more complex jumping skills. HSE notes this major gross motor milestone indicates coordination maturing.
+
+What to look for:
+- Both feet leaving ground simultaneously
+- Clear airtime (several inches)
+- Landing on both feet together
+- Bending knees for takeoff and landing
+- Arm swing for momentum
+- Consistent successful jumps
+- Jumping repeatedly for fun
+
+Why it matters:
+- Major gross motor coordination milestone
+- Demonstrates bilateral coordination and leg strength
+- Shows balance and motor control advancing
+- Foundation for hopping, skipping, galloping
+- Supports active play and physical confidence
+- Indicates motor planning and timing
+- Important for play and physical development
+
+#### 30M: Turns book pages one at a time
+
+About
+
+Refined page turning emerges 24-36 months. According to fine motor and literacy milestones, children can turn individual pages of books using thumb and finger, rather than flipping multiple pages. Requires finger dexterity, wrist control, and visual-motor coordination. Shows fine motor precision improving. AAP literacy guidelines note this milestone supports independent book exploration and pre-literacy engagement.
+
+What to look for:
+- Turning single pages consistently
+- Using thumb and fingers (pincer-like grasp)
+- Controlled wrist and finger movements
+- Minimal multiple-page flips
+- Interest in looking at each page
+- Independent book exploration
+- Improving accuracy over time
+
+Why it matters:
+- Fine motor dexterity milestone
+- Demonstrates finger control and coordination
+- Supports literacy and book engagement
+- Shows visual-motor precision
+- Encourages independent reading exploration
+- Indicates fine motor maturation
+- Important pre-literacy skill
+
+#### 30M: Snips with scissors (with supervision)
+
+About
+
+Beginning scissor use emerges 30-36 months with supervision. According to fine motor milestones, children can open and close scissors to make snips in paper, though controlled cutting along lines comes later (4+ years). Requires bilateral coordination (one hand holds paper, other operates scissors), hand strength, and motor planning. Safety scissors with rounded tips essential. Shows fine motor skills and hand dominance becoming established.
+
+What to look for:
+- Opening and closing scissors
+- Making snips in paper edge
+- One hand holding paper, other using scissors
+- Emerging hand preference
+- Concentration during task
+- Improving control over time
+- Following safety rules with supervision
+
+Why it matters:
+- Fine motor and bilateral coordination milestone
+- Demonstrates hand strength and control
+- Shows hand dominance establishing
+- Foundation for cutting skills
+- Supports pre-writing and school readiness
+- Requires safety awareness and supervision
+- Important fine motor and cognitive integration
+
+#### 30M: Uses stairs with alternating feet (with support)
+
+About
+
+Alternating feet on stairs emerges 30-42 months with support (hand-holding or rail). According to gross motor development, children transition from marking time pattern (both feet on each step) to mature alternating pattern (one foot per step). Initially requires support; independent alternating comes later (4+ years). Shows significant balance, coordination, and motor planning advancement. WHO notes this milestone indicates gross motor maturation progressing.
+
+What to look for:
+- One foot per step (alternating pattern)
+- Using rail or adult hand for support
+- Smooth, rhythmic movement
+- May be easier going up than down initially
+- Concentration and balance
+- Consistent alternating pattern
+- Improving confidence and speed
+
+Why it matters:
+- Major gross motor maturation milestone
+- Demonstrates advanced balance and coordination
+- Shows motor planning and rhythm
+- More efficient than marking time pattern
+- Supports mobility and independence
+- Indicates neurological maturation
+- Foundation for independent stair climbing
+
+#### 36M: Strings items together
+
+About
+
+Threading and stringing skills advance 30-48 months. According to fine motor milestones, children can string medium-sized beads, cheerios, or pasta onto laces or strings. Requires bimanual coordination, visual-motor integration, eye-hand precision, and sustained attention. Both hands work different roles: one stabilizes string, other manipulates item. Shows fine motor control and concentration developing. Supports pre-writing skills and hand-eye coordination.
+
+What to look for:
+- Threading beads or items onto string/lace
+- Both hands working cooperatively
+- Aligning holes with string
+- Stringing 3-10+ items in sequence
+- Sustained attention to task
+- Pride in creating necklaces/chains
+- Improving speed and accuracy
+
+Why it matters:
+- Bimanual coordination and fine motor milestone
+- Demonstrates visual-motor integration
+- Shows sustained attention and persistence
+- Foundation for more precise manipulations
+- Supports pre-writing skills
+- Indicates hand-eye coordination maturing
+- Encourages focused, constructive play
+
+#### 36M: Puts on some clothes
+
+About
+
+Independent dressing begins emerging 30-42 months. According to self-care milestones, children can put on simple clothing: pulling up unfastened pants, loose shirts, shoes (may be on wrong feet), hats. Requires significantly more motor planning and sequencing than undressing. May need help with fasteners, orientation, and complex items. AAP notes this self-care milestone indicates motor skills and independence developing, though complete dressing independence comes later (4-5 years).
+
+What to look for:
+- Pulling on simple pants or shorts
+- Putting arms through shirt sleeves
+- Attempting to put on shoes (may be wrong feet)
+- May get clothing backwards or inside-out
+- Persistence with challenging steps
+- May need help with fasteners
+- Pride in accomplishments
+
+Why it matters:
+- Self-care independence milestone
+- Demonstrates motor planning and sequencing
+- Shows spatial awareness developing
+- Supports autonomy and confidence
+- Important for school readiness
+- Indicates cognitive and motor integration
+- Foundation for complete dressing independence
+
+#### 36M: Uses fork
+
+About
+
+Functional fork use consolidates 30-42 months. According to AAP feeding guidelines, children use forks to spear and scoop foods effectively, though some messiness persists. Fork grip transitions from fisted to more mature finger grasp. Can eat most meals with fork, though fingers still used for some foods. Shows fine motor control, hand-eye coordination, and self-feeding maturity. Supports mealtime independence and appropriate utensil skills.
+
+What to look for:
+- Using fork for most of meal
+- Both spearing and scooping foods
+- Transitioning to finger grip on utensil
+- Getting most food to mouth
+- Appropriate pace and control
+- Some spilling decreasing
+- May alternate fork with fingers for challenging foods
+
+Why it matters:
+- Self-feeding independence milestone
+- Demonstrates fine motor coordination advancing
+- Shows visual-motor integration
+- Supports mealtime participation and manners
+- Indicates hand control and grip maturing
+- Encourages healthy eating habits
+- Important self-care skill
+
+#### 36M: Copies a circle
+
+About
+
+Copying a circle when demonstrated typically emerges 33-42 months. According to developmental milestones, children can imitate drawing a circle after watching adult demonstrate. Circle may not fully close and may be irregular, but round shape is recognizable. Requires visual attention, motor imitation, wrist rotation, and hand control. More complex than copying lines (24-30M); precedes copying cross (48M) and other shapes. CDC notes this pre-writing milestone indicates visual-motor skills advancing.
+
+What to look for:
+- Watching adult draw circle
+- Attempting round, circular motion
+- Creating recognizable circular shape
+- Circle may not close completely
+- May be irregular or oval-ish
+- Using appropriate crayon/marker grip
+- Sustained attention during demonstration and copying
+
+Why it matters:
+- Pre-writing and visual-motor milestone
+- Demonstrates motor control and wrist rotation
+- Shows ability to imitate complex forms
+- Foundation for letter formation (many letters contain curves)
+- Indicates visual-motor integration maturing
+- Supports pre-academic skills
+- Precursor to independent drawing and writing
+
+### DEVELOPMENTAL - Communication
+
+#### 30M: Says 50 words
+
+About
+
+Vocabulary typically reaches 50-200+ words by 30 months. According to ASHA milestones, expressive vocabulary continues expanding from the vocabulary explosion (18-24M). Children use words from all categories: people, objects, actions, descriptors, locations, social words, questions. Very wide individual variation: 30-400 words can all be within normal range. Understanding (receptive vocabulary) significantly exceeds expressive. ASHA notes fewer than 50 words by 30 months warrants evaluation.
+
+What to look for:
+- Using 50-200+ different words
+- Words from multiple categories
+- Continued rapid vocabulary growth
+- Combining words into sentences
+- Approximate pronunciations acceptable
+- Understanding significantly exceeds speaking
+- Wide individual variation
+
+Why it matters:
+- Language development milestone
+- Vocabulary foundation for sentence complexity
+- Shows symbolic thinking well-established
+- Wide variation normal (30-400 words)
+- Understanding exceeds production substantially
+- Fewer than 50 words by 30M warrants evaluation
+- Supports communication effectiveness
+
+#### 30M: Says 2+ words with action
+
+About
+
+Multi-word phrases including action words (verbs) are well-established by 30 months. According to language development milestones, children regularly combine action words with subjects and objects: "doggy running fast," "I want cookie," "daddy go work." Shows grammar complexity increasing beyond simple noun combinations. Verb vocabulary expanding. Telegraphic speech still typical (grammar words often omitted). Foundation for longer, more grammatically complex sentences.
+
+What to look for:
+- Regular use of action words in phrases
+- Common verbs: go, want, eat, play, sleep, run, etc.
+- Combining actions with people/objects
+- May omit grammar words (telegraphic)
+- Increasing sentence length and complexity
+- Describing ongoing events and desires
+- Growing variety of verbs
+
+Why it matters:
+- Grammar development milestone
+- Enables describing actions and events
+- Shows verb vocabulary expanding
+- Foundation for sentence complexity
+- Indicates language processing maturing
+- Supports effective communication
+- Important for expressing needs and observations
+
+#### 30M: Names things in books
+
+About
+
+Labeling pictures in books is well-established by 24-36 months. According to language and literacy development, children can name familiar objects, animals, and people in pictures when asked "What's that?" Shows vocabulary, visual recognition, and symbolic understanding (pictures represent real things). Supports language learning through books. AAP literacy guidelines emphasize shared reading for vocabulary and bonding.
+
+What to look for:
+- Naming familiar pictures when asked
+- Spontaneously labeling during reading
+- Consistent accurate naming
+- Expanding vocabulary of labeled items
+- Enjoyment of naming games
+- Pointing and naming together
+- Connecting pictures to real experiences
+
+Why it matters:
+- Language and literacy milestone
+- Demonstrates vocabulary knowledge
+- Shows symbolic understanding
+- Supports language learning through books
+- Encourages shared reading engagement
+- Indicates visual recognition and memory
+- Important pre-literacy skill
+
+#### 30M: Says "I/me/we"
+
+About
+
+Pronoun use expands significantly 24-36 months. According to language development milestones, children increasingly use first-person pronouns ("I," "me," "my," "mine," "we") though errors remain common. May mix pronouns with own name. Pronoun case errors typical: "me do it" instead of "I do it." Correct pronoun grammar develops 3-5 years. Shows advancing grammar and self/other understanding. ASHA notes pronoun development indicates language complexity increasing.
+
+What to look for:
+- Regular use of "I," "me," "my," "mine"
+- Attempting "we" and "us"
+- May still mix with using own name
+- Case errors common ("me go")
+- Gradually increasing correct usage
+- "You" and "they" also emerging
+- Improving but not perfect
+
+Why it matters:
+- Grammar development milestone
+- Shows self-awareness and identity
+- Indicates understanding of perspectives
+- Foundation for complex grammar
+- Errors at this age are normal and expected
+- Demonstrates language structure developing
+- Supports communication effectiveness
+
+#### 36M: Conversation with 2+ back-and-forth exchanges
+
+About
+
+Conversational turn-taking consolidates 30-42 months. According to ASHA and language development guidelines, children can engage in 2-4+ conversational exchanges on a topic: child speaks, adult responds, child responds back, etc. Shows understanding of conversation rules, topic maintenance, listening, and social communication. May change topics frequently still. Indicates social-communication skills and language competence advancing together.
+
+What to look for:
+- Taking turns in conversation (2-4+ exchanges)
+- Responding to questions and comments appropriately
+- Staying on topic (briefly)
+- Listening when others speak
+- Contributing relevant comments
+- May change topics but can maintain briefly
+- Improving conversational skills over time
+
+Why it matters:
+- Social-communication development milestone
+- Demonstrates conversational understanding
+- Shows listening and responding skills
+- Indicates language competence
+- Foundation for complex conversations
+- Supports social relationships
+- Important pragmatic language skill
+
+#### 36M: Asks who/what/where/why questions
+
+About
+
+Question variety expands significantly 30-42 months. According to language development, children ask "who," "what," "where," and beginning "why" questions. "Why" questions often emerge 36+ months and can be frequent. Questions show curiosity, language complexity, and desire to understand world. ASHA notes question-asking indicates receptive and expressive language integrating, supporting learning.
+
+What to look for:
+- "What" questions: "What's that?" "What doing?"
+- "Where" questions: "Where daddy?" "Where it go?"
+- "Who" questions: "Who's that?"
+- Beginning "why" questions: "Why?" (may be repetitive)
+- Genuine information-seeking
+- Frequent questioning throughout day
+- Variety of question types
+
+Why it matters:
+- Language and cognitive development milestone
+- Shows curiosity and desire to learn
+- Indicates language complexity increasing
+- Foundation for learning and understanding
+- Supports vocabulary and concept development
+- Demonstrates understanding of question forms
+- Important for cognitive growth
+
+#### 36M: Says action in pictures
+
+About
+
+Describing actions in pictures emerges 30-42 months. According to language development, children can identify and label what people/animals are doing in pictures: "running," "eating," "sleeping." Shows verb vocabulary, visual understanding, and ability to describe events. More advanced than simply naming objects. Supports language learning through books and conversations. Shows comprehension and expression of actions advancing.
+
+What to look for:
+- Identifying actions in pictures: "eating," "running"
+- Using verbs to describe what's happening
+- Responding to "What is he/she doing?"
+- Spontaneously describing picture actions
+- Connecting actions to own experiences
+- Growing action vocabulary
+- Describing simple scenes
+
+Why it matters:
+- Language development milestone
+- Demonstrates verb vocabulary expanding
+- Shows ability to describe events
+- Supports language learning through visual media
+- Indicates comprehension of actions
+- Foundation for narrative skills
+- Important for communication effectiveness
+
+#### 36M: Says first name
+
+About
+
+Saying own first name clearly is typically established by 30-36 months. According to language and self-awareness milestones, children can state their first name when asked "What's your name?" Shows self-awareness, identity, and language skills. May still refer to self in third person alongside pronouns. Knowing full name (first and last) typically develops 36-48 months. Shows social-communication and identity development.
+
+What to look for:
+- Clearly stating own first name when asked
+- Consistent accurate pronunciation
+- May still use name in third person sometimes
+- Responding to "What's your name?"
+- Pride in saying name
+- Understanding name represents self
+- Beginning to learn last name
+
+Why it matters:
+- Self-awareness and identity milestone
+- Social-communication development
+- Important for social interactions
+- Shows language and identity integration
+- Foundation for learning full name
+- Supports social-emotional development
+- Important for safety (knowing own name)
+
+#### 36M: Talks well enough for others to understand most time
+
+About
+
+Speech intelligibility typically reaches 75-80% to unfamiliar listeners by 36 months. According to ASHA guidelines, strangers can understand about 3/4 of child's speech. Parents/familiar caregivers understand nearly all. Shows speech sound development progressing. Some articulation errors remain normal (s, z, r, th, l typically still developing). Intelligibility continues improving toward near 100% by age 4-5. Speech clarity important for communication effectiveness.
+
+What to look for:
+- Unfamiliar adults understand 75%+ of speech
+- Parents understand nearly all speech
+- Clear production of most sounds
+- Some sound errors remain normal
+- Improving clarity over time
+- Context helps understanding
+- Consistent words and phrases
+
+Why it matters:
+- Speech development milestone
+- 75% intelligibility by age 3 is expected
+- Shows speech sound system maturing
+- Communication effectiveness increasing
+- Some errors remain normal at this age
+- Significantly unclear speech warrants evaluation
+- Supports social interaction and learning
+
+#### 36M: Understands who/what/where questions
+
+About
+
+Comprehension of wh-questions expands 24-42 months. According to language development guidelines, children understand and can answer "who," "what," and "where" questions about familiar topics and situations. "Why" and "how" understanding develops later (4+ years). Shows receptive language, comprehension, and question-form understanding. Answering questions requires more skills than just understanding them. Supports learning and conversation.
+
+What to look for:
+- Understanding "what" questions and responding appropriately
+- Understanding "where" questions (location)
+- Understanding "who" questions (person)
+- Answering with words, gestures, or pointing
+- May need context for complex questions
+- Understanding exceeds ability to ask questions initially
+- Improving accuracy of responses
+
+Why it matters:
+- Receptive language development milestone
+- Shows comprehension of question forms
+- Supports learning and information gathering
+- Indicates language processing advancing
+- Foundation for more complex question understanding
+- Enables effective communication
+- Important for cognitive and academic development
+
+#### 36M: Follows 2-3 part instructions when focused
+
+About
+
+Following multi-step instructions advances 30-42 months. According to language development, children can follow 2-3 related instructions when focused and paying attention: "Get your shoes, put them on, and come here." Requires receptive language, auditory memory, sequencing, and sustained attention. Depends on complexity, familiarity, and child's attention state. ASHA notes this milestone indicates language comprehension and cognitive skills advancing together.
+
+What to look for:
+- Following 2-3 step related instructions
+- Remembering all steps in sequence
+- Completing actions appropriately
+- Better with familiar, routine instructions
+- Requires focus and attention
+- May forget steps if distracted
+- Improving with practice and development
+
+Why it matters:
+- Receptive language and memory milestone
+- Demonstrates auditory memory and sequencing
+- Shows attention and processing abilities
+- Important for learning and daily routines
+- Foundation for following complex instructions
+- Supports school readiness
+- Indicates cognitive and language integration
+
+#### 36M: Uses sounds b, p, n, m, d, t, w, h
+
+About
+
+Early speech sound development includes consistent production of /b/, /p/, /n/, /m/, /d/, /t/, /w/, /h/ by age 3. According to ASHA speech development norms, these are among the earliest-developing sounds. Other sounds continue developing through age 5-7 (r, s, z, th, l, sh, ch, j). Some substitutions and errors remain normal. Speech-language pathologists evaluate articulation development based on age norms. Wide individual variation exists.
+
+What to look for:
+- Clear production of b, p, n, m sounds
+- Consistent d, t, w, h sounds
+- These sounds used in words correctly
+- Other sounds may be substituted or omitted (normal)
+- Improving clarity over time
+- Individual variation in sound development
+- Context and familiarity help understanding
+
+Why it matters:
+- Speech sound development milestone
+- These are earliest-developing sounds
+- Shows articulation progressing normally
+- Other sounds develop later (through age 7)
+- Wide individual variation is normal
+- Persistent errors with early sounds may warrant evaluation
+- Foundation for clear speech
+
+### DEVELOPMENTAL - Social & Emotional
+
+#### 30M: Plays next to and sometimes with other children
+
+About
+
+Parallel play remains dominant 24-36 months, with emerging associative play. According to social development research, children play alongside peers (parallel) and begin brief interactive play: sharing toys momentarily, simple turn-taking, copying each other. True cooperative play with shared goals develops later (3-4+ years). Shows social awareness and peer interest advancing. May have conflicts over toys. CDC notes this social milestone indicates readiness for group settings and peer interaction.
+
+What to look for:
+- Playing alongside other children (parallel play)
+- Brief interactive moments
+- Copying peers' actions
+- Beginning to share toys momentarily
+- Simple turn-taking attempts
+- Conflicts over possessions common
+- More social engagement than younger toddlers
+
+Why it matters:
+- Social development milestone
+- Parallel play is still developmentally appropriate
+- Shows emerging interactive play
+- Foundation for cooperative play later
+- Supports social skill development
+- Indicates peer awareness advancing
+- Important for group care success
+
+#### 30M: Shows what they can do
+
+About
+
+Showing off accomplishments and seeking recognition increases 24-36 months. According to social-emotional development, children proudly demonstrate skills to caregivers: "Look at me!" Shows developing self-awareness, pride, and desire for approval. Seeks attention and praise for achievements. Indicates healthy self-esteem development and social awareness. Shows understanding that others notice and value accomplishments.
+
+What to look for:
+- "Look at me!" attention-seeking
+- Proudly demonstrating new skills
+- Seeking praise and recognition
+- Repeating praised behaviors
+- Visible pride in accomplishments
+- Wanting others to watch
+- Responding positively to encouragement
+
+Why it matters:
+- Social-emotional development milestone
+- Shows self-awareness and pride emerging
+- Indicates desire for social approval
+- Foundation for healthy self-esteem
+- Supports motivation and learning
+- Demonstrates social awareness
+- Normal and healthy attention-seeking
+
+#### 30M: Follows simple routines
+
+About
+
+Following familiar routines becomes more reliable 24-36 months. According to developmental guidelines, children can follow established routines with minimal prompting: bedtime sequence, mealtime routines, getting ready to go out. Shows memory, understanding of sequences, and cooperation. Routines provide security and predictability. AAP notes routines support child development, self-regulation, and family functioning.
+
+What to look for:
+- Following familiar routines (bedtime, meals)
+- Anticipating next steps in sequence
+- Participating cooperatively
+- May remind adults of routine steps
+- Less resistance when routines are consistent
+- Understanding of "what comes next"
+- Pride in following routines independently
+
+Why it matters:
+- Cognitive and social-emotional milestone
+- Shows memory and sequencing understanding
+- Supports cooperation and self-regulation
+- Provides security and predictability
+- Foundation for more complex routines
+- Indicates understanding of expectations
+- Important for smooth daily functioning
+
+#### 30M: Drinks from open cup without spilling
+
+About
+
+Drinking from open cups without spilling consolidates 30-42 months. According to self-care milestones, children can drink from regular cups independently with minimal spilling. Requires motor control, visual-motor coordination, and understanding liquid dynamics. Shows fine motor and self-help skills maturing. AAP encourages open cup use for healthy oral development and drinking skills.
+
+What to look for:
+- Drinking from open cup independently
+- Minimal or no spilling
+- Appropriate cup control and tipping
+- One-handed or two-handed grasp
+- Setting cup down without spilling
+- Consistent success across meals
+- Confidence in cup use
+
+Why it matters:
+- Fine motor and self-care milestone
+- Demonstrates motor control mastery
+- Shows visual-motor coordination mature
+- Supports mealtime independence
+- Indicates self-help skills advancing
+- Encourages healthy drinking habits
+- Important independence achievement
+
+#### 36M: Calms within 10 minutes after drop-off
+
+About
+
+Separation adaptation improves significantly by age 3. According to attachment and social-emotional development guidelines, most children can separate from caregivers for childcare/preschool and calm within 10 minutes. Brief protest is normal, but recovery is faster. Shows secure attachment, trust in caregivers' return, emotional regulation, and adaptability. Persistent difficulty may indicate insecure attachment or other concerns. Wide individual variation exists.
+
+What to look for:
+- Calming within 10 minutes of separation
+- Engaging in activities after caregiver leaves
+- May protest briefly but recovers
+- Comfortable with familiar caregivers
+- Trusting caregiver will return
+- Positive reunion behavior
+- Some regression during stress normal
+
+Why it matters:
+- Social-emotional development milestone
+- Shows secure attachment and trust
+- Indicates emotional regulation maturing
+- Supports childcare and preschool success
+- Demonstrates adaptability and resilience
+- Wide variation normal (temperament-dependent)
+- Persistent extreme distress warrants evaluation
+
+#### 36M: Notices other children and joins play
+
+About
+
+Peer awareness and social approach increase significantly 30-42 months. According to social development research, children actively notice peers, approach them, attempt to join play, and show interest in interactive games. Moving from parallel toward associative play. May still have conflicts and need support with sharing and turn-taking. Shows social motivation and peer relationship foundation developing.
+
+What to look for:
+- Noticing and watching other children
+- Approaching peers to play
+- Attempting to join ongoing play
+- Interest in interactive games
+- Beginning to share and take turns (with support)
+- Copying peers frequently
+- Both interest and some conflict
+
+Why it matters:
+- Social development milestone
+- Shows peer relationship interest
+- Foundation for friendships
+- Indicates social skills developing
+- Supports preschool and group care success
+- Moving toward cooperative play
+- Important for social-emotional growth
+
+#### 36M: Interested in body parts/genitals
+
+About
+
+Body curiosity continues 24-48 months. According to child development and AAP guidelines, interest in bodies, body parts, and gender differences is normal exploratory behavior. Children may ask questions, explore own bodies, notice differences. Not sexual behavior but normal developmental curiosity. Parents can teach correct anatomical terms, basic privacy concepts, and respond calmly. Supports body awareness and healthy development.
+
+What to look for:
+- Questions about bodies and differences
+- Noticing gender differences
+- Touching or exploring own body
+- Curiosity about how bodies work
+- Comparing self to others
+- Normal exploratory behavior
+- Part of developing body awareness
+
+Why it matters:
+- Normal body awareness and curiosity
+- Part of healthy development
+- Not sexual behavior at this age
+- Opportunity for education (correct terms, privacy)
+- Foundation for body autonomy understanding
+- Supports healthy body image
+- Excessive focus warrants professional guidance
+
+#### 36M: Uses toilet with assistance
+
+About
+
+Toilet training typically progresses 24-42 months with wide individual variation. According to AAP toilet training guidelines, readiness signs include staying dry for periods, recognizing need to go, communication, following instructions, and interest. Training is process requiring child readiness, parental patience, and positive approach. Most children achieve daytime continence 24-48 months. Nighttime dryness comes later. Forcing before readiness can backfire.
+
+What to look for:
+- Showing interest in toilet
+- Recognizing need to urinate/defecate
+- Communicating need (words or signals)
+- Cooperating with toilet routine
+- Some successful toilet uses
+- Accidents still common and normal
+- Gradual progression toward independence
+
+Why it matters:
+- Major self-care milestone
+- Readiness varies widely (18-42 months normal)
+- Requires physical, cognitive, emotional readiness
+- Forcing before ready can backfire
+- Positive, patient approach important
+- Indicates developing body awareness and control
+- Foundation for toileting independence
+
+#### 36M: Washes and dries hands with help
+
+About
+
+Hand washing participation advances 30-42 months. According to self-care and hygiene milestones, children can wash and dry hands with minimal help: turning on water, using soap, rubbing hands, rinsing, drying. May need reminders for thoroughness and help with water temperature, soap amount. Shows understanding of hygiene routines and self-care sequences. AAP emphasizes establishing good hygiene habits early.
+
+What to look for:
+- Following hand washing sequence
+- Turning water on/off
+- Using soap independently
+- Rubbing hands together
+- Rinsing and drying
+- May need reminders for thoroughness
+- Understanding routine with minimal prompts
+
+Why it matters:
+- Self-care and hygiene milestone
+- Demonstrates routine understanding
+- Shows sequencing and motor skills
+- Foundation for independent hygiene
+- Supports health and illness prevention
+- Indicates cooperation and following directions
+- Important life skill
+
+### DEVELOPMENTAL - Cognitive
+
+#### 30M: Uses things to pretend
+
+About
+
+Symbolic and pretend play become more elaborate 24-36 months. According to cognitive development research, children use objects symbolically: blocks as phones, boxes as cars, sticks as swords. Can pretend without props: stirring pretend soup, drinking pretend tea. Shows imagination, symbolic thinking, and cognitive flexibility. Pretend play supports cognitive, language, and social-emotional development. Increases in complexity through preschool years.
+
+What to look for:
+- Using objects to represent other things
+- Pretending without real objects
+- Acting out scenarios (cooking, sleeping)
+- Simple pretend sequences
+- Sound effects and narration
+- Involving others in pretend play
+- Increasing creativity and complexity
+
+Why it matters:
+- Major cognitive milestone (symbolic thinking)
+- Demonstrates imagination and creativity
+- Shows cognitive flexibility
+- Supports language and social development
+- Foundation for complex pretend play
+- Indicates representational thinking
+- Important for learning and development
+
+#### 30M: Shows problem solving
+
+About
+
+Problem-solving abilities advance significantly 24-36 months. According to cognitive development, children attempt multiple solutions when faced with challenges: using tools to reach objects, stacking items to climb, trying different puzzle piece orientations. Shows persistence, trial-and-error learning, planning, and cognitive flexibility. May seek help when stuck. Foundation for later academic problem-solving and critical thinking.
+
+What to look for:
+- Trying multiple approaches to solve problems
+- Using tools or objects to help
+- Persistence when challenged
+- Trial-and-error learning
+- Planning ahead briefly
+- Seeking help when needed
+- Pleasure in figuring things out
+
+Why it matters:
+- Cognitive development milestone
+- Demonstrates thinking and planning abilities
+- Shows persistence and resilience
+- Foundation for academic learning
+- Indicates cognitive flexibility
+- Supports independence and confidence
+- Important for lifelong learning
+
+#### 30M: Follows 2-step instructions
+
+About
+
+Following two-step related commands becomes reliable 24-36 months. According to language and cognitive development, children can follow instructions like "get your coat and put it on" or "pick up the toys and put them in the box." Requires receptive language, auditory memory, sequencing, and attention. Related steps are easier than unrelated. Foundation for following more complex multi-step directions.
+
+What to look for:
+- Following 2-step related directions consistently
+- Remembering both steps in order
+- Completing both actions appropriately
+- Better with familiar routines
+- Requires attention and focus
+- Improving with practice
+- May need repetition if distracted
+
+Why it matters:
+- Receptive language and memory milestone
+- Demonstrates auditory memory and sequencing
+- Shows attention and processing
+- Important for learning and daily routines
+- Foundation for complex instruction-following
+- Supports school readiness
+- Indicates language and cognitive integration
+
+#### 30M: Names 2+ colors
+
+About
+
+Color naming emerges 30-42 months. According to cognitive and language development, children can consistently name 2-4+ colors when asked. Color recognition (matching, sorting) develops earlier (24-30M); naming requires language integration. Wide individual variation in color vocabulary development. Shows visual discrimination, memory, and language connection. Foundation for expanded color knowledge.
+
+What to look for:
+- Naming 2-4+ colors correctly
+- Consistent accurate identification
+- May include: red, blue, yellow, green
+- Expanding color vocabulary
+- Matching colors before naming
+- Pride in color knowledge
+- Improving accuracy and variety
+
+Why it matters:
+- Cognitive and language milestone
+- Shows visual discrimination and memory
+- Demonstrates language-concept integration
+- Foundation for broader color knowledge
+- Supports pre-academic skills
+- Indicates concept learning
+- Important for school readiness
+
+#### 36M: Draws circle when shown
+
+About
+
+Drawing (not copying) a circle emerges 36-48 months. According to developmental milestones, children can draw a circle independently after seeing it demonstrated, though shape may be irregular. Different from scribbling or copying; shows intention to create specific form. Requires motor planning, wrist rotation, and visual-motor integration. Precedes drawing people, simple figures, and other shapes. Shows fine motor and cognitive skills advancing.
+
+What to look for:
+- Drawing circular shape after demonstration
+- Intentional attempt at circle (not scribble)
+- May be irregular or incomplete
+- Closed or nearly closed shape
+- Improving with practice
+- Using appropriate crayon/marker grip
+- Satisfaction with creating recognizable shape
+
+Why it matters:
+- Pre-writing and cognitive milestone
+- Demonstrates intentional form creation
+- Shows motor planning and control
+- Foundation for drawing and writing
+- Indicates visual-motor skills maturing
+- Supports creative expression
+- Important pre-academic skill
+
+#### 36M: Avoids hot objects when warned
+
+About
+
+Understanding and heeding safety warnings develops 30-42 months. According to cognitive and safety development, children can understand "hot," "sharp," "dangerous" and avoid warned hazards. Shows memory, language comprehension, impulse control, and safety awareness emerging. May still need reminders and supervision. Indicates cognitive understanding of consequences and ability to inhibit behavior. Foundation for safety awareness and self-protection.
+
+What to look for:
+- Understanding warnings ("hot," "sharp")
+- Avoiding warned objects or areas
+- Remembering safety rules with reminders
+- May verbalize warnings to self or others
+- Improving impulse control
+- Still needs supervision for safety
+- Shows caution when warned
+
+Why it matters:
+- Safety awareness and cognitive milestone
+- Shows understanding of consequences
+- Demonstrates impulse control emerging
+- Supports injury prevention
+- Indicates language comprehension and memory
+- Foundation for broader safety understanding
+- Still requires supervision despite understanding
+
+### GROWTH
+
+#### 30M: Boys 29 lb 5 oz; Girls 28 lb 2 oz
+
+About
+
+At 30 months, average weights are approximately 29 lb 5 oz (13.3 kg) for boys and 28 lb 2 oz (12.8 kg) for girls, according to WHO growth standards. Height averages approximately 36-37 inches. Growth rate continues slower than infancy and early toddlerhood. Individual variation remains substantial based on genetics and growth patterns. Body proportions becoming more child-like: leaner, longer-legged. Pediatric monitoring uses growth charts tracking individual patterns.
+
+What to look for:
+- Steady growth following individual curve
+- Height approximately 36-37 inches
+- Leaner toddler proportions
+- Healthy appetite and activity
+- Growth plotted on charts
+- Individual variation normal
+- Consistent growth pattern
+
+Why it matters:
+- Growth monitoring for health
+- Individual variation substantial and normal
+- Growth pattern over time most important
+- Slower growth rate expected
+- Supports healthy development
+- Regular pediatric monitoring recommended
+- Concerns warrant evaluation
+
+#### 36M: Boys 31 lb 12 oz; Girls 30 lb 10 oz
+
+About
+
+At 36 months, average weights are approximately 31 lb 12 oz (14.5 kg) for boys and 30 lb 10 oz (13.9 kg) for girls, according to WHO growth standards. Height averages approximately 37-38 inches. Growth rate continues steady but slower than earlier years. Individual variation remains significant. Body proportions more child-like than toddler. Pediatric monitoring uses growth charts tracking individual patterns and percentiles.
+
+What to look for:
+- Steady growth following individual curve
+- Height approximately 37-38 inches
+- Child-like body proportions
+- Healthy appetite and activity
+- Consistent growth pattern on charts
+- Individual variation normal
+- Regular pediatric monitoring
+
+Why it matters:
+- Growth monitoring for health assessment
+- Individual variation is normal
+- Growth pattern over time most important
+- Continued slower growth expected
+- Nutrition supports development
+- Regular monitoring recommended
+- Concerns warrant evaluation
+
+#### Body proportions becoming more child-like
+
+About
+
+Body proportions shift significantly 24-48 months. According to growth and development, children transition from toddler (round, short-legged, large head) to child proportions (leaner, longer-legged, more proportional). Legs lengthen relative to trunk. Head-to-body ratio decreases. Center of gravity lowers, improving balance. These changes support increasing physical abilities. Normal developmental progression as growth continues.
+
+What to look for:
+- Leaner appearance, less "baby fat"
+- Legs lengthening relative to body
+- Head appearing more proportional
+- More athletic, child-like build
+- Improving balance and coordination
+- Individual variation in timing
+- Gradual transition over months/years
+
+Why it matters:
+- Normal growth and development
+- Proportional changes support motor abilities
+- Lower center of gravity improves balance
+- Transition from toddler to child appearance
+- Individual variation in timing and extent
+- Supports advancing physical skills
+- Normal maturation process
+
+### TEETH
+
+#### 23M: Second molars complete
+
+About
+
+Second primary molars complete eruption 23-33 months. According to dental development and AAP guidelines, upper and lower second molars finish emerging, completing the full set of 20 primary teeth. Teething discomfort resolves as eruption completes. Shows primary dentition complete. Dental care critical with all teeth present. AAP and AAPD recommend established dental care routine, regular dental visits, fluoride toothpaste, and limiting sugary foods/drinks.
+
+What to look for:
+- All second molars fully erupted
+- 20 total primary teeth present
+- Teething symptoms resolved
+- Complete primary dentition
+- All teeth visible and functional
+- Established dental care routine
+- Healthy teeth and gums
+
+Why it matters:
+- Completes primary dental development
+- All 20 primary teeth present
+- Enables full dietary variety
+- Supports speech development
+- Dental care critical for cavity prevention
+- Primary teeth important until permanent teeth (age 6-12)
+- Regular dental care essential
+
+#### 36M: Complete set of 20 primary teeth (10 upper, 10 lower)
+
+About
+
+By 36 months, nearly all children have complete primary dentition: 20 teeth total (10 upper, 10 lower). According to dental development, includes 8 incisors, 4 canines, 8 molars. Primary teeth remain until permanent teeth erupt (starting age 6). AAPD and AAP emphasize: twice-daily brushing with fluoride toothpaste (pea-sized amount by age 3), regular dental visits, limiting sugary foods/drinks, and establishing lifelong dental habits.
+
+What to look for:
+- 20 primary teeth total
+- 10 upper, 10 lower
+- Healthy teeth and gums
+- Established brushing routine (twice daily)
+- Regular dental visits
+- Appropriate diet for dental health
+- No signs of cavities or decay
+
+Why it matters:
+- Complete primary dentition
+- Essential for nutrition and chewing
+- Important for speech development
+- Primary teeth hold space for permanent teeth
+- Dental care prevents cavities and pain
+- Establishes lifelong oral health habits
+- Primary teeth important until age 6-12
+
+### VISION
+
+#### Vision fully developed to adult level
+
+About
+
+Visual system reaches adult functional levels by age 3 according to AAO and pediatric ophthalmology guidelines. Visual acuity typically 20/30-20/25. Color vision, depth perception, eye teaming, tracking, and focusing are mature. However, visual system remains sensitive to abnormalities until age 8-10; amblyopia (lazy eye) can still develop if problems go uncorrected. AAO recommends comprehensive vision screening by age 3-5 and prompt treatment of any issues.
+
+What to look for:
+- Clear vision at all distances
+- Both eyes working together
+- Smooth tracking and focusing
+- Accurate depth perception
+- Normal color vision
+- No squinting, head tilting, eye rubbing
+- Age-appropriate visual skills
+
+Why it matters:
+- Vision development milestone
+- Adult-level visual function achieved
+- Visual system still sensitive to problems until age 8-10
+- Early detection and treatment critical
+- Uncorrected vision affects all development
+- Comprehensive screening recommended by age 3-5
+- Most vision problems treatable if caught early
+
+#### Identifies and matches colors
+
+About
+
+Color matching and identification are well-established by 36-48 months. According to visual and cognitive development, children can match identical colors, sort by color, and identify/name common colors. Shows visual discrimination, color vision, memory, and language integration. Individual variation in color vocabulary. Supports pre-academic skills and concept learning. Foundation for more complex visual discrimination.
+
+What to look for:
+- Matching same colors together
+- Sorting objects by color
+- Naming 3-6+ colors correctly
+- Consistent accurate identification
+- Understanding "same color" concept
+- Expanding color vocabulary
+- Using color in descriptions
+
+Why it matters:
+- Visual and cognitive development milestone
+- Shows visual discrimination and memory
+- Demonstrates concept understanding
+- Supports pre-academic skills
+- Indicates normal color vision
+- Important for learning and classification
+- Foundation for academic concepts
+
+#### Visual memory well-established
+
+About
+
+Visual memory strengthens significantly 24-48 months. According to cognitive development, children remember visual details, recognize familiar people from distance, remember locations of objects, and recall pictures/scenes. Visual memory supports learning, navigation, face recognition, and daily functioning. Shows brain development and memory systems maturing. Foundation for academic learning and daily independence.
+
+What to look for:
+- Remembering where objects are kept
+- Recognizing familiar people and places
+- Recalling details from pictures or experiences
+- Finding familiar locations
+- Memory for visual sequences
+- Improving over time
+- Using visual memory in play and daily life
+
+Why it matters:
+- Cognitive development milestone
+- Visual memory supports learning
+- Enables navigation and independence
+- Supports face and object recognition
+- Foundation for academic learning
+- Indicates memory systems maturing
+- Important for daily functioning
+
+### HEARING
+
+#### 36M: Clear speech strangers understand most of time
+
+About
+
+Speech intelligibility reaches 75-80%+ to unfamiliar listeners by age 3. According to ASHA guidelines, strangers understand most of what child says, though some articulation errors remain normal. Parents understand nearly 100%. Speech clarity continues improving toward full intelligibility by age 4-5. Clarity depends on normal hearing, oral-motor development, and practice. Significantly unclear speech warrants evaluation.
+
+What to look for:
+- Strangers understand 75-80%+ of speech
+- Parents understand nearly all
+- Most speech sounds clear
+- Some errors remain normal (s, r, th, l)
+- Improving clarity over time
+- Effective communication
+- Context helps understanding
+
+Why it matters:
+- Speech development milestone
+- Communication effectiveness critical
+- 75-80%+ intelligibility expected by age 3
+- Depends on normal hearing
+- Some sound errors normal through age 7
+- Significantly unclear speech warrants evaluation
+- Supports social interaction and learning
+
+#### Follows multi-step instructions
+
+About
+
+Following 2-3+ step instructions becomes reliable 30-42 months. According to language development, children can follow multi-step related commands when paying attention: "Get your shoes, put them on, and come to the door." Requires receptive language, auditory memory, sequencing, and attention. Familiar routines easier than novel instructions. Shows language and cognitive skills maturing together.
+
+What to look for:
+- Following 2-3+ step instructions
+- Remembering all steps in order
+- Completing actions correctly
+- Better with familiar routines
+- Attention affects performance
+- Improving with age and practice
+- May need repetition if distracted
+
+Why it matters:
+- Receptive language and memory milestone
+- Demonstrates auditory memory and sequencing
+- Shows attention and processing
+- Depends on normal hearing
+- Important for learning and routines
+- Supports school readiness
+- Indicates language-cognitive integration
+
+#### Understands most of what's said
+
+About
+
+Receptive language (comprehension) is extensive by age 3. According to language development, children understand most everyday conversation, questions, and instructions. Comprehension significantly exceeds expressive language. Can follow complex sentences, understand stories, and grasp most communication. Shows language processing well-established. Depends on normal hearing. Comprehension difficulties warrant evaluation.
+
+What to look for:
+- Understanding everyday conversation
+- Following complex instructions
+- Comprehending stories and explanations
+- Responding appropriately to questions
+- Understanding significantly exceeds speaking
+- Grasping new words from context
+- Minimal need for repetition
+
+Why it matters:
+- Receptive language development milestone
+- Comprehension foundation for all learning
+- Understanding exceeds expression substantially
+- Depends on normal hearing
+- Supports language and cognitive growth
+- Comprehension difficulties warrant evaluation
+- Critical for social and academic success
 
 ---
 
 ## 36-48 MONTHS
 
-(Complete descriptions for all ~25 milestones across all categories...)
+### DEVELOPMENTAL - Gross Motor Skills
+
+#### 48M: Catches large ball most of time
+
+About
+
+Catching a large ball becomes reliable 42-60 months. According to gross motor development milestones, children can catch large balls (8-10 inches) thrown gently from 5-6 feet away. Requires visual tracking, motor planning, timing, bilateral coordination, and anticipation. Early attempts involve trapping ball against body; mature catching with hands alone develops later. WHO and CDC note this milestone indicates eye-hand coordination and motor timing maturing significantly.
+
+What to look for:
+- Catching large balls successfully most attempts
+- Tracking ball visually from thrower to self
+- Positioning arms and hands appropriately
+- Timing arm closure with ball arrival
+- May trap against chest initially
+- Improving to hands-only catching
+- Consistent success with practice
+
+Why it matters:
+- Eye-hand coordination and timing milestone
+- Demonstrates visual-motor integration
+- Shows anticipation and motor planning
+- Foundation for ball sports and games
+- Indicates bilateral coordination advancing
+- Supports active play and peer interaction
+- Important gross motor and social skill
+
+#### 48M: Serves self food/water with supervision
+
+About
+
+Self-service at meals advances 42-60 months with supervision. According to self-care milestones, children can pour drinks from small pitchers, serve food with large spoons, and help themselves to snacks with minimal assistance. Requires motor control, planning, and judgment. Some spilling still occurs. Supervision needed for safety and appropriate portions. AAP notes this independence milestone supports self-help skills and confidence.
+
+What to look for:
+- Pouring liquids from small pitcher
+- Serving food with serving utensils
+- Appropriate portion sizes (with guidance)
+- Some spilling decreasing
+- Following mealtime routines
+- Asking for help when needed
+- Growing independence with supervision
+
+Why it matters:
+- Self-care independence milestone
+- Demonstrates motor control and planning
+- Shows judgment developing
+- Supports autonomy and confidence
+- Requires supervision for safety
+- Encourages healthy eating habits
+- Important life skill development
+
+#### 48M: Unbuttons some buttons
+
+About
+
+Unbuttoning emerges 42-60 months, preceding buttoning skills. According to fine motor milestones, children can unbutton large buttons on clothing using pincer grasp and bilateral coordination. Requires finger dexterity, visual-motor coordination, and motor planning. Unbuttoning is easier than buttoning. Shows fine motor precision advancing. Supports dressing independence. Buttoning typically develops 48-72 months.
+
+What to look for:
+- Unbuttoning large buttons independently
+- Using pincer grasp (thumb and fingers)
+- Both hands working together
+- Visual attention to task
+- Persistence with challenging buttons
+- May still need help with small buttons
+- Pride in accomplishment
+
+Why it matters:
+- Fine motor dexterity milestone
+- Demonstrates bilateral coordination
+- Shows visual-motor precision
+- Supports dressing independence
+- Precursor to buttoning skills
+- Indicates fine motor maturation
+- Important self-care skill
+
+#### 48M: Holds crayon between fingers/thumb (not fist)
+
+About
+
+Mature crayon/pencil grasp emerges 42-60 months. According to fine motor development, children transition from fisted grasp to tripod grasp (thumb and two fingers) or quadrupod grasp (thumb and three fingers). Shows advancing fine motor control and hand strength. This mature grasp enables better control, precision, and endurance for writing. Foundation for handwriting development. AAP and occupational therapy guidelines note proper grasp supports writing success.
+
+What to look for:
+- Holding crayon/pencil with fingers and thumb
+- Tripod or quadrupod grasp emerging
+- Better control than fisted grasp
+- More precise marks and strokes
+- Improved endurance during drawing/coloring
+- May alternate grips initially
+- Gradual refinement over time
+
+Why it matters:
+- Fine motor and pre-writing milestone
+- Demonstrates hand muscle development
+- Shows motor control maturing
+- Foundation for handwriting
+- Enables precision and control
+- Supports school readiness
+- Important academic skill prerequisite
+
+#### 48M: Cuts along a line with scissors
+
+About
+
+Controlled scissor cutting emerges 42-60 months. According to fine motor milestones, children can cut along simple straight lines and broad curves, though precision varies. Earlier (30-36M) children could only snip; now sustained cutting and directional control emerge. Requires bilateral coordination, visual-motor integration, hand strength, and motor planning. Shows significant fine motor advancement. Foundation for more precise cutting.
+
+What to look for:
+- Cutting along straight lines (within 1/4 inch)
+- Following broad curved lines
+- Sustained cutting (not just snips)
+- One hand cutting, other hand turning paper
+- Improving accuracy over time
+- Hand dominance established
+- Safe scissor handling
+
+Why it matters:
+- Fine motor and bilateral coordination milestone
+- Demonstrates visual-motor precision
+- Shows motor planning and control
+- Supports school readiness and art activities
+- Indicates hand dominance established
+- Foundation for precise cutting skills
+- Important pre-academic skill
+
+#### 48M: Copies simple shapes (square, cross)
+
+About
+
+Copying shapes advances 42-60 months. According to developmental milestones, children can copy crosses (two intersecting lines) and squares after demonstration. Copying circle typically achieved earlier (36M); triangle comes later (60M). Requires visual analysis, motor planning, and hand control. Shows visual-motor integration maturing. CDC and AAP note shape copying is important pre-writing milestone indicating school readiness.
+
+What to look for:
+- Copying cross (+ or x) when shown
+- Copying square with four corners
+- Shapes recognizable though imperfect
+- Intentional attempts at specific forms
+- Improving accuracy with practice
+- Appropriate grasp on drawing tool
+- Sustained attention during copying
+
+Why it matters:
+- Pre-writing and visual-motor milestone
+- Demonstrates shape recognition and reproduction
+- Shows motor planning and control
+- Foundation for letter formation
+- Indicates school readiness
+- Supports visual-motor integration
+- Important pre-academic skill
+
+### DEVELOPMENTAL - Communication
+
+#### 48M: Says 4+ word sentences
+
+About
+
+Sentence length and complexity increase significantly 42-60 months. According to ASHA and language development, children use 4-6+ word sentences regularly: "I want to go outside now," "The big dog is running fast." Grammar becoming more sophisticated with correct verb tenses, plurals, and pronouns. Some errors still normal. Shows language competence advancing rapidly. Foundation for complex communication and narrative skills.
+
+What to look for:
+- Regular 4-6+ word sentences
+- More complex grammar structures
+- Correct verb tenses emerging (past, future)
+- Using plurals and pronouns correctly (mostly)
+- Conjunctions (and, but, because)
+- Complete thoughts expressed clearly
+- Some grammar errors still normal
+
+Why it matters:
+- Major language development milestone
+- Demonstrates grammar mastery advancing
+- Shows ability to express complex ideas
+- Foundation for narrative and conversation skills
+- Indicates language processing maturing
+- Supports social and academic communication
+- Important for school readiness
+
+#### 48M: Says words from songs/stories
+
+About
+
+Memorizing and reciting words from songs, rhymes, and stories is well-established 36-60 months. According to language and literacy development, children can recite familiar songs, nursery rhymes, and repeated phrases from favorite books. Shows memory, phonological awareness, and language enjoyment. AAP literacy guidelines emphasize songs and reading for language development and bonding.
+
+What to look for:
+- Singing familiar songs with words
+- Reciting nursery rhymes
+- Completing familiar phrases from books
+- Memorizing repetitive story lines
+- Requesting favorite songs/stories
+- Pride in performing
+- Improving memory and fluency
+
+Why it matters:
+- Language and memory milestone
+- Demonstrates phonological awareness
+- Shows auditory memory developing
+- Supports literacy development
+- Encourages language enjoyment
+- Foundation for reading readiness
+- Important pre-literacy skill
+
+#### 48M: Talks about one thing from day
+
+About
+
+Narrative skills emerge 36-60 months. According to language development, children can describe one event from their day when asked: "I played at the park" or "We had pizza for lunch." May need prompting questions. Shows memory, sequencing, and expressive language. More complex narratives develop through age 5-7. Supports conversational skills and social communication.
+
+What to look for:
+- Describing one event when asked
+- Using past tense (emerging)
+- Sequencing steps (first, then)
+- May need prompting questions
+- Including relevant details
+- Improving narrative skills over time
+- Connecting experiences through language
+
+Why it matters:
+- Language and memory milestone
+- Demonstrates narrative skills emerging
+- Shows sequencing abilities
+- Foundation for storytelling and conversation
+- Indicates memory and language integration
+- Supports social communication
+- Important for school readiness
+
+#### 48M: Answers simple questions
+
+About
+
+Question-answering skills are well-established 36-60 months. According to language development, children can answer who, what, where questions accurately, and beginning to answer why questions (though less reliably). Shows comprehension, memory, and expressive language. Supports conversations and learning. Foundation for more complex question-answering and academic skills.
+
+What to look for:
+- Answering who/what/where questions accurately
+- Attempting why questions (may be simple)
+- Providing relevant information
+- Understanding question being asked
+- May need repetition for complex questions
+- Improving accuracy and detail
+- Responding conversationally
+
+Why it matters:
+- Language comprehension milestone
+- Demonstrates understanding and expression
+- Supports conversation and learning
+- Indicates cognitive and language integration
+- Foundation for academic questioning
+- Enables effective communication
+- Important for social and school success
+
+#### 48M: Speech easy to understand
+
+About
+
+Speech intelligibility approaches 90-100% to unfamiliar listeners by age 4. According to ASHA guidelines, strangers understand nearly all of what child says. Some sound errors may persist (r, s, th, l) but don't significantly impact clarity. Parents understand 100%. Shows speech sound development largely complete. Remaining sounds develop through age 7. Clear speech supports communication effectiveness and confidence.
+
+What to look for:
+- Strangers understand 90-100% of speech
+- Parents understand all speech
+- Most sounds produced correctly
+- May have errors with r, s, th, l (normal)
+- Clear, intelligible communication
+- Effective expression of ideas
+- Confidence in speaking
+
+Why it matters:
+- Speech development milestone
+- Near-complete intelligibility expected by age 4
+- Communication effectiveness critical
+- Some sound errors normal through age 7
+- Supports social interaction and learning
+- Indicates normal speech development
+- Foundation for academic success
+
+#### 48M: Loves stories
+
+About
+
+Story engagement and enjoyment peak 36-60 months. According to literacy development, children show deep interest in books: requesting favorites repeatedly, listening attentively, asking questions, discussing stories. Shows language comprehension, attention, and pre-literacy engagement. AAP literacy guidelines emphasize daily reading for language, bonding, and school readiness. Foundation for literacy and lifelong reading.
+
+What to look for:
+- Requesting favorite books repeatedly
+- Listening attentively to stories
+- Asking questions about stories
+- Discussing characters and events
+- Memorizing favorite books
+- Sustained attention during reading
+- Enthusiasm for book time
+
+Why it matters:
+- Pre-literacy and language milestone
+- Demonstrates comprehension and engagement
+- Shows attention and memory
+- Foundation for reading skills
+- Supports vocabulary and language development
+- Encourages parent-child bonding
+- Critical for school readiness
+
+#### 48M: Understands 3-part instructions when focused
+
+About
+
+Following three-step instructions emerges 42-60 months. According to language development, children can follow 3-step related commands when paying attention: "Get your shoes, put them on, and bring me your jacket." Requires receptive language, auditory memory, sequencing, and sustained attention. Related steps easier than unrelated. Shows language and cognitive maturation. Foundation for complex instruction-following.
+
+What to look for:
+- Following 3-step related instructions
+- Remembering all steps in sequence
+- Completing all actions appropriately
+- Requires focus and attention
+- Better with familiar routines
+- May need repetition if distracted
+- Improving with age and practice
+
+Why it matters:
+- Receptive language and memory milestone
+- Demonstrates auditory memory advancing
+- Shows sequencing and attention
+- Important for learning and routines
+- Foundation for academic instruction-following
+- Supports school readiness
+- Indicates cognitive-language integration
+
+#### 48M: Listens without stopping activity
+
+About
+
+Divided attention emerges 42-60 months. According to cognitive development, children can listen to instructions or conversation while continuing a simple activity (coloring, playing). Earlier, they needed to stop and look. Shows attention and processing capacity increasing. Supports multitasking and efficiency. Foundation for classroom listening skills.
+
+What to look for:
+- Listening while continuing activity
+- Processing verbal information without stopping
+- Responding appropriately to conversation
+- May still prefer stopping for complex instructions
+- Improving dual-task abilities
+- Better with simple activities
+- Shows attention capacity growing
+
+Why it matters:
+- Attention and cognitive development milestone
+- Demonstrates processing capacity increasing
+- Shows multitasking abilities emerging
+- Foundation for classroom learning
+- Supports efficiency and independence
+- Indicates cognitive maturation
+- Important for school readiness
+
+#### 48M: Answers complicated questions when focused
+
+About
+
+Answering complex questions advances 42-60 months. According to language development, children can answer more sophisticated who/what/where/why questions when paying attention: "Why do we wear coats in winter?" "What happened at the park?" Shows reasoning, comprehension, and expressive language. Attention and familiarity affect performance. Foundation for academic questioning and critical thinking.
+
+What to look for:
+- Answering why questions with reasoning
+- Providing detailed answers to what/where questions
+- Explaining simple cause-effect
+- Requires attention and focus
+- May need prompting or clarification
+- Improving reasoning over time
+- Better with familiar topics
+
+Why it matters:
+- Language and reasoning milestone
+- Demonstrates critical thinking emerging
+- Shows comprehension of complex questions
+- Foundation for academic learning
+- Indicates cognitive-language integration
+- Supports conversation and learning
+- Important for school readiness
+
+#### 48M: Uses most speech sounds but difficulty with s, z, l, sh, ch, j, th, r
+
+About
+
+Speech sound development progresses with predictable sequence. According to ASHA developmental norms, most sounds are mastered by age 4, but later-developing sounds remain challenging: /s/, /z/, /l/, /sh/, /ch/, /j/, /th/, /r/. These typically develop 4-7 years. Errors with later sounds are normal and expected at age 4. Speech-language pathologists evaluate based on age norms. Wide individual variation exists.
+
+What to look for:
+- Most early/middle sounds correct (p, b, m, n, t, d, k, g, f, w, h)
+- Errors with s, z, l, sh, ch, j, th, r (normal)
+- May substitute similar sounds
+- Improving gradually over time
+- Speech mostly intelligible despite errors
+- Individual variation in development
+- Context helps understanding
+
+Why it matters:
+- Speech development milestone
+- Later sounds develop through age 7
+- Errors with s, z, l, sh, ch, j, th, r normal at age 4
+- Shows typical developmental progression
+- Wide individual variation is normal
+- Persistent errors beyond age norms may warrant evaluation
+- Foundation for complete articulation
+
+### DEVELOPMENTAL - Social & Emotional
+
+#### 48M: Pretends to be something else during play
+
+About
+
+Dramatic pretend play flourishes 36-60 months. According to play development research, children engage in role play: pretending to be animals, superheroes, parents, community helpers. Shows imagination, symbolic thinking, and social understanding. May use costumes, props, or just imagination. Supports cognitive, social, and emotional development. Foundation for complex cooperative play and social role understanding.
+
+What to look for:
+- Taking on pretend roles and identities
+- Acting out scenarios in character
+- Using props and costumes
+- Sustained role play episodes
+- Involving others in pretend scenarios
+- Creative and elaborate pretending
+- Enjoyment of dramatic play
+
+Why it matters:
+- Cognitive and social-emotional milestone
+- Demonstrates imagination and symbolic thinking
+- Shows understanding of social roles
+- Supports language and creativity
+- Foundation for cooperative play
+- Indicates perspective-taking emerging
+- Important for social and emotional development
+
+#### 48M: Asks to play with children
+
+About
+
+Peer social motivation increases significantly 36-60 months. According to social development, children actively seek peer interaction: asking to play with specific children, initiating activities, forming preferences for playmates. Shows social awareness, communication, and friendship foundations. Cooperative play emerging alongside continued parallel play. Supports social skill development and relationships.
+
+What to look for:
+- Actively seeking peer playmates
+- Asking to play with specific children
+- Initiating play activities
+- Showing preferences for certain peers
+- Cooperative play attempts
+- Negotiating play scenarios
+- Emerging friendship bonds
+
+Why it matters:
+- Social development milestone
+- Shows peer relationship motivation
+- Foundation for friendships
+- Indicates social skills advancing
+- Supports cooperative play development
+- Demonstrates social confidence
+- Important for social-emotional health
+
+#### 48M: Comforts hurt/sad others
+
+About
+
+Prosocial behavior and empathy advance 36-60 months. According to empathy development research, children actively comfort distressed others: offering hugs, kind words, seeking adult help, sharing comfort objects. Shows emotional understanding, perspective-taking, and compassion. Indicates theory of mind developing. Foundation for positive social relationships and moral development.
+
+What to look for:
+- Noticing others' distress
+- Offering comfort (words, hugs, pats)
+- Seeking adult help for hurt children
+- Sharing comfort objects or toys
+- Showing genuine concern
+- Attempting to make others feel better
+- Empathetic responses
+
+Why it matters:
+- Empathy and prosocial development milestone
+- Demonstrates emotional understanding
+- Shows perspective-taking abilities
+- Foundation for compassion and kindness
+- Indicates theory of mind advancing
+- Supports positive relationships
+- Important moral and social development
+
+#### 48M: Avoids danger
+
+About
+
+Safety awareness and impulse control advance 36-60 months. According to safety and cognitive development, children show improved caution: avoiding streets, hot stoves, heights when warned. Shows memory, understanding of consequences, and emerging impulse control. Still requires supervision but safety awareness improving. Foundation for independent safety skills. HSE and AAP note supervision remains critical despite increasing awareness.
+
+What to look for:
+- Understanding common dangers (hot, sharp, heights)
+- Showing caution in risky situations
+- Remembering safety rules
+- Following safety instructions (mostly)
+- Improving impulse control
+- Still needs adult supervision
+- Verbalizing safety rules
+
+Why it matters:
+- Safety awareness and cognitive milestone
+- Shows understanding of consequences
+- Demonstrates impulse control emerging
+- Supports injury prevention
+- Still requires supervision
+- Foundation for independent safety
+- Important for growing independence
+
+#### 48M: Likes to be helper
+
+About
+
+Helping behavior and cooperation increase 36-60 months. According to social-emotional development, children enjoy helping with tasks: setting table, putting away toys, simple chores. Shows desire to contribute, please caregivers, and feel competent. Supports self-esteem and family participation. Provides learning opportunities. AAP encourages age-appropriate responsibilities for development and family functioning.
+
+What to look for:
+- Enthusiasm for helping with tasks
+- Offering to help spontaneously
+- Simple chore participation
+- Pride in contributions
+- Following through on helper tasks
+- Wanting to be useful
+- Responding to requests to help
+
+Why it matters:
+- Social-emotional development milestone
+- Shows desire to contribute and please
+- Supports self-esteem and competence
+- Foundation for responsibility
+- Encourages family participation
+- Provides learning opportunities
+- Important for social and moral development
+
+#### 48M: Changes behavior based on location
+
+About
+
+Situational awareness and behavioral flexibility emerge 36-60 months. According to social-cognitive development, children adjust behavior to context: quieter in library, active on playground, different behavior at home vs school. Shows understanding of social expectations, impulse control, and cognitive flexibility. Still developing; reminders often needed. Foundation for social competence and self-regulation.
+
+What to look for:
+- Different behavior in different settings
+- Quieter in quiet places (with reminders)
+- Understanding location-specific rules
+- Adjusting activity level to context
+- May need reminders and support
+- Improving self-regulation
+- Growing social awareness
+
+Why it matters:
+- Social-cognitive development milestone
+- Demonstrates understanding of social expectations
+- Shows behavioral flexibility emerging
+- Foundation for self-regulation
+- Supports social competence
+- Important for school success
+- Indicates cognitive maturation
+
+#### 48M: Uses toilet independently (may need help with wiping)
+
+About
+
+Toilet independence consolidates 36-60 months. According to AAP guidelines, most children achieve daytime toilet independence by age 4: recognizing need, going to toilet, managing clothing, wiping (may need help), flushing, washing hands. Nighttime dryness may lag (normal through age 5-7). Shows self-care maturity, body awareness, and independence. Wide individual variation in toilet training timeline is normal.
+
+What to look for:
+- Using toilet independently for urination/bowel movements
+- Managing clothing independently
+- Wiping (may need help for thorough cleaning)
+- Flushing toilet
+- Washing hands after
+- Rare accidents (occasional accidents normal)
+- Communicating needs consistently
+
+Why it matters:
+- Major self-care independence milestone
+- Shows body awareness and control
+- Demonstrates self-care maturity
+- Important for school readiness
+- Wide variation in timing is normal
+- Nighttime dryness comes later
+- Foundation for complete toileting independence
+
+#### 48M: Dresses self with minimal assistance
+
+About
+
+Dressing independence advances significantly 42-60 months. According to self-care milestones, children can dress themselves in simple clothing: shirts, pants, underwear, shoes (may be on wrong feet). May need help with fasteners, orientation, and complex items. Shows motor planning, sequencing, and independence. Complete dressing independence (including fasteners) typically by age 5-6. Supports autonomy and school readiness.
+
+What to look for:
+- Putting on shirts, pants, underwear independently
+- Managing socks and shoes (may be wrong feet)
+- Appropriate sequencing of clothing
+- May need help with buttons, zippers, snaps
+- May put items on backwards initially
+- Persistence with challenging items
+- Pride in dressing independence
+
+Why it matters:
+- Self-care independence milestone
+- Demonstrates motor planning and sequencing
+- Shows fine and gross motor skills
+- Supports autonomy and confidence
+- Important for school readiness
+- Indicates cognitive-motor integration
+- Foundation for complete dressing independence
+
+#### 48M: Brushes teeth with assistance
+
+About
+
+Toothbrushing participation advances 36-60 months. According to AAP and AAPD dental guidelines, children can brush teeth with supervision and assistance. Can hold toothbrush with appropriate grasp, make brushing motions, rinse. Adult supervision and "finishing" brushing critical for thorough cleaning. Complete independence comes later (age 7-8). Establishing good oral hygiene habits essential.
+
+What to look for:
+- Holding toothbrush appropriately
+- Making brushing motions on all teeth
+- Attempting to reach all surfaces
+- Rinsing and spitting
+- Needs adult supervision and assistance
+- Following brushing routine
+- Understanding importance (with guidance)
+
+Why it matters:
+- Oral hygiene and self-care milestone
+- Shows motor skills for toothbrushing
+- Establishes lifelong dental habits
+- Prevents cavities and dental problems
+- Adult supervision critical for effectiveness
+- Complete independence comes later (age 7-8)
+- Important health and self-care skill
+
+### DEVELOPMENTAL - Cognitive
+
+#### 48M: Names some colors
+
+About
+
+Color naming vocabulary expands 36-60 months. According to cognitive development, children can name 4-10+ colors correctly and consistently. Individual variation in color vocabulary. Shows visual discrimination, memory, and language integration. Foundation for expanded color knowledge and descriptive language. Supports pre-academic and artistic activities.
+
+What to look for:
+- Naming 4-10+ colors accurately
+- Consistent correct identification
+- Common colors: red, blue, yellow, green, orange, purple, black, white
+- Expanding color vocabulary over time
+- Using colors in descriptions
+- Matching and sorting by color
+- Pride in color knowledge
+
+Why it matters:
+- Cognitive and language milestone
+- Demonstrates visual discrimination
+- Shows concept learning
+- Supports descriptive language
+- Important for pre-academic skills
+- Foundation for artistic expression
+- Indicates normal development
+
+#### 48M: Tells what comes next in story
+
+About
+
+Narrative prediction and sequencing emerge 36-60 months. According to literacy and cognitive development, children can predict what happens next in familiar stories and understand story sequences. Shows comprehension, memory, pattern recognition, and logical thinking. Supports literacy development and critical thinking. Foundation for reading comprehension.
+
+What to look for:
+- Predicting next events in familiar stories
+- Understanding story sequences (beginning, middle, end)
+- Recalling what happened previously
+- Logical predictions based on story
+- Discussing cause and effect in stories
+- Improving narrative understanding
+- Engagement with story structure
+
+Why it matters:
+- Literacy and cognitive milestone
+- Demonstrates comprehension and prediction
+- Shows logical thinking emerging
+- Foundation for reading comprehension
+- Supports narrative understanding
+- Indicates memory and reasoning
+- Important pre-literacy skill
+
+#### 48M: Draws person with 3+ body parts
+
+About
+
+Human figure drawing advances 42-60 months. According to cognitive and fine motor development, children draw recognizable people with 3-6+ body parts: head, body, arms, legs, and possibly eyes, mouth. Early drawings ("tadpole figures") have head with legs; body and arms added over time. Shows cognitive representation of human form, fine motor skills, and visual-motor integration. Advances to 6+ parts by age 5.
+
+What to look for:
+- Drawing recognizable human figure
+- At least 3 body parts (head, legs, arms or body)
+- May be "tadpole" figure (head with limbs)
+- Intentional representation of person
+- May add facial features
+- Improving detail over time
+- Pride in drawings
+
+Why it matters:
+- Cognitive and fine motor milestone
+- Demonstrates mental representation of humans
+- Shows visual-motor integration
+- Foundation for more detailed drawing
+- Indicates developmental progression
+- Supports creative expression
+- Important cognitive assessment marker
+
+### GROWTH
+
+#### 48M: Boys 36 lb; Girls 35 lb
+
+About
+
+At 48 months, average weights are approximately 36 lb (16.3 kg) for boys and 35 lb (15.9 kg) for girls, according to WHO growth standards. Height averages approximately 40-41 inches. Growth rate continues steady but slower than earlier years. Individual variation remains significant. Body proportions increasingly child-like. Pediatric monitoring uses growth charts tracking individual patterns and percentiles over time.
+
+What to look for:
+- Steady growth following individual curve
+- Height approximately 40-41 inches
+- Child-like body proportions
+- Healthy appetite and activity
+- Consistent growth pattern on charts
+- Individual variation normal
+- Regular pediatric monitoring
+
+Why it matters:
+- Growth monitoring for health assessment
+- Individual variation is normal and significant
+- Growth pattern over time most important
+- Steady slower growth expected
+- Nutrition supports healthy development
+- Regular monitoring recommended
+- Concerns warrant pediatric evaluation
+
+#### Height 40-41 inches
+
+About
+
+At age 4, average height is approximately 40-41 inches according to WHO growth standards. Individual variation based on genetics and growth patterns. Growth rate approximately 2-3 inches per year (slower than toddler years). Pediatricians track height on standardized growth charts following individual percentiles. Consistent growth pattern more important than specific measurements. Height velocity and pattern indicate healthy development.
+
+What to look for:
+- Height approximately 40-41 inches at age 4
+- Steady growth approximately 2-3 inches/year
+- Following individual growth curve
+- Proportional to weight and development
+- Individual and genetic variation
+- Consistent pattern on growth charts
+- Healthy nutrition supporting growth
+
+Why it matters:
+- Growth monitoring indicator
+- Individual variation substantial and normal
+- Genetics strongly influence height
+- Growth pattern over time most important
+- Steady growth indicates health
+- Deviations may warrant evaluation
+- Supports developmental assessment
+
+#### Body continues to lengthen and slim
+
+About
+
+Body composition continues changing 36-60 months. According to growth and development, children become progressively leaner and longer-legged. Baby fat diminishes, muscle definition increases, proportions increasingly child-like. These changes support advancing physical abilities. Normal developmental progression. Individual variation in timing and extent based on genetics, nutrition, and activity levels.
+
+What to look for:
+- Leaner, more athletic appearance
+- Diminishing baby fat
+- Visible muscle definition
+- Longer legs relative to trunk
+- More child-like proportions
+- Improving physical abilities
+- Individual variation in body type
+
+Why it matters:
+- Normal growth and development
+- Body composition supports motor skills
+- Indicates healthy maturation
+- Individual variation based on genetics
+- Nutrition and activity influence development
+- Supports advancing physical abilities
+- Normal transition to childhood proportions
+
+### TEETH
+
+#### All 20 primary teeth present
+
+About
+
+Complete primary dentition (20 teeth) should be present by age 4. According to dental development, includes all incisors, canines, and molars - 10 upper, 10 lower. These teeth remain until permanent teeth begin erupting (age 6-12). AAPD and AAP emphasize: twice-daily brushing with fluoride toothpaste (pea-sized), flossing when teeth touch, regular dental visits (every 6 months), limiting sugary foods/drinks, and establishing lifelong oral health habits.
+
+What to look for:
+- All 20 primary teeth present and functional
+- Healthy teeth and gums
+- Established dental care routine
+- Twice-daily brushing with fluoride toothpaste
+- Regular dental checkups
+- No cavities or dental problems (ideally)
+- Good oral hygiene habits
+
+Why it matters:
+- Complete primary dentition
+- Essential for nutrition and speech
+- Primary teeth hold space for permanent teeth
+- Cavity prevention critical
+- Establishes lifelong oral health habits
+- Primary teeth important until age 6-12
+- Regular dental care prevents problems
+
+#### Jaw/facial bones growing, creating spaces (normal for permanent teeth)
+
+About
+
+Jaw growth creates natural spacing between primary teeth around age 4-6. According to dental development, these spaces are normal and necessary to accommodate larger permanent teeth. Shows facial bones growing and developing. Spacing allows permanent teeth to erupt properly aligned. Absence of spacing may indicate crowding risk when permanent teeth emerge. Normal developmental progression preparing for permanent dentition.
+
+What to look for:
+- Gaps appearing between primary teeth
+- Normal spacing developing
+- Continued jaw growth
+- Primary teeth remain healthy
+- No concern about spaces (they're normal)
+- Preparing for permanent teeth
+- Individual variation in timing
+
+Why it matters:
+- Normal dental and jaw development
+- Spacing prepares for larger permanent teeth
+- Shows facial growth progressing
+- Spaces are healthy and expected
+- Absence of spacing may predict crowding
+- No intervention needed for normal spacing
+- Important developmental progression
+
+### VISION
+
+#### Visual acuity approaching 20/20
+
+About
+
+Visual acuity continues maturing toward adult levels 36-60 months. According to AAO guidelines, vision typically 20/30-20/20 by age 4-5. All visual systems (acuity, color, depth, tracking, focusing) functioning at near-adult levels. However, visual system remains sensitive to abnormalities until age 8-10. AAO recommends comprehensive vision screening before kindergarten and prompt treatment of any detected problems to prevent amblyopia.
+
+What to look for:
+- Clear vision at all distances
+- Both eyes working together
+- Smooth tracking and focusing
+- Accurate depth perception
+- Normal visual responses
+- No squinting, head tilting, eye rubbing
+- Age-appropriate visual skills
+
+Why it matters:
+- Vision development milestone
+- Visual acuity approaching adult levels
+- Comprehensive screening recommended before school
+- Early detection and treatment critical
+- Uncorrected vision affects learning
+- Visual system still sensitive to problems until age 8-10
+- Most vision problems treatable if caught early
+
+#### Recognizes letters and numbers
+
+About
+
+Letter and number recognition emerge 36-60 months with exposure. According to pre-literacy development, children begin recognizing some letters and numbers, especially those in their name and familiar contexts. Wide individual variation based on exposure and instruction. Shows visual discrimination, memory, and pre-academic learning. Foundation for reading and math readiness. Not expected to know all letters/numbers at age 4; develops through kindergarten.
+
+What to look for:
+- Recognizing some letters (especially from own name)
+- Identifying some numbers (1-10)
+- Increasing recognition with exposure
+- Interest in letters and numbers
+- Wide individual variation normal
+- Visual discrimination developing
+- Foundation for literacy emerging
+
+Why it matters:
+- Pre-literacy and pre-math milestone
+- Shows visual discrimination and memory
+- Foundation for reading and math
+- Wide variation based on exposure
+- Not expected to know all letters/numbers yet
+- Indicates school readiness emerging
+- Supports academic preparation
+
+#### Eye tracking and focus fully mature
+
+About
+
+Eye movement control and focusing reach adult function by age 4-5. According to AAO and visual development research, smooth pursuit, saccades (eye jumps), convergence, and accommodation are fully mature. Supports reading readiness, sports, and visual tasks. Visual system functioning at adult level though acuity may still be refining to 20/20. Shows neurological and visual maturation complete for basic visual functions.
+
+What to look for:
+- Smooth tracking of moving objects
+- Accurate eye jumps between targets
+- Eyes working together (convergence)
+- Flexible focusing near and far
+- No difficulty with visual tasks
+- Age-appropriate visual attention
+- Mature visual motor skills
+
+Why it matters:
+- Vision development milestone
+- Eye movements mature for reading
+- Supports all visual learning tasks
+- Indicates neurological maturation
+- Foundation for academic visual skills
+- Problems warrant evaluation
+- Shows visual system functioning maturely
+
+### HEARING
+
+#### Understands virtually all speech
+
+About
+
+Receptive language is extensive by age 4. According to language development, children understand virtually all everyday speech, complex instructions, stories, and conversations. Comprehension continues exceeding expression substantially. Can follow 3+ step instructions, understand explanations, and grasp abstract concepts emerging. Shows language processing well-established. Depends on normal hearing. Comprehension difficulties warrant evaluation.
+
+What to look for:
+- Understanding complex everyday speech
+- Following multi-step instructions
+- Comprehending stories and explanations
+- Understanding abstract concepts (big/small, fast/slow)
+- Minimal need for repetition
+- Grasping new words from context
+- Comprehension exceeds expression
+
+Why it matters:
+- Receptive language milestone
+- Comprehension foundation for all learning
+- Understanding exceeds expression substantially
+- Depends on normal hearing
+- Supports language and cognitive growth
+- Comprehension difficulties warrant evaluation
+- Critical for academic and social success
+
+#### Follows complex instructions
+
+About
+
+Following complex multi-step instructions is well-established by age 4. According to language development, children can follow 3-4 step instructions reliably when paying attention. Can handle both related and beginning unrelated steps. Shows auditory memory, sequencing, and processing capacity maturing. Attention and familiarity affect performance. Foundation for academic instruction-following and independence.
+
+What to look for:
+- Following 3-4 step instructions
+- Handling related and unrelated steps
+- Remembering all steps in sequence
+- Completing actions appropriately
+- Better with clear, simple language
+- Improving with age and practice
+- Shows strong auditory memory
+
+Why it matters:
+- Receptive language and memory milestone
+- Demonstrates auditory processing mature
+- Shows attention and sequencing advancing
+- Important for learning and independence
+- Foundation for academic success
+- Supports school readiness
+- Indicates cognitive-language maturation
+
+#### Speech clear to strangers
+
+About
+
+Speech intelligibility reaches 90-100% to unfamiliar listeners by age 4. According to ASHA guidelines, strangers understand essentially all of child's speech. Some late-developing sound errors may persist (r, th, occasionally s or l) but don't significantly impact clarity. Shows speech development largely complete. Remaining sounds refine through age 7. Clear speech supports communication effectiveness, confidence, and social success.
+
+What to look for:
+- Strangers understand 90-100% of speech
+- Parents understand all speech
+- Most sounds produced correctly
+- May have minor errors (r, th) - normal
+- Clear, effective communication
+- Confident speaking
+- Social communication effective
+
+Why it matters:
+- Speech development milestone
+- Near-complete intelligibility expected by age 4
+- Communication effectiveness critical
+- Minor sound errors normal through age 7
+- Supports social interaction and learning
+- Indicates normal speech development
+- Important for school and social success
 
 ---
 
 ## 48-60 MONTHS
 
-(Complete descriptions for all ~25 milestones across all categories...)
+### DEVELOPMENTAL - Gross Motor Skills
+
+#### 60M: Hops on one foot
+
+About
+
+Hopping on one foot emerges 48-72 months. According to gross motor development, children can hop 3-10+ times on one foot without losing balance. Requires significant balance, leg strength, coordination, and motor planning. Precedes skipping (which combines hopping and stepping). Shows advancing gross motor control and bilateral coordination. WHO and CDC note this milestone indicates motor maturation and balance advancing significantly.
+
+What to look for:
+- Hopping on one foot 3-10+ times
+- Maintaining balance during hops
+- Consistent rhythm and control
+- May hop better on preferred leg initially
+- Improving endurance and distance
+- Both feet eventually able to hop
+- Pleasure in mastering skill
+
+Why it matters:
+- Major gross motor milestone
+- Demonstrates advanced balance and coordination
+- Shows leg strength and motor control
+- Foundation for skipping and complex movements
+- Indicates neurological maturation
+- Supports active play and games
+- Important physical development marker
+
+#### 60M: Uses toilet independently
+
+About
+
+Complete toilet independence typically achieved 48-72 months. According to AAP guidelines, children can independently recognize need, go to bathroom, manage all clothing, wipe thoroughly, flush, and wash hands. Daytime accidents rare. Nighttime dryness may still be developing (bedwetting normal through age 5-7). Shows self-care maturity, body awareness, and complete independence. Important school readiness milestone.
+
+What to look for:
+- Complete toileting independence
+- Managing all clothing independently
+- Thorough wiping (front to back for girls)
+- Flushing and washing hands without reminders
+- Rare daytime accidents
+- Communicating needs reliably
+- Nighttime dryness developing (variable timing)
+
+Why it matters:
+- Complete self-care independence milestone
+- Critical for school readiness
+- Shows body awareness and control mastery
+- Demonstrates self-care responsibility
+- Nighttime dryness timeline varies widely (normal through age 7)
+- Foundation for complete independence
+- Important developmental achievement
+
+#### 60M: Swings and climbs at playground
+
+About
+
+Playground skills advance significantly 48-72 months. According to gross motor development, children can pump legs on swings, climb playground structures confidently, use monkey bars with support. Shows strength, coordination, balance, motor planning, and confidence. Supports active play, peer interaction, and physical fitness. Still requires supervision for safety.
+
+What to look for:
+- Pumping legs to swing independently
+- Confident climbing on structures
+- Attempting monkey bars (with support)
+- Good balance on balance beams
+- Sliding independently
+- Age-appropriate risk-taking
+- Improving strength and coordination
+
+Why it matters:
+- Gross motor development milestone
+- Demonstrates strength and coordination
+- Shows motor confidence and planning
+- Supports physical fitness and active play
+- Enables peer play opportunities
+- Indicates balance and strength advancing
+- Still requires safety supervision
+
+#### 60M: Cuts out simple shapes with scissors
+
+About
+
+Precision scissor cutting emerges 48-72 months. According to fine motor development, children can cut out simple shapes (circles, squares) staying mostly on lines. Earlier (age 4) children cut along lines; now cutting around shapes emerges. Requires bilateral coordination, visual-motor integration, sustained attention, and motor planning. Shows significant fine motor advancement. Foundation for complex cutting tasks.
+
+What to look for:
+- Cutting out simple shapes (circle, square)
+- Staying mostly on lines (within 1/4 inch)
+- Sustained cutting around entire shape
+- One hand cutting, other turning paper smoothly
+- Established hand dominance
+- Improving precision over time
+- Safe scissor use
+
+Why it matters:
+- Fine motor precision milestone
+- Demonstrates visual-motor integration advancing
+- Shows bilateral coordination mature
+- Supports school art and craft activities
+- Indicates fine motor control mastering
+- Hand dominance fully established
+- Important pre-academic skill
+
+### DEVELOPMENTAL - Communication
+
+#### 60M: Tells story with 2+ events
+
+About
+
+Narrative skills advance significantly 48-72 months. According to language development, children can tell simple stories or describe experiences with 2+ connected events: "We went to the park and I played on the swings" or "The dog ran fast and jumped over the fence." Shows sequencing, memory, grammar, and narrative structure understanding. More complex narratives develop through school years. Foundation for storytelling and academic writing.
+
+What to look for:
+- Describing 2+ connected events in sequence
+- Using conjunctions (and, then, but)
+- Past tense verbs (mostly correct)
+- Logical sequence of events
+- Including relevant details
+- May need prompting for elaboration
+- Improving narrative skills over time
+
+Why it matters:
+- Language and narrative development milestone
+- Demonstrates sequencing and memory
+- Shows grammar advancing
+- Foundation for storytelling and writing
+- Supports social communication
+- Indicates language competence
+- Important for academic readiness
+
+#### 60M: Answers questions about books
+
+About
+
+Reading comprehension and discussion skills are well-established 48-72 months. According to literacy development, children can answer who, what, where, when, why questions about stories. Shows comprehension, memory, inference, and engagement with narratives. Supports literacy development and love of reading. AAP literacy guidelines emphasize reading and discussion for school readiness.
+
+What to look for:
+- Answering comprehension questions accurately
+- Discussing characters, events, settings
+- Making predictions about stories
+- Explaining cause and effect in narratives
+- Connecting stories to own experiences
+- Showing engagement with books
+- Understanding beginning/middle/end
+
+Why it matters:
+- Literacy and comprehension milestone
+- Demonstrates understanding of narratives
+- Shows critical thinking emerging
+- Foundation for reading comprehension
+- Supports love of reading
+- Indicates language and cognitive integration
+- Critical for school readiness
+
+#### 60M: Keeps conversation with 3+ back-and-forth exchanges
+
+About
+
+Conversational skills mature significantly 48-72 months. According to language development, children can engage in extended conversations with 3-5+ turn-taking exchanges on a topic. Shows listening, responding appropriately, maintaining topics, and social communication skills. Still may change topics but can sustain discussions. Supports social relationships and communication effectiveness.
+
+What to look for:
+- Sustaining conversations 3-5+ exchanges
+- Staying on topic (mostly)
+- Listening when others speak
+- Responding appropriately and relevantly
+- Taking turns in conversation
+- Elaborating on ideas
+- Improving topic maintenance
+
+Why it matters:
+- Social communication development milestone
+- Demonstrates conversational competence
+- Shows listening and responding skills maturing
+- Foundation for complex conversations
+- Supports friendships and relationships
+- Indicates social-cognitive integration
+- Important for social and academic success
+
+#### 60M: Uses/recognizes rhymes
+
+About
+
+Phonological awareness, including rhyming, develops 36-72 months. According to pre-literacy development, children can recognize words that rhyme (cat/hat, dog/log) and generate simple rhymes. Shows awareness of sound patterns in language. Critical pre-reading skill supporting decoding and reading development. ASHA and literacy research emphasize phonological awareness for reading success.
+
+What to look for:
+- Recognizing rhyming words when heard
+- Identifying which words rhyme
+- Generating simple rhymes (may be nonsense)
+- Enjoying rhyming songs and games
+- Wide individual variation in rhyming skill
+- Improving with exposure and practice
+- Understanding rhyme concept
+
+Why it matters:
+- Critical pre-literacy milestone
+- Demonstrates phonological awareness
+- Strong predictor of reading success
+- Foundation for decoding skills
+- Shows sound pattern recognition
+- Supports reading readiness
+- Important academic prerequisite
+
+#### 60M: Tells full name
+
+About
+
+Saying full name (first and last) is typically established by age 5. According to language and self-awareness milestones, children can clearly state their full name when asked. Shows identity, memory, and social communication skills. Important for safety and school readiness. Some children also learn to spell or recognize their name in print.
+
+What to look for:
+- Clearly stating first and last name
+- Consistent accurate pronunciation
+- Responding to "What's your full name?"
+- May also know middle name
+- May recognize name in print
+- Understanding name represents self
+- Pride in knowing full name
+
+Why it matters:
+- Identity and social-communication milestone
+- Important for safety and identification
+- Shows self-awareness and memory
+- Critical for school enrollment
+- Supports social interactions
+- Indicates language development
+- Foundation for writing own name
+
+#### 60M: Speech completely understandable
+
+About
+
+Speech intelligibility reaches 100% to all listeners by age 5. According to ASHA guidelines, strangers understand essentially all speech even in complex contexts. A few late-developing sounds may still be refining (r, th) but don't impact intelligibility. Shows speech development essentially complete. Clear, effective communication supports all social and academic interactions.
+
+What to look for:
+- 100% intelligible to all listeners
+- Clear, effective communication
+- May have minor r or th errors (normal)
+- Confident speaking in all contexts
+- Grammar largely correct
+- Age-appropriate vocabulary
+- Effective social communication
+
+Why it matters:
+- Speech development milestone
+- Complete intelligibility expected by age 5
+- Communication effectiveness maximized
+- Minor sound refinement continues through age 7-8
+- Supports all social and academic interactions
+- Indicates normal speech development complete
+- Critical for school and social success
+
+#### 60M: Describes object uses
+
+About
+
+Describing function and purpose of objects is well-established 48-72 months. According to language development, children can explain what objects are for: "A fork is for eating food," "A broom is for sweeping." Shows vocabulary, categorization, and understanding of object functions. Supports descriptive language and concept development. Foundation for definitions and explanations.
+
+What to look for:
+- Explaining what common objects are for
+- Using "for" in functional descriptions
+- Understanding tools and purposes
+- Categorizing by function
+- Expanding functional vocabulary
+- Appropriate descriptions of familiar objects
+- Improving explanation skills
+
+Why it matters:
+- Language and cognitive milestone
+- Demonstrates functional understanding
+- Shows categorization abilities
+- Supports vocabulary and concept development
+- Foundation for academic explanations
+- Indicates cognitive-language integration
+- Important for learning and communication
+
+#### 60M: Uses past/future tense correctly
+
+About
+
+Grammar maturation includes correct verb tense use by age 5-6. According to language development, children use past tense (walked, ate, went) and future tense (will go, going to play) mostly correctly. Some irregular verb errors may persist ("goed" for "went"). Shows grammar sophistication advancing. Enables accurate temporal communication about past experiences and future plans.
+
+What to look for:
+- Using past tense correctly (mostly)
+- Using future tense appropriately
+- May have some irregular verb errors (normal)
+- Communicating about past and future accurately
+- Understanding temporal concepts
+- Improving accuracy over time
+- Grammar errors decreasing
+
+Why it matters:
+- Grammar development milestone
+- Demonstrates temporal understanding
+- Enables communication about non-present events
+- Shows language sophistication advancing
+- Foundation for narrative and academic language
+- Some errors normal through early school years
+- Important for effective communication
+
+### DEVELOPMENTAL - Social & Emotional
+
+#### 60M: Follows rules/takes turns in games
+
+About
+
+Rule-following and turn-taking in structured games emerge 48-72 months. According to social development, children can participate in simple board games, card games, and organized play following rules and waiting for turns (with support). Shows impulse control, social understanding, and cooperation developing. May need reminders and adult support. Foundation for cooperative play and sports.
+
+What to look for:
+- Participating in simple board/card games
+- Following game rules (with reminders)
+- Waiting for turn (improving)
+- Accepting winning and losing (developing)
+- May need adult support and reminders
+- Showing fair play concepts emerging
+- Improving impulse control
+
+Why it matters:
+- Social and cognitive development milestone
+- Demonstrates rule understanding
+- Shows impulse control developing
+- Foundation for cooperative games and sports
+- Supports peer relationships
+- Indicates social-cognitive integration
+- Important for school and social success
+
+#### 60M: Sings/dances/acts for you
+
+About
+
+Performing for others increases 48-72 months. According to social-emotional development, children enjoy singing, dancing, or acting for family and friends. Shows confidence, expressiveness, and desire for attention and approval. Supports self-expression, creativity, and social confidence. Indicates healthy self-esteem and social engagement.
+
+What to look for:
+- Performing songs, dances, shows willingly
+- Seeking audience attention
+- Expressing creativity and imagination
+- Showing confidence in performing
+- Enjoying applause and praise
+- May have stage fright initially
+- Growing performance confidence
+
+Why it matters:
+- Social-emotional development milestone
+- Demonstrates confidence and self-expression
+- Shows creativity and imagination
+- Supports healthy self-esteem
+- Indicates comfort with attention
+- Encourages artistic expression
+- Important for social and emotional growth
+
+#### 60M: Does simple chores
+
+About
+
+Chore participation and responsibility advance 48-72 months. According to developmental guidelines, children can complete simple chores with minimal supervision: setting table, clearing dishes, putting away toys, feeding pets, helping with laundry. Shows responsibility, competence, and family contribution. AAP encourages age-appropriate chores for development, self-esteem, and family functioning.
+
+What to look for:
+- Completing simple chores independently
+- Following through with tasks
+- Age-appropriate responsibilities
+- Minimal supervision needed
+- Pride in contributions
+- Understanding household routines
+- Developing sense of responsibility
+
+Why it matters:
+- Responsibility and competence milestone
+- Demonstrates self-help skills advancing
+- Shows desire to contribute
+- Supports self-esteem and family participation
+- Foundation for increasing responsibilities
+- Indicates maturity and capability
+- Important for independence development
+
+#### 60M: Wants to please/be like friends
+
+About
+
+Peer influence and desire for acceptance increase 48-72 months. According to social development, children want to please friends, imitate peers, fit in with group, and be liked. Shows social awareness, peer relationships, and emerging peer influence. May adopt friends' interests, language, behaviors. Supports social development but requires adult guidance about peer pressure.
+
+What to look for:
+- Wanting to please friends
+- Imitating peer behaviors and interests
+- Concerned about acceptance and fitting in
+- Forming strong friendships
+- May adopt peers' language or interests
+- Showing peer influence
+- Seeking peer approval
+
+Why it matters:
+- Social development milestone
+- Shows peer relationships importance increasing
+- Demonstrates social awareness
+- Foundation for friendships and belonging
+- Emerging peer influence requires guidance
+- Supports social identity development
+- Important for social-emotional growth
+
+#### 60M: Agrees with rules
+
+About
+
+Understanding and accepting rules advances 48-72 months. According to social-cognitive development, children understand why rules exist, agree with fairness concepts, and mostly follow rules (with reminders). Shows moral understanding, impulse control, and social awareness. Still developing; testing limits continues. Foundation for moral development and self-regulation.
+
+What to look for:
+- Understanding why rules exist
+- Mostly agreeing with fair rules
+- Following rules with occasional reminders
+- May negotiate or question rules
+- Understanding consequences
+- Developing sense of fairness
+- Improving rule-following over time
+
+Why it matters:
+- Social-cognitive development milestone
+- Demonstrates moral understanding emerging
+- Shows impulse control developing
+- Foundation for self-regulation
+- Supports social cooperation
+- Indicates reasoning about rules
+- Important for school and social success
+
+#### 60M: Likes to perform
+
+About
+
+Desire to perform and showcase abilities increases 48-72 months. According to social-emotional development, children enjoy showing skills, talents, and knowledge to others. Shows confidence, expressiveness, and healthy attention-seeking. Supports self-esteem and social engagement. Indicates comfortable self-presentation and desire for recognition.
+
+What to look for:
+- Showcasing skills and knowledge
+- "Watch me!" attention-seeking
+- Performing for family and friends
+- Confidence in presentations
+- Enjoying recognition and praise
+- May rehearse performances
+- Growing performance comfort
+
+Why it matters:
+- Social-emotional development milestone
+- Demonstrates healthy confidence
+- Shows comfort with attention
+- Supports self-esteem development
+- Indicates social engagement
+- Encourages skill development
+- Important for emotional and social growth
+
+#### 60M: Shows independence
+
+About
+
+Independence and autonomy advance significantly 48-72 months. According to developmental guidelines, children want to do things themselves, make choices, assert preferences, and demonstrate capabilities. Shows self-confidence, competence, and growing maturity. Balance of independence and appropriate supervision important. Supports healthy autonomy development and school readiness.
+
+What to look for:
+- Wanting to do tasks independently
+- Making own choices (appropriate)
+- Asserting preferences and opinions
+- Demonstrating capabilities proudly
+- May resist help
+- Growing self-sufficiency
+- Balancing independence with safety
+
+Why it matters:
+- Major social-emotional milestone
+- Demonstrates healthy autonomy
+- Shows confidence and competence
+- Foundation for school independence
+- Supports self-esteem development
+- Indicates developmental maturity
+- Important for successful transitions
+
+#### 60M: Tells real from make-believe
+
+About
+
+Distinguishing reality from fantasy develops 48-72 months. According to cognitive development, children increasingly understand real vs. pretend, truth vs. make-believe. May still have magical thinking but shows improving reality testing. Shows cognitive maturation and understanding of representation. Foundation for moral understanding (lying vs. truth) and critical thinking.
+
+What to look for:
+- Understanding real vs. pretend
+- Distinguishing fantasy from reality
+- May still engage in magical thinking
+- Understanding TV/movies are pretend
+- Beginning to understand lying concept
+- Improving reality testing
+- Some confusion normal but improving
+
+Why it matters:
+- Cognitive development milestone
+- Demonstrates understanding of reality
+- Shows symbolic thinking maturing
+- Foundation for moral concepts (truth/lies)
+- Supports critical thinking development
+- Indicates cognitive sophistication
+- Important for social and academic development
+
+#### 60M: Shows affection
+
+About
+
+Affectionate behavior is well-established 48-72 months. According to social-emotional development, children express affection to family and friends: hugs, kisses, kind words, drawings, helping. Shows attachment, emotional expression, and social warmth. Supports relationships and emotional bonds. Individual variation in affection expression based on temperament and family culture.
+
+What to look for:
+- Expressing affection to loved ones
+- Hugs, kisses, kind words
+- Creating gifts or drawings for others
+- Verbal expressions of love
+- Physical affection comfort
+- Showing care for others
+- Individual variation in expression style
+
+Why it matters:
+- Social-emotional development milestone
+- Demonstrates healthy attachment
+- Shows emotional expression
+- Supports relationship bonds
+- Indicates emotional health
+- Individual differences based on temperament
+- Important for social-emotional well-being
+
+#### 60M: Aware of gender
+
+About
+
+Gender awareness is well-established 36-72 months. According to developmental psychology, children understand gender categories (boy/girl, man/woman), identify own gender consistently, and notice gender differences. Shows cognitive categorization and identity development. Gender stereotyping may emerge; adult guidance supports inclusive attitudes. Shows normal cognitive and social development.
+
+What to look for:
+- Consistent gender self-identification
+- Understanding gender categories
+- Noticing gender differences
+- May show gender-typed preferences
+- May express gender stereotypes
+- Understanding gender is stable over time
+- Individual variation in gender expression
+
+Why it matters:
+- Cognitive and identity development milestone
+- Demonstrates categorization abilities
+- Shows self-concept including gender identity
+- Normal developmental progression
+- May show stereotyping requiring guidance
+- Foundation for identity development
+- Important cognitive and social milestone
+
+#### 60M: Independent with toileting including wiping
+
+About
+
+Complete toileting independence including wiping is typically achieved 48-72 months. According to AAP guidelines, children can independently recognize need, use toilet, wipe thoroughly and correctly (front to back for girls), flush, wash hands. Daytime accidents very rare. Nighttime dryness may still be developing (normal through age 7). Shows complete self-care independence. Critical school readiness milestone.
+
+What to look for:
+- Complete independence with all toileting steps
+- Thorough, correct wiping (especially girls: front to back)
+- Flushing and handwashing without reminders
+- Very rare daytime accidents
+- Communicating needs reliably
+- Nighttime dryness developing (variable)
+- Complete self-care capability
+
+Why it matters:
+- Complete self-care independence
+- Critical school readiness requirement
+- Shows body awareness and hygiene mastery
+- Demonstrates responsibility and maturity
+- Nighttime dryness varies widely (normal through age 7)
+- Important developmental achievement
+- Supports school success
+
+#### 60M: Dresses and undresses independently
+
+About
+
+Complete dressing independence is typically achieved 48-72 months. According to self-care milestones, children can dress and undress independently including managing most fasteners (buttons, zippers, snaps). May need help with difficult items (small buttons, tying shoes). Shows motor planning, sequencing, fine motor skills, and independence. Supports school readiness and autonomy.
+
+What to look for:
+- Dressing independently in all basic clothing
+- Managing most fasteners (buttons, zippers, snaps)
+- Correct clothing orientation
+- Appropriate sequencing
+- May need help with shoe tying (learns age 5-7)
+- Independence with daily dressing
+- Pride in capability
+
+Why it matters:
+- Complete self-care independence milestone
+- Critical school readiness skill
+- Demonstrates motor planning and fine motor skills
+- Shows sequencing and problem-solving
+- Supports autonomy and confidence
+- Shoe tying comes later (age 5-7)
+- Important independence achievement
+
+#### 60M: Brushes teeth independently (may need supervision)
+
+About
+
+Toothbrushing becomes increasingly independent 48-72 months. According to AAP and AAPD guidelines, children can brush all tooth surfaces independently with appropriate technique. Adult supervision and occasional assistance still recommended to ensure thorough cleaning until age 7-8. Shows developing responsibility and self-care. Establishing good oral hygiene habits critical for lifelong dental health.
+
+What to look for:
+- Brushing all teeth independently
+- Appropriate technique and thoroughness
+- Twice-daily routine established
+- Rinsing and spitting
+- May need occasional adult supervision/assistance
+- Understanding importance of dental care
+- Good oral hygiene habits
+
+Why it matters:
+- Self-care and oral hygiene milestone
+- Shows increasing independence
+- Establishes lifelong dental habits
+- Prevents cavities and dental problems
+- Adult supervision still beneficial until age 7-8
+- Demonstrates responsibility developing
+- Important health and self-care skill
+
+#### 60M: Pours own drinks without spilling
+
+About
+
+Pouring skills master 48-72 months. According to self-care milestones, children can pour liquids from pitchers into cups without spilling. Requires motor control, visual-motor coordination, and understanding of liquid dynamics. Shows fine motor skills and independence advancing. Supports mealtime self-sufficiency and confidence.
+
+What to look for:
+- Pouring liquids accurately without spilling
+- Appropriate control of pitcher
+- Judging when cup is full
+- Setting pitcher down safely
+- Confidence in pouring
+- Independent drink service
+- Minimal to no spills
+
+Why it matters:
+- Fine motor and independence milestone
+- Demonstrates motor control mastery
+- Shows visual-motor coordination mature
+- Supports mealtime independence
+- Indicates self-help skills advanced
+- Encourages autonomy and confidence
+- Important independence achievement
+
+### DEVELOPMENTAL - Cognitive
+
+#### 60M: Counts to 10
+
+About
+
+Counting to 10 by rote is typically achieved 48-72 months. According to cognitive and math development, children can recite numbers 1-10 in sequence. This is rote counting; understanding quantity (one-to-one correspondence) develops alongside but may lag. Shows memory, sequencing, and pre-math skills. Foundation for math readiness and number sense.
+
+What to look for:
+- Reciting numbers 1-10 in order
+- Consistent accurate sequence
+- Rote memory of number sequence
+- May not yet understand quantity fully
+- Interest in counting
+- Expanding number range over time
+- Foundation for math concepts
+
+Why it matters:
+- Pre-math development milestone
+- Demonstrates number sequence knowledge
+- Shows memory and sequencing
+- Foundation for math readiness
+- Rote counting precedes quantity understanding
+- Supports school math preparation
+- Important cognitive achievement
+
+#### 60M: Names numbers 1-5 when pointed to
+
+About
+
+Number recognition (identifying numerals 1-5 when seen) emerges 48-72 months. According to pre-math development, children can name numbers when shown, different from reciting sequence. Shows visual discrimination, memory, and symbol recognition. Wide individual variation based on exposure. Foundation for math and number sense. Expands to more numbers through kindergarten.
+
+What to look for:
+- Identifying numerals 1-5 when shown
+- Consistent accurate recognition
+- Distinguishing numerals from letters
+- May recognize more numbers with exposure
+- Wide individual variation normal
+- Interest in numbers
+- Foundation for math concepts
+
+Why it matters:
+- Pre-math development milestone
+- Shows numeral recognition
+- Demonstrates visual discrimination
+- Foundation for math readiness
+- Wide variation based on exposure
+- Not expected to know all numbers yet
+- Important school preparation
+
+#### 60M: Uses time words
+
+About
+
+Temporal language emerges 36-72 months. According to language and cognitive development, children use time words: yesterday, today, tomorrow, before, after, soon, later. May not fully understand abstract time concepts but use words appropriately in context. Shows emerging temporal understanding. Continues developing through school years.
+
+What to look for:
+- Using time words in conversation
+- "Yesterday," "tomorrow," "today"
+- "Before," "after," "soon," "later"
+- May not fully understand abstract time
+- Contextually appropriate usage
+- Improving understanding over time
+- Growing temporal vocabulary
+
+Why it matters:
+- Language and cognitive milestone
+- Demonstrates temporal concepts emerging
+- Shows abstract thinking developing
+- Foundation for time understanding
+- Supports narrative and sequencing
+- Important for daily functioning
+- Continues developing through school years
+
+#### 60M: Pays attention 5-10 minutes
+
+About
+
+Sustained attention span increases significantly 48-72 months. According to cognitive development, children can focus on engaging activities 5-10 minutes or more. Attention depends on interest, activity type, and fatigue. Shows attention control and cognitive maturation. Supports learning readiness and school success. Continues improving through school years.
+
+What to look for:
+- Sustaining attention 5-10+ minutes
+- Focus on engaging activities
+- Attention depends on interest
+- Improving over time
+- Can shift attention appropriately
+- Less distractibility than younger ages
+- Foundation for classroom attention
+
+Why it matters:
+- Attention development milestone
+- Demonstrates cognitive maturation
+- Shows readiness for structured learning
+- Foundation for school success
+- Individual variation based on temperament
+- Continues improving with age
+- Critical for academic learning
+
+#### 60M: Writes some letters of name
+
+About
+
+Emergent writing skills include attempting to write letters from own name around age 5. According to pre-literacy development, children can write some recognizable letters, especially from first name. Letters may be reversed, irregular, or incomplete but show intentional attempts. Shows fine motor skills, letter knowledge, and pre-writing development. Foundation for handwriting and literacy.
+
+What to look for:
+- Writing some letters from name
+- Recognizable letter attempts
+- May have reversals or irregularities (normal)
+- Using appropriate grasp
+- Intentional letter formation attempts
+- Pride in writing efforts
+- Improving with practice
+
+Why it matters:
+- Pre-writing and literacy milestone
+- Demonstrates fine motor skills
+- Shows letter knowledge applying
+- Foundation for handwriting development
+- Reversals and errors normal at this age
+- Important school readiness skill
+- Supports literacy development
+
+#### 60M: Names some letters when pointed to
+
+About
+
+Letter recognition (identifying letters when shown) emerges 36-72 months. According to pre-literacy development, children can name some letters, especially those in own name. Wide individual variation based on exposure and instruction. Shows visual discrimination and symbol recognition. Foundation for reading readiness. Not expected to know all letters at age 5; develops through kindergarten.
+
+What to look for:
+- Identifying some letters when shown
+- Especially letters from own name
+- Consistent accurate recognition
+- Wide individual variation based on exposure
+- Interest in letters
+- Expanding letter knowledge over time
+- Foundation for reading
+
+Why it matters:
+- Pre-literacy development milestone
+- Shows letter recognition developing
+- Foundation for reading readiness
+- Wide variation based on exposure
+- Not expected to know all letters yet
+- Indicates school preparation
+- Important literacy prerequisite
+
+#### 60M: Draws person with 6+ body parts
+
+About
+
+Human figure drawing advances 48-72 months. According to cognitive and fine motor development, children draw people with 6+ body parts: head, body, arms, legs, eyes, mouth, possibly hair, hands, feet, nose. Shows detailed cognitive representation, fine motor skills, and visual-motor integration. More complex than earlier "tadpole" figures. Indicates developmental progression and school readiness.
+
+What to look for:
+- Drawing recognizable person with 6+ parts
+- Detailed figures: head, body, arms, legs, facial features
+- May include hands, feet, hair, clothing
+- Proportions improving
+- Intentional, detailed representations
+- Pride in drawings
+- Increasing complexity over time
+
+Why it matters:
+- Cognitive and fine motor milestone
+- Demonstrates detailed mental representation
+- Shows visual-motor integration advancing
+- Indicates developmental maturity
+- Important school readiness marker
+- Supports creative expression
+- Cognitive assessment tool
+
+#### 60M: Copies triangle/geometric shapes
+
+About
+
+Shape copying advances to triangles and complex shapes 48-72 months. According to pre-writing development, children can copy triangles (three-sided closed shape with points) after demonstration. More difficult than circles (36M) and squares (48M). Requires visual analysis, motor planning, and control. Shows visual-motor integration maturing. Foundation for letter formation and writing.
+
+What to look for:
+- Copying triangle when shown
+- Three sides meeting at points
+- Reasonably closed shape
+- May be imperfect but recognizable
+- Intentional triangle formation
+- Improving accuracy with practice
+- Appropriate writing tool grasp
+
+Why it matters:
+- Pre-writing and visual-motor milestone
+- Demonstrates shape reproduction advancing
+- Shows motor planning and control
+- Foundation for letter formation
+- Indicates school readiness
+- Supports visual-motor integration
+- Important pre-academic skill
+
+#### 60M: Knows about everyday things
+
+About
+
+General knowledge and understanding of everyday objects, people, and events is extensive by age 5. According to cognitive development, children understand common items' purposes, familiar people's roles, basic routines, and everyday processes. Shows accumulated learning, categorization, and cognitive development. Foundation for academic learning and world understanding.
+
+What to look for:
+- Understanding common objects and purposes
+- Knowing community helpers' roles
+- Understanding daily routines and sequences
+- Recognizing familiar places and events
+- Answering questions about everyday life
+- Growing general knowledge
+- Connecting concepts and experiences
+
+Why it matters:
+- Cognitive development milestone
+- Demonstrates accumulated learning
+- Shows categorization and understanding
+- Foundation for academic concepts
+- Supports language and reasoning
+- Indicates normal cognitive development
+- Important for school readiness
+
+#### 60M: Understands counting concept
+
+About
+
+Understanding counting (one-to-one correspondence) emerges 48-72 months. According to math development, children grasp that each number corresponds to one object. Can count small sets (3-5 objects) accurately. Different from rote counting sequence. Shows number sense and quantity understanding. Foundation for math concepts and operations.
+
+What to look for:
+- Counting small sets accurately (3-5 objects)
+- One-to-one correspondence (touching each object once)
+- Knowing last number is total quantity
+- Distinguishing counting from reciting
+- Understanding "how many?"
+- Growing number sense
+- Foundation for math operations
+
+Why it matters:
+- Critical math development milestone
+- Demonstrates number sense
+- Shows quantity understanding
+- Foundation for arithmetic
+- Different from rote number recitation
+- Supports math readiness
+- Important cognitive achievement
+
+#### 60M: Names 4+ colors
+
+About
+
+Color naming vocabulary is extensive by age 5. According to cognitive development, children can name 6-10+ colors accurately. Shows visual discrimination, memory, and language integration. Individual variation in color vocabulary. Supports descriptive language and pre-academic skills. Foundation for expanded color knowledge and artistic expression.
+
+What to look for:
+- Naming 6-10+ colors accurately
+- Consistent correct identification
+- Common colors plus variations (pink, brown, gray)
+- Using colors in descriptions
+- Matching and sorting by color
+- Pride in color knowledge
+- Individual variation in vocabulary size
+
+Why it matters:
+- Cognitive and language milestone
+- Demonstrates visual discrimination mastery
+- Shows concept learning advanced
+- Supports descriptive language
+- Important for pre-academic skills
+- Foundation for artistic expression
+- Indicates normal development
+
+#### 60M: Understands same/different
+
+About
+
+Comparison and discrimination concepts are well-established by age 5. According to cognitive development, children understand "same/different," can identify similarities and differences, match identical items, sort by attributes. Shows categorization, discrimination, and cognitive flexibility. Foundation for academic concepts and critical thinking.
+
+What to look for:
+- Understanding "same" vs "different"
+- Identifying matching/identical items
+- Finding differences between similar items
+- Sorting by attributes (color, size, shape)
+- Comparing and contrasting
+- Using comparison language
+- Applying concept to various contexts
+
+Why it matters:
+- Cognitive development milestone
+- Demonstrates discrimination and comparison
+- Shows categorization abilities
+- Foundation for academic concepts
+- Supports critical thinking
+- Important for problem-solving
+- Critical school readiness skill
+
+#### 60M: Plays board/card games
+
+About
+
+Participating in structured board and card games advances 48-72 months. According to cognitive and social development, children can play simple games following rules, taking turns, understanding game objectives. May need reminders and support. Shows cognitive understanding, impulse control, social skills, and cooperation. Foundation for complex games and strategic thinking.
+
+What to look for:
+- Playing simple board/card games
+- Following game rules (with support)
+- Taking turns appropriately
+- Understanding game objectives
+- May need reminders
+- Handling winning and losing (developing)
+- Enjoying game play
+
+Why it matters:
+- Cognitive and social milestone
+- Demonstrates rule following
+- Shows impulse control developing
+- Foundation for strategic thinking
+- Supports social interaction
+- Indicates cognitive-social integration
+- Important for peer play
+
+#### 60M: Identifies most letters
+
+About
+
+Letter identification expands significantly through kindergarten year. According to pre-literacy development, many children can identify most uppercase letters by end of kindergarten (age 5-6). Wide individual variation based on exposure and instruction. Shows visual discrimination and symbol knowledge. Foundation for reading development. Lowercase letters typically take longer.
+
+What to look for:
+- Identifying many letters when shown
+- Especially uppercase letters
+- Wide individual variation (10-26 letters)
+- Based on exposure and teaching
+- Interest in letters and reading
+- Expanding letter knowledge
+- Foundation for decoding
+
+Why it matters:
+- Pre-literacy development milestone
+- Shows letter knowledge advancing
+- Foundation for reading
+- Wide variation based on instruction
+- Not all children know all letters at age 5
+- Develops through kindergarten
+- Important reading readiness skill
+
+### GROWTH
+
+#### 60M: Boys 40 lb; Girls 39 lb
+
+About
+
+At 60 months, average weights are approximately 40 lb (18.1 kg) for boys and 39 lb (17.7 kg) for girls, according to WHO growth standards. Height averages approximately 43-44 inches. Growth rate continues steady approximately 4-5 lb and 2-3 inches per year. Individual variation remains significant. Body proportions increasingly child-like. Pediatric monitoring uses growth charts tracking individual patterns.
+
+What to look for:
+- Steady growth following individual curve
+- Height approximately 43-44 inches
+- Child-like body proportions
+- Healthy appetite and activity
+- Consistent growth pattern on charts
+- Individual variation normal
+- Regular pediatric monitoring
+
+Why it matters:
+- Growth monitoring for health assessment
+- Individual variation is normal and significant
+- Growth pattern over time most important
+- Steady slower growth expected
+- Nutrition supports healthy development
+- Regular monitoring recommended
+- Concerns warrant pediatric evaluation
+
+#### Height 43-44 inches
+
+About
+
+At age 5, average height is approximately 43-44 inches according to WHO growth standards. Individual variation based on genetics and growth patterns. Growth rate approximately 2-3 inches per year. Pediatricians track height on standardized growth charts following individual percentiles. Consistent growth pattern more important than specific measurements. Height velocity and pattern indicate healthy development.
+
+What to look for:
+- Height approximately 43-44 inches at age 5
+- Steady growth approximately 2-3 inches/year
+- Following individual growth curve
+- Proportional to weight and development
+- Individual and genetic variation
+- Consistent pattern on growth charts
+- Healthy nutrition supporting growth
+
+Why it matters:
+- Growth monitoring indicator
+- Individual variation substantial and normal
+- Genetics strongly influence height
+- Growth pattern over time most important
+- Steady growth indicates health
+- Deviations may warrant evaluation
+- Supports developmental assessment
+
+#### Adult proportions beginning
+
+About
+
+Body proportions continue transitioning toward adult ratios 48-72 months. According to growth and development, children show increasingly adult-like proportions: longer legs relative to trunk, leaner bodies, more defined musculature. Head-to-body ratio continues decreasing. These changes support advancing physical abilities and coordination. Normal developmental progression continuing through childhood.
+
+What to look for:
+- Adult-like body proportions emerging
+- Long-legged appearance
+- Lean, athletic build
+- Defined musculature
+- Proportional head-to-body ratio
+- Improving coordination and abilities
+- Individual variation in body type
+
+Why it matters:
+- Normal growth and development
+- Proportions support motor advancement
+- Indicates healthy maturation
+- Individual variation based on genetics
+- Nutrition and activity influence development
+- Supports physical capabilities
+- Normal transition toward adult proportions
+
+#### BMI important measurement
+
+About
+
+Body Mass Index (BMI) becomes important measurement 24+ months. According to AAP and CDC guidelines, pediatricians calculate and track BMI percentiles starting age 2. BMI-for-age helps identify healthy weight, underweight, overweight, or obesity. More accurate than weight alone for assessing healthy growth. Plotted on growth charts tracking over time. Supports nutrition and health guidance.
+
+What to look for:
+- BMI calculated and tracked at well visits
+- BMI plotted on age-specific charts
+- Healthy BMI percentile range (5th-85th)
+- Consistent BMI percentile over time
+- Nutrition and activity supporting healthy BMI
+- Pediatrician monitoring and guidance
+- Individual variation normal
+
+Why it matters:
+- Important health assessment tool
+- More accurate than weight alone
+- Identifies healthy weight, underweight, overweight
+- Tracked over time on growth charts
+- Supports nutrition and activity guidance
+- Early identification of weight concerns
+- Promotes healthy growth patterns
+
+### TEETH
+
+#### All 20 primary teeth present and stable
+
+About
+
+Complete primary dentition (20 teeth) is present and stable by age 5. According to dental development, all primary teeth have been present since age 2.5-3 and remain until permanent teeth begin erupting (age 6+). AAPD and AAP emphasize continued excellent oral care: twice-daily brushing with fluoride toothpaste, daily flossing, regular dental visits, limiting sugary foods/drinks, and maintaining lifelong dental habits.
+
+What to look for:
+- All 20 primary teeth present and healthy
+- No cavities or dental problems (ideally)
+- Excellent oral hygiene routine
+- Twice-daily brushing with fluoride toothpaste
+- Daily flossing when teeth touch
+- Regular dental visits every 6 months
+- Healthy diet supporting dental health
+
+Why it matters:
+- Maintaining healthy primary dentition
+- Primary teeth important until age 6-12
+- Excellent oral care prevents problems
+- Establishes lifelong dental habits
+- Cavity prevention critical
+- Primary teeth hold space for permanent teeth
+- Regular dental care essential
+
+#### 72M: First permanent molars erupt (behind primary teeth)
+
+About
+
+First permanent molars erupt around age 6 (72 months), behind primary teeth. According to dental development, these "six-year molars" emerge behind the last primary molars without replacing primary teeth. Often unnoticed initially. These permanent teeth require excellent care as they don't get replaced. May cause discomfort during eruption. Important milestone in dental development.
+
+What to look for:
+- New molars erupting behind primary teeth (around age 6)
+- Four permanent molars (one each quadrant)
+- May cause discomfort, irritability
+- No primary tooth loss before these erupt
+- These are permanent teeth (don't get replaced)
+- Need excellent oral care
+- May go unnoticed initially
+
+Why it matters:
+- First permanent teeth erupting
+- These don't replace primary teeth
+- Permanent teeth require excellent care
+- Won't be replaced if damaged/decayed
+- Important to recognize and care for
+- May need dental sealants for protection
+- Marks beginning of mixed dentition period
+
+#### 72M: Primary teeth loosen and fall out (starting with central incisors)
+
+About
+
+Primary teeth begin loosening and falling out around age 6 (72 months). According to dental development, central incisors (front teeth) typically loosen first as permanent teeth develop beneath. Natural, painless process. Lost teeth followed by permanent tooth eruption. Primary teeth continue falling out through age 12. Timing varies widely; some children start earlier (age 5), others later (age 7+), all normal.
+
+What to look for:
+- Primary teeth becoming loose (starting around age 6)
+- Usually central incisors loosen first
+- Natural, painless loosening process
+- Tooth falls out on its own
+- Permanent tooth erupts in place
+- Wide individual variation in timing (age 5-7+)
+- Continues through age 12
+
+Why it matters:
+- Normal dental development milestone
+- Primary teeth make room for permanent teeth
+- Wide timing variation is normal
+- Process continues through age 12
+- Permanent teeth erupt in sequence
+- Marks transition to permanent dentition
+- Important developmental progression
+
+#### Spaces between primary teeth normal
+
+About
+
+Spacing between primary teeth is normal and healthy around age 4-6. According to dental development, gaps develop as jaws grow to accommodate larger permanent teeth. Spacing allows proper alignment of permanent dentition. Absence of spacing may indicate potential crowding when permanent teeth erupt. No intervention needed for normal spacing. Shows healthy jaw growth and development.
+
+What to look for:
+- Gaps appearing between primary teeth
+- Normal, healthy spacing
+- Indicates jaw growth
+- Preparing for larger permanent teeth
+- No intervention needed
+- Wide individual variation
+- Spaces are beneficial, not concerning
+
+Why it matters:
+- Normal and beneficial dental development
+- Spacing prepares for permanent teeth
+- Shows healthy jaw growth
+- Absence of spacing may predict crowding
+- No treatment needed for normal spacing
+- Important developmental progression
+- Supports proper permanent tooth alignment
+
+### VISION
+
+#### Visual acuity typically 20/20
+
+About
+
+Visual acuity reaches adult 20/20 level by age 5-6. According to AAO guidelines, most children achieve full adult visual acuity. All visual systems functioning at adult levels. However, visual system remains sensitive to abnormalities until age 8-10; untreated problems can still cause permanent vision loss. AAO strongly recommends comprehensive vision screening before kindergarten and prompt treatment of any issues.
+
+What to look for:
+- Visual acuity 20/20 or near
+- Clear vision at all distances
+- Both eyes working together perfectly
+- No visual difficulties
+- Age-appropriate visual skills
+- Passing vision screenings
+- No squinting, headaches, eye strain
+
+Why it matters:
+- Vision development complete to adult levels
+- Comprehensive screening critical before school
+- Visual system still sensitive to problems until age 8-10
+- Untreated issues can cause permanent vision loss
+- Early detection and treatment essential
+- Vision supports all learning
+- Critical for school success
+
+#### Recognizes all letters/numbers
+
+About
+
+Letter and number recognition is extensive by end of kindergarten (age 5-6). According to pre-literacy and pre-math development, children recognize most or all uppercase letters and numbers 1-10+. Wide individual variation based on instruction. Shows visual discrimination and symbol knowledge mastery. Foundation for reading and math. Lowercase letters may take longer.
+
+What to look for:
+- Recognizing most/all uppercase letters
+- Identifying numbers 1-10+
+- Wide individual variation based on teaching
+- Consistent accurate recognition
+- Interest in reading and math
+- Foundation for decoding
+- Lowercase letters developing
+
+Why it matters:
+- Pre-literacy and pre-math milestone
+- Shows symbol recognition mastery
+- Foundation for reading and arithmetic
+- Wide variation based on instruction
+- Critical school readiness skill
+- Supports academic learning
+- Important for kindergarten success
+
+#### Eye-hand coordination excellent
+
+About
+
+Eye-hand coordination reaches high proficiency by age 5. According to developmental milestones, children can perform precise visual-motor tasks: writing letters, cutting shapes, catching balls, building complex structures. Shows visual-motor integration mature. Supports all academic and play activities. Continues refining but essentially mature.
+
+What to look for:
+- Excellent coordination in all tasks
+- Precise fine motor control
+- Accurate catching and throwing
+- Detailed drawing and writing
+- Complex construction abilities
+- Mature visual-motor integration
+- Confidence in coordinated tasks
+
+Why it matters:
+- Visual-motor development milestone
+- Supports all academic tasks
+- Enables complex play and sports
+- Shows neurological maturation complete
+- Foundation for handwriting and learning
+- Indicates vision and motor systems integrated
+- Critical for school success
+
+#### Tracks fast-moving objects
+
+About
+
+Visual tracking of fast-moving objects is mature by age 5. According to visual development, children can follow rapidly moving objects (balls, cars, etc.) smoothly with eyes. Shows oculomotor control complete. Supports sports, reading, and visual learning. Indicates mature visual system. Problems with tracking warrant evaluation.
+
+What to look for:
+- Smoothly tracking fast-moving objects
+- No difficulty following rapid movements
+- Eyes working together during tracking
+- Supports ball games and sports
+- Age-appropriate tracking skills
+- No visual discomfort during tracking
+- Mature oculomotor control
+
+Why it matters:
+- Visual development milestone
+- Shows oculomotor system mature
+- Supports reading (tracking lines of text)
+- Enables sports and ball games
+- Indicates visual maturation complete
+- Problems warrant evaluation
+- Important for learning and play
+
+#### Visual perception supports reading
+
+About
+
+Visual perception skills necessary for reading are developed by age 5-6. According to literacy development, children can discriminate letters, recognize patterns, track lines of text, and process visual symbols. Shows visual foundation for reading established. Combined with phonological awareness and letter knowledge, supports reading acquisition. Critical school readiness component.
+
+What to look for:
+- Discriminating similar letters (b/d, p/q)
+- Recognizing visual patterns
+- Tracking left to right
+- Processing visual symbols
+- Letter and word recognition
+- Visual memory for sight words
+- Foundation for reading
+
+Why it matters:
+- Critical pre-reading milestone
+- Visual perception foundation for literacy
+- Supports letter discrimination and word recognition
+- Combined with phonological skills enables reading
+- Shows visual readiness for reading instruction
+- Important school readiness component
+- Critical for academic success
+
+#### Should have vision screening before school
+
+About
+
+Comprehensive vision screening is strongly recommended before kindergarten. According to AAO and AAP guidelines, children should have professional vision screening by age 3-5 to detect problems early. Many vision issues are asymptomatic but impact learning. Early detection and treatment prevent permanent vision loss (amblyopia) and support school success. Critical preventive health measure.
+
+What to look for:
+- Vision screening completed by age 3-5
+- Professional evaluation, not just home tests
+- Checking acuity, alignment, eye health
+- Early detection of problems
+- Prompt treatment if issues found
+- Following up on recommendations
+- Ensuring vision supports learning
+
+Why it matters:
+- Critical preventive health screening
+- Many vision problems asymptomatic
+- Early detection prevents permanent vision loss
+- Untreated vision affects learning significantly
+- Treatment most effective when started early
+- AAO and AAP strongly recommend screening
+- Essential for school readiness and success
+
+### HEARING
+
+#### Hearing fully mature
+
+About
+
+Hearing system is fully mature by age 5. According to auditory development, all aspects of hearing function at adult levels. Hearing supports language, learning, safety, and social interaction. However, hearing loss can occur at any age. Regular monitoring important. Concerns about hearing warrant prompt evaluation. Critical for all development and learning.
+
+What to look for:
+- Responding to all sounds appropriately
+- Understanding speech in various environments
+- No difficulty hearing or understanding
+- Appropriate language development
+- Following instructions well
+- No signs of hearing difficulty
+- Passing hearing screenings
+
+Why it matters:
+- Hearing system fully mature
+- Critical for language and learning
+- Supports all communication
+- Hearing loss can occur at any age
+- Regular monitoring important
+- Concerns warrant prompt evaluation
+- Essential for development and education
+
+#### Understands all speech in various environments
+
+About
+
+Speech comprehension is extensive across contexts by age 5. According to language development, children understand speech in quiet and moderately noisy environments. Can filter background noise and focus on relevant speech. Shows auditory processing mature. May still struggle in very noisy environments (normal). Supports classroom learning and social interaction. Difficulties warrant evaluation.
+
+What to look for:
+- Understanding speech in various settings
+- Comprehending in quiet and moderate noise
+- Filtering background noise
+- Focusing on relevant speech
+- May struggle in very noisy environments (normal)
+- Following conversations and instructions
+- Appropriate responses across contexts
+
+Why it matters:
+- Auditory processing milestone
+- Shows hearing and language integrated
+- Supports classroom learning
+- Enables social interaction in groups
+- Some difficulty in very noisy settings normal
+- Significant difficulties warrant evaluation
+- Critical for academic and social success
+
+#### Follows multi-step complex instructions
+
+About
+
+Following complex multi-step instructions is well-established by age 5. According to language development, children can follow 4-5+ step instructions, including both related and unrelated steps. Shows auditory memory, sequencing, and processing capacity mature. Supports classroom learning and independence. Foundation for academic instruction-following and complex task completion.
+
+What to look for:
+- Following 4-5+ step instructions
+- Handling related and unrelated steps
+- Remembering all steps in sequence
+- Completing complex tasks appropriately
+- Better with clear instructions
+- Strong auditory memory
+- Independence in task completion
+
+Why it matters:
+- Receptive language and memory milestone
+- Demonstrates auditory processing mature
+- Shows attention and sequencing advanced
+- Critical for classroom learning
+- Supports independence and responsibility
+- Foundation for academic success
+- Important school readiness skill
+
+#### May struggle with very noisy environments (normal)
+
+About
+
+Difficulty understanding speech in very noisy environments is normal even at age 5. According to auditory development, children may struggle to filter background noise and focus on speech in very loud settings (crowded cafeterias, loud parties). Shows developing but not yet fully mature auditory filtering. Adults also find these environments challenging. Improves with age. Significant difficulties in moderately noisy environments warrant evaluation.
+
+What to look for:
+- Understanding well in quiet and moderate noise
+- May struggle in very loud, chaotic environments
+- Normal for age (adults struggle too)
+- Improving over time
+- No difficulty in typical settings
+- Concerns in moderate noise warrant evaluation
+- Context-appropriate hearing responses
+
+Why it matters:
+- Normal developmental pattern
+- Very noisy environments challenge even adults
+- Shows auditory filtering still maturing
+- Difficulty in typical environments warrants evaluation
+- Improves with age and development
+- Understanding normal vs concerning important
+- Supports appropriate expectations and support
+
+#### Should have hearing screening before school
+
+About
+
+Hearing screening is strongly recommended before kindergarten. According to AAP and ASHA guidelines, children should have hearing screening by age 4-5 to detect problems before school. Hearing loss impacts language, learning, and social development significantly. Early detection and intervention critical. Many children had newborn screening but hearing can change. Protects educational success.
+
+What to look for:
+- Hearing screening completed by age 4-5
+- Professional evaluation
+- Checking hearing at all frequencies
+- Early detection of any hearing loss
+- Prompt intervention if problems found
+- Following up on recommendations
+- Ensuring hearing supports learning
+
+Why it matters:
+- Critical preventive health screening
+- Hearing essential for learning and language
+- Hearing loss significantly impacts education
+- Early detection and intervention critical
+- Hearing can change after newborn screening
+- AAP and ASHA strongly recommend screening
+- Essential for school readiness and success
 
 ---
 
 ## Note on Individual Variation
 
-These descriptions represent typical developmental patterns based on evidence from CDC, WHO, AAP, HSE, NHS, and other authoritative sources. However, all children develop at their own pace. The age ranges indicate when approximately 75% of children achieve each milestone. Some children achieve milestones earlier, others later, and both can be within normal range.
+These descriptions represent typical developmental patterns based on evidence from CDC, WHO, AAP, HSE, NHS, Canadian Paediatric Society, NHMRC, UNICEF, ASHA, and other authoritative sources. However, all children develop at their own pace. The age ranges indicate when approximately 75% of children achieve each milestone. Some children achieve milestones earlier, others later, and both can be within normal range.
+
+**When to seek evaluation:**
+- Child not meeting milestones for their age range
+- Loss of previously acquired skills (regression)
+- Parental concern about any aspect of development
+- Significant asymmetry in movements or responses
+- Lack of social responsiveness or eye contact
+
+**For premature infants:** Use corrected age (age from due date, not birth date) for the first 24 months when assessing developmental milestones.
+
+**Developmental screening recommendations:**
+- General developmental screening at 9, 18, and 30 months
+- Autism screening at 18 and 24 months
+- Vision screening before starting school (age 3-5)
+- Hearing screening at birth and before starting school
+
+---
+
+**This document is based on current evidence-based guidelines and should be used in conjunction with regular pediatric care and developmental screening.**
 
 **When to seek evaluation:**
 - Child not meeting milestones for their age range
