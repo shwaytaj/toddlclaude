@@ -774,6 +774,29 @@ Why it matters:
 - Reduces risk of plagiocephaly through varied positioning
 - Difficulty achieving this position by 4 months may indicate motor delay
 
+#### Push down with legs
+
+About
+
+At 3 months, infants develop increasing strength and coordination in their lower extremities, demonstrating the ability to actively push down with their legs when held in a supported standing position or when lying on their backs. According to Health Canada developmental guidelines, this leg-pushing behavior represents important development of antigravity strength in the legs and is a precursor to future weight-bearing skills. When you hold a 3-month-old upright with their feet touching a surface, they will actively extend their legs and push against that surface, momentarily bearing some weight. This is not yet true standing, but rather preparatory strengthening for future gross motor milestones.
+
+What to look for:
+- Active leg extension and pushing when feet touch a firm surface
+- Momentary weight-bearing through legs when held in supported standing position
+- Rhythmic pushing or "bouncing" movements when held upright over your lap
+- Increased leg extension strength compared to newborn period
+- Bilateral leg movement working together, though perfect coordination not yet expected
+- Kicking movements becoming stronger and more purposeful when lying on back
+- Pleasure or excitement expressed during leg-pushing activities
+
+Why it matters:
+- Builds essential leg strength necessary for later standing and walking
+- Develops proprioceptive awareness of legs and how they interact with surfaces
+- Strengthens hip, knee, and ankle muscles in preparation for weight-bearing
+- Provides vestibular stimulation important for balance development
+- Encourages bone density development through weight-bearing forces
+- Part of the normal progression toward independent mobility milestones
+
 #### 3M: Hands loose most of time
 
 About
@@ -918,6 +941,29 @@ Why it matters:
 - Caregiver's voice provides security and emotional regulation
 - Lack of response to voices warrants hearing and developmental evaluation
 
+#### Makes sounds back to you when you talk to baby (reciprocal vocalization)
+
+About
+
+By 2 months, infants begin engaging in early conversational exchanges through reciprocal vocalization. According to NHS UK developmental guidelines, babies at this age will respond to a caregiver's speech by producing their own vocalizations—typically coos, gurgles, or vowel sounds—in a back-and-forth pattern. This turn-taking behavior represents a crucial precursor to true conversation. The baby listens while you speak, then "responds" with their own sounds, demonstrating early understanding of conversational structure. These proto-conversations help establish the rhythms and patterns of human communication long before actual words emerge.
+
+What to look for:
+- Baby produces sounds (coos, gurgles, vowel sounds) after you finish speaking
+- Brief pauses where baby appears to wait for your response before vocalizing again
+- Increased vocalization rate when you're actively talking to baby
+- Baby watches your face intently while you speak, then vocalizes
+- Smile or expression of pleasure during these vocal exchanges
+- Different vocal patterns when interacting with people versus when alone
+- Quieting to listen when you speak, then "answering" with sounds
+
+Why it matters:
+- Establishes foundational understanding of conversational turn-taking
+- Teaches baby about the reciprocal nature of communication
+- Strengthens caregiver-infant bond through interactive exchanges
+- Provides essential practice with vocal production and breath control
+- Encourages continued language development through responsive interaction
+- Early marker of communication skills that predict later language abilities
+
 #### 2M: Makes cooing noises
 
 About
@@ -1039,6 +1085,29 @@ Why it matters:
 - Reflects developing vision, facial recognition, and social cognition
 - Absence of social smile by 10-12 weeks warrants developmental screening
 - Early marker of typical social-emotional development
+
+#### Deliberately maintain eye contact
+
+About
+
+Around 2 months of age, infants transition from reflexive looking to deliberate, sustained eye contact with caregivers. According to NHS UK developmental guidelines, this intentional eye contact represents a significant social-emotional milestone. Unlike the brief, fleeting eye contact seen in newborns, 2-month-olds will purposefully hold their gaze on a familiar face for extended periods, sometimes 10-30 seconds or longer. This sustained mutual gaze is a foundational social behavior that supports attachment, serves as an early form of communication, and indicates the baby's growing interest in and awareness of social partners.
+
+What to look for:
+- Prolonged periods of eye contact lasting 10-30 seconds or more during face-to-face interaction
+- Baby actively seeks out eye contact by shifting gaze to find your eyes
+- Facial brightening or smiling while maintaining eye contact
+- Baby returns to eye contact after briefly looking away
+- Differentiation between looking at eyes versus other facial features
+- More frequent and sustained eye contact with familiar caregivers than strangers
+- Eye contact accompanied by cessation of other movements, showing focused attention
+
+Why it matters:
+- Fundamental building block for all future social interactions and relationships
+- Supports secure attachment between infant and caregiver
+- Enables early non-verbal communication and emotional connection
+- Helps baby learn to read facial expressions and emotional cues
+- Critical for language development as babies watch faces during speech
+- Atypical eye contact patterns may be an early indicator of developmental concerns requiring monitoring
 
 #### 2M: Calms when spoken to
 
@@ -1329,6 +1398,53 @@ Why it matters:
 - Both eyes converging on small objects supports binocular vision and depth perception
 - Persistent inability to focus on small objects may indicate vision concerns
 - Guides understanding of what babies can see and engaging visual environment
+
+#### Look at own hand
+
+About
+
+Around 3 months, infants discover their hands as objects of visual interest and will spend time gazing at them intently. According to Australian Department of Health developmental guidelines, this hand-regarding behavior represents an important cognitive milestone showing emerging body awareness and visual-motor integration. The baby will hold a hand up in their line of sight and study it, sometimes for extended periods, as they begin to understand that this object they see is actually part of their own body. This self-observation is foundational for developing reaching, grasping, and eventually intentional hand use.
+
+What to look for:
+- Hand held up at midline or to the side within visual field
+- Sustained visual attention on the hand for 5-10 seconds or longer
+- Fingers opening and closing while baby watches
+- Both hands studied at different times, though one may be preferred initially
+- Hand-regarding often occurring during calm, alert states
+- Baby may bring hand closer or farther away, as if examining it from different distances
+- Expression of interest or concentration while watching hands
+
+Why it matters:
+- Indicates developing body awareness and self-recognition
+- Represents integration of visual and proprioceptive (body position) senses
+- Foundation for intentional reaching and grasping skills
+- Shows baby is learning about cause and effect (I move my hand, and I can see it move)
+- Important stage in understanding the boundaries between self and environment
+- Precursor to bringing hands to midline and hand-to-hand play
+
+#### Discover feet and hands
+
+About
+
+At 3 months, babies enter a period of fascinating self-discovery, becoming increasingly aware of their own hands and feet. According to Health Canada developmental guidelines, this body discovery represents crucial cognitive development as infants begin to map their own body parts and understand themselves as separate beings. Initially discovered through touch and proprioception (body position sense), hands and feet become objects of intense visual and tactile exploration. Babies will spend time looking at, touching, grasping, and eventually bringing these body parts to their mouths for sensory exploration.
+
+What to look for:
+- Visual attention directed toward hands when they come into view
+- Hands coming together at midline, fingers touching and exploring each other
+- Hands brought to mouth for sucking and mouthing exploration
+- Discovery of feet typically follows hands, often starting around 3-4 months
+- Tactile exploration with one hand touching the other
+- Expression of interest or excitement during these self-discovery moments
+- Increased purposeful movement as baby experiments with positioning hands in view
+
+Why it matters:
+- Fundamental component of developing self-awareness and body schema
+- Provides rich multisensory information (visual, tactile, proprioceptive) about own body
+- Foundation for all future hand skills including reaching, grasping, and manipulation
+- Supports midline orientation and bilateral coordination
+- Early stage of understanding self as separate from caregivers and environment
+- Provides self-soothing opportunities as hands become accessible for sucking
+- Sets stage for later milestones like foot-to-hand play and eventually bringing feet to mouth
 
 ### GROWTH - Physical
 
@@ -1635,6 +1751,50 @@ Why it matters:
 - Engaging and rewarding for caregivers, encouraging continued interaction
 - Foundation for later intonation patterns that convey meaning
 - Monotone vocalizations may indicate hearing concerns
+
+#### Responds to sound by stopping sucking, blinking or turning
+
+About
+
+At around 3-3.5 months, infants begin to demonstrate more refined and specific behavioral responses to auditory stimuli. According to the South Africa Department of Health Road to Health Booklet developmental checklist, babies at this age will respond to sounds by stopping their sucking pattern, blinking, or turning their head toward the sound source. This represents an advancement from the newborn startle reflex to more organized, purposeful auditory responses. These behaviors indicate that the infant is not only hearing sounds but also processing and responding to them with deliberate actions, showing early sound localization abilities.
+
+What to look for:
+- Brief pause in sucking during feeding when a sound occurs nearby
+- Eyes blinking or widening in response to moderate-volume sounds
+- Head turning toward the direction of a sound source, even if movement is incomplete
+- Cessation of other activities (such as arm movements) when attending to a sound
+- More consistent responses to familiar voices compared to unfamiliar sounds
+- Response may be delayed by 1-2 seconds as baby processes the auditory information
+
+Why it matters:
+- Demonstrates auditory processing advancing beyond reflexive responses
+- Indicates early sound localization skills that support later language development
+- Shows baby is learning to coordinate multiple sensory systems (hearing and motor response)
+- These specific behavioral responses help caregivers and clinicians assess hearing function
+- Foundation for learning to discriminate between different types of sounds
+- Absence of these responses at this age may warrant hearing evaluation
+
+#### Search for sound with eyes
+
+About
+
+By 3 months, infants develop the ability to coordinate their visual and auditory systems to locate sound sources. According to Australian Department of Health developmental guidelines, babies at this age will use their eyes to search for and locate the origin of sounds they hear. This cross-modal sensory integration—combining hearing and vision—represents important neurological development in the superior colliculus and cortical areas responsible for multisensory processing. The baby hears a sound and then actively uses vision to identify what or who made that sound, building important connections between auditory and visual information.
+
+What to look for:
+- Eyes scanning or moving in the direction of a sound source
+- Visual search pattern that follows the trajectory of a moving sound
+- Gaze eventually landing on the source of the sound (parent's face, toy, etc.)
+- Increased visual alertness when interesting sounds occur
+- Eyes moving before head turns, showing visual search precedes motor response
+- Ability to shift gaze between multiple sound sources in the environment
+
+Why it matters:
+- Indicates successful integration of hearing and vision (multisensory processing)
+- Essential for developing spatial awareness and understanding cause-and-effect
+- Supports social development as baby searches for and finds caregivers' faces when they speak
+- Foundation for later skills like joint attention and following points
+- Helps baby make sense of the environment by connecting sounds to their sources
+- Important for safety as child learns to visually locate potential hazards signaled by sound
 
 ---
 
@@ -1978,6 +2138,101 @@ Why it matters:
 - Lip closure also important oral motor skill for eating
 - Forcing food when baby refuses can create negative feeding associations
 
+#### Holds a toy in each hand
+
+About
+
+At 6 months, infants develop bilateral hand coordination, demonstrating the ability to grasp and hold two separate objects simultaneously—one in each hand. According to the South Africa Department of Health developmental guidelines, this milestone represents significant advancement in motor planning, bilateral coordination, and cognitive skills. The baby must coordinate both hands independently while maintaining grasp in each, showing increasing control over voluntary hand movements. This skill typically emerges as the primitive grasp reflex fully integrates and voluntary control becomes more refined, usually appearing between 5-7 months.
+
+What to look for:
+- Simultaneous grasp of two appropriately-sized toys (one in each hand)
+- Ability to maintain grasp in both hands for several seconds
+- May bang toys together, showing early bilateral coordination
+- Sometimes brings both toys toward midline
+- Can hold one toy while reaching for a second
+- May alternate attention between the two objects
+- Eventual progression to transferring a toy from one hand to the other
+
+Why it matters:
+- Demonstrates bilateral coordination—using both sides of body together
+- Shows cognitive advancement—awareness of multiple objects simultaneously
+- Foundation for more complex bilateral skills like clapping, using utensils, and self-care
+- Indicates normal hand strength and grasp development
+- Supports cognitive development as baby learns to manipulate multiple objects
+- Precursor to crossing midline and hand preference development
+
+#### Grasp feet with hands
+
+About
+
+Around 6 months, babies develop the flexibility, core strength, and body awareness to bring their hands to their feet and grasp them. According to NHS UK developmental guidelines, this foot-to-hand play represents important integration of multiple developmental systems: sufficient hip and spine flexibility, adequate abdominal strength to flex trunk, hand-eye coordination to locate and grasp the feet, and cognitive body awareness. Babies at this age will often lie on their backs, bring knees toward chest, and grasp their feet with their hands, sometimes bringing feet to mouth for oral exploration. This appears playful but serves multiple developmental purposes.
+
+What to look for:
+- Hands reaching down toward feet while lying on back
+- Successful grasp of one or both feet, holding on for several seconds
+- Bringing knees up toward chest to make feet accessible
+- Often accompanied by rocking side to side
+- Progression to bringing feet toward or into mouth
+- Expression of pleasure or concentration during foot play
+- Increased flexibility and core strength evident over time
+
+Why it matters:
+- Indicates developing body awareness and spatial understanding
+- Demonstrates healthy hip and spine flexibility essential for motor development
+- Shows strengthening of abdominal muscles necessary for sitting and other skills
+- Provides rich sensory input through touch and proprioception
+- Precursor to rolling and transitional movements that involve trunk rotation
+- Supports development of motor planning and coordination
+- Important self-discovery stage in understanding body boundaries
+
+#### Support weight on legs when held
+
+About
+
+By 6 months, infants demonstrate increasing lower extremity strength by supporting a substantial portion of their body weight on their legs when held in a supported standing position. According to NHS UK developmental guidelines, babies at this age will actively extend their legs and push downward through their feet when held upright with hands supporting their trunk. While not independent standing, this weight-bearing through the legs with support represents important preparatory strengthening for future standing and walking milestones. The baby should appear to "bounce" or push repeatedly, showing both strength and enjoyment of the activity.
+
+What to look for:
+- Active leg extension and pushing when held upright with feet on firm surface
+- Sustained weight-bearing for several seconds to minutes with trunk support
+- Rhythmic bouncing or pushing movements showing enjoyment
+- Hip, knee, and ankle joints extending to create relatively straight leg position
+- Bilateral weight-bearing through both legs, though not always perfectly symmetric
+- Feet flat or making appropriate contact with support surface
+- Expression of pleasure or excitement during supported standing play
+
+Why it matters:
+- Builds essential leg strength, bone density, and joint stability for future walking
+- Develops proprioceptive awareness of legs in weight-bearing position
+- Provides vestibular stimulation important for balance development
+- Strengthens hip extensors, quadriceps, and calf muscles needed for mobility
+- Offers different perspective of environment, supporting cognitive and visual development
+- Normal progression toward pulling to stand and cruising milestones
+- Excessive toe-walking or inability to bear weight may warrant evaluation
+
+#### Roll over side to side
+
+About
+
+Around 6 months, many infants master lateral rolling—rolling from their back to one side, then to the other side, showing controlled rotational movement. According to Australian Department of Health developmental guidelines, side-to-side rolling is distinct from front-to-back or back-to-front rolling and demonstrates advanced trunk control, motor planning, and body awareness. This rotational movement engages core muscles, initiates trunk rotation patterns essential for future skills, and shows the baby's ability to shift weight deliberately to move through space. It often serves as a precursor to more functional rolling patterns and early mobility.
+
+What to look for:
+- Deliberate rolling from back onto right side, then back to center, then onto left side
+- Controlled movement rather than reflexive or accidental rolling
+- Use of arms and legs to initiate and control the rolling motion
+- Ability to pause and play while lying on side before rolling to other side
+- Head control maintained throughout the rolling sequence
+- May use rolling as early method of moving toward desired objects
+- Progression from passive to active, intentional movement
+
+Why it matters:
+- Demonstrates advancing trunk strength and rotational control
+- Introduces important movement pattern (trunk rotation) used in all future motor skills
+- Shows motor planning ability—coordinating multiple body parts to achieve movement
+- Foundation for more functional rolling patterns (rolling across the room)
+- Supports development of core strength needed for sitting, crawling, walking
+- Indicates vestibular system development and tolerance for position changes
+- Part of normal progression toward independent mobility
+
 ### DEVELOPMENTAL - Communication
 
 #### 4M: Laughs out loud
@@ -2196,6 +2451,30 @@ Why it matters:
 - Indicates baby understands that communication is interactive, not one-way
 - Difficulty with turn-taking or lack of interactive engagement may indicate social-communication concerns
 
+#### Make 4+ distinct sounds (vowels and consonants)
+
+About
+
+By 6 months, infants expand their vocal repertoire significantly, producing at least four or more distinct sounds that include both vowel sounds (like "aah," "ooh," "eee") and early consonant sounds (like "bah," "mah," "dah"). According to Australian Department of Health developmental guidelines, this vocal expansion represents important maturation of the oral-motor system, respiratory control, and phonological awareness. Babies at this age are actively experimenting with their voice, practicing the building blocks of speech. This canonical babbling—combining consonants and vowels—typically emerges between 5-7 months and is a critical predictor of later language development.
+
+What to look for:
+- At least four different, distinct sounds produced repeatedly
+- Combination of vowel sounds ("ah," "oh," "ee," "oo") and consonant-vowel combinations ("ba," "ma," "da," "ga")
+- Sounds produced spontaneously during play and social interaction
+- Variations in pitch, volume, and intonation
+- Repetition of sounds in sequence (early reduplicated babbling like "ba-ba-ba")
+- Sounds appear intentional and exploratory rather than purely reflexive
+- Increasing variety in sound production over subsequent weeks
+
+Why it matters:
+- Critical milestone indicating normal speech and language development progression
+- Shows maturation of vocal cords, tongue, lips, and breath control
+- Foundation for later word production and speech clarity
+- Delayed or limited sound production at this age warrants speech-language evaluation
+- Provides essential practice with phonemes (sound units) needed for language
+- Supports cognitive and social development through vocal experimentation and interaction
+- Early marker predictive of later vocabulary and language skills
+
 ### DEVELOPMENTAL - Social & Emotional
 
 #### 4M: Recognizes mother
@@ -2366,6 +2645,54 @@ Why it matters:
 - Indicates baby is ready for increasing participation in feeding
 - Progression toward self-feeding solid foods
 
+#### Anticipate touch of being lifted
+
+About
+
+Around 6 months, infants develop the cognitive ability to anticipate routine events, including the physical sensation of being picked up. According to Australian Department of Health developmental guidelines, babies at this age will show anticipatory responses when they recognize the visual and contextual cues that precede being lifted—such as a caregiver approaching with arms outstretched or standing next to the crib. These anticipatory behaviors may include raising their arms, adjusting their body position, tensing or preparing their muscles, or showing facial expressions of excitement or readiness. This anticipation demonstrates memory, pattern recognition, and early understanding of cause-and-effect.
+
+What to look for:
+- Arms raising toward caregiver when being approached for lifting
+- Body positioning that facilitates being picked up (leaning forward, adjusting posture)
+- Facial brightening or smiling when recognizing lifting is about to occur
+- Muscle activation or body preparation before physical contact
+- Reduced startle response during lifting compared to earlier months
+- Different responses to familiar versus unfamiliar people approaching
+- Consistent anticipatory behavior across repeated experiences
+
+Why it matters:
+- Indicates developing memory and ability to recognize patterns in daily routines
+- Shows emerging understanding of cause-and-effect relationships
+- Demonstrates motor planning—body preparing for anticipated movement
+- Supports secure attachment as baby learns to predict caregiver actions
+- Indicates developing trust and sense of safety in relationship with caregiver
+- Important social-emotional milestone showing awareness of social interactions
+- Provides foundation for more complex anticipatory skills in daily routines
+
+#### Resist toys being taken away
+
+About
+
+Around 6 months, babies begin to show possessiveness over objects, actively resisting when toys are removed from their grasp. According to Australian Department of Health developmental guidelines, this resistance represents emerging concepts of ownership, desire, and intentionality. The baby may pull back, hold tighter, cry, or show frustration when a toy is taken away, demonstrating they have formed a preference or attachment to the object and want to maintain control over it. While this can be challenging for caregivers, it indicates healthy cognitive development, object awareness, and emerging sense of self and agency.
+
+What to look for:
+- Tightening grasp or pulling back when someone attempts to remove a toy
+- Facial expressions of displeasure, frustration, or protest
+- Vocalizations (fussing, crying, or protest sounds) when toy is taken
+- Visual tracking of the toy after it's removed, sometimes with reaching
+- Stronger resistance for preferred objects compared to less interesting items
+- Body turning away or protective positioning over desired object
+- Ability to be soothed or distracted with alternative objects (though may resist initially)
+
+Why it matters:
+- Demonstrates developing object permanence—understanding objects continue to exist
+- Shows emerging sense of ownership and personal preferences
+- Indicates agency and autonomy—understanding that desires matter
+- Part of normal self-concept development and boundary formation
+- Helps baby learn about social interactions, sharing, and negotiation over time
+- Healthy expression of emotions and desires
+- Provides opportunities for caregivers to teach early social skills through respectful interactions
+
 ### DEVELOPMENTAL - Cognitive
 
 #### 4M: Reaches for and looks at objects held
@@ -2463,6 +2790,30 @@ Why it matters:
 - Precursor to search behaviors for hidden objects
 - Cognitive development milestone in Piagetian sensorimotor stage
 - Laying foundation for symbolic thought and memory
+
+#### Understand object permanence
+
+About
+
+Around 6 months, infants begin developing object permanence—the understanding that objects continue to exist even when they cannot be seen, heard, or touched. According to Health Canada developmental guidelines, babies at this age demonstrate early object permanence by searching for partially hidden objects, showing surprise when objects disappear, or anticipating where a hidden object might be. This marks a crucial shift from the "out of sight, out of mind" thinking of younger infants to understanding that the world persists beyond immediate perception. Jean Piaget identified this as a fundamental cognitive milestone that develops gradually through multiple stages across the first two years.
+
+What to look for:
+- Searching for object that rolls out of view or is partially covered
+- Lifting a cloth to find a toy that was fully or partially covered
+- Tracking object's path even after it moves behind a barrier
+- Showing distress or surprise when an expected object is not where anticipated
+- Looking toward usual location of familiar objects (like bottle or favorite toy)
+- Visual anticipation of object's reappearance (such as in peek-a-boo)
+- Reaching toward where object was last seen, even if no longer visible
+
+Why it matters:
+- Foundation for memory development and mental representation
+- Essential for later symbolic thinking, language, and pretend play
+- Supports attachment—baby can now hold mental representation of caregiver when separated
+- Reduces anxiety as baby learns that caregiver returns even after leaving sight
+- Enables problem-solving and goal-directed behavior
+- Critical milestone in understanding that world exists independently of baby's perception
+- Gradual development continues through 18-24 months with increasing sophistication
 
 ### GROWTH - Physical
 
@@ -2614,6 +2965,29 @@ Why it matters:
 
 ### VISION - Development
 
+#### Eyes move well together (no squint)
+
+About
+
+By 6 months, infants should demonstrate consistent binocular vision with both eyes moving smoothly and coordinately together in all directions of gaze. According to the South Africa Department of Health Road to Health Booklet, checking for proper eye alignment and absence of strabismus (squint) is a critical vision screening milestone at 6 months. Normal binocular coordination means both eyes fixate on the same target simultaneously, move together when tracking objects, and maintain alignment when looking in different directions. Any persistent or intermittent misalignment at this age warrants evaluation, as early detection and treatment of strabismus is essential for preventing amblyopia (lazy eye) and ensuring proper visual development.
+
+What to look for:
+- Both eyes consistently pointing in the same direction when looking at objects or faces
+- Smooth, coordinated eye movements when tracking moving objects horizontally and vertically
+- No visible deviation or wandering of one eye inward, outward, upward, or downward
+- Consistent eye alignment in all gaze positions (center, left, right, up, down)
+- Both eyes focusing together on near objects (within arm's reach) and distant objects
+- Symmetrical light reflection (corneal light reflex) from both pupils when light shined at face
+- Absence of head tilting or turning to compensate for eye misalignment
+
+Why it matters:
+- Proper eye alignment is essential for normal binocular vision and depth perception
+- Early detection of strabismus allows for timely treatment to prevent permanent vision loss
+- Binocular vision supports fine motor skills, hand-eye coordination, and spatial awareness
+- Persistent strabismus after 6 months requires ophthalmologic evaluation
+- Critical period for visual development—early intervention yields best outcomes
+- Affects social development as eye contact and gaze-following rely on proper eye coordination
+
 #### 5M: Good color vision developed
 
 About
@@ -2760,6 +3134,31 @@ Why it matters:
 - Supports speech sound development
 - Encourages interactive play
 
+#### Change behaviour when listening to sound
+
+About
+
+By 6 months, infants demonstrate increasingly sophisticated auditory processing by modifying their behavior in response to sounds in their environment. According to Australian Department of Health developmental guidelines, babies at this age will pause their current activity, turn toward a sound source, change their facial expression, or alter their movement patterns when they hear interesting or meaningful sounds. This represents advancement beyond simple startle responses to nuanced behavioral changes that show the baby is actively listening, processing, and responding to specific auditory information. The behavior changes indicate attention, recognition, and cognitive processing of sound.
+
+What to look for:
+- Pausing or stopping current activity when a sound occurs
+- Body stilling or movement cessation to attend to sound
+- Facial expression changes showing interest, surprise, or recognition
+- Increased alertness or arousal when hearing specific sounds
+- Different behavioral responses to different types of sounds (voice vs. noise vs. music)
+- Calming or relaxing to soothing sounds, activating to stimulating sounds
+- Head turning combined with behavioral change showing sound localization with response
+- Immediate behavioral shift indicating active listening rather than passive hearing
+
+Why it matters:
+- Indicates sophisticated auditory processing beyond basic hearing
+- Shows baby is learning to discriminate between different sound types and meanings
+- Demonstrates attention and cognitive engagement with auditory environment
+- Important for language development as baby learns to attend to speech sounds
+- Supports safety awareness as baby learns to respond to environmental cues
+- Foundation for learning cause-and-effect relationships involving sound
+- Absence of behavioral response to sounds may indicate hearing or processing concerns
+
 #### Begins to understand "no-no"
 
 About
@@ -2888,6 +3287,31 @@ Why it matters:
 - Inability to sit independently by 9 months warrants developmental evaluation
 - Indicates healthy motor development trajectory
 
+#### Hold and shake toys
+
+About
+
+Around 8 months, infants demonstrate refined grasp and purposeful manipulation by holding toys securely and shaking them to produce sound or movement. According to Health Canada developmental guidelines, this milestone shows voluntary motor control, understanding of cause-and-effect (shaking causes rattling sound), and exploratory behavior. The baby uses a more mature grasp pattern, maintains hold while moving the object through space, and shows intentionality in the action—often repeating it to achieve the desired sensory result (sound, visual effect). This represents integration of grasp, proprioception, motor planning, and cognitive understanding.
+
+What to look for:
+- Secure grasp of toy (rattle, shaker, small toy) using palmer or radial-palmer grasp
+- Active shaking motion with toy held in hand
+- Purposeful repetition of shaking to produce sound or movement
+- Sustained grasp while moving arm/toy through space
+- May shake toy with one hand while holding another toy in other hand
+- Visual or auditory attention to the effect of shaking (watching or listening)
+- Expression of pleasure or interest during toy manipulation
+- Ability to maintain grasp during shaking rather than dropping toy
+
+Why it matters:
+- Indicates voluntary motor control and grasp refinement
+- Demonstrates cause-and-effect understanding (my action causes result)
+- Provides important proprioceptive and sensory feedback
+- Foundation for more complex object manipulation skills
+- Shows motor planning ability to coordinate grasp and movement
+- Supports cognitive development through active exploration
+- Precursor to later tool use and functional hand skills
+
 #### 9M: Palmar grasp (holds objects with whole hand)
 
 About
@@ -2935,6 +3359,31 @@ Why it matters:
 - Foundation for future precise hand movements: writing, buttoning, etc.
 - Shows ability to isolate and coordinate thumb and finger
 - Absence of pincer grasp by 12 months warrants evaluation
+
+#### Bend down to pick up toys from the floor when holding onto furniture
+
+About
+
+Around 9 months, infants demonstrate sophisticated balance and motor control by bending down to retrieve toys from the floor while holding onto furniture for support. According to NHS UK developmental guidelines, this milestone requires integration of multiple skills: standing balance with support, controlled trunk flexion, weight shifting, spatial awareness, and motor planning. The baby must maintain one-handed support on furniture while lowering their body, reaching with the free hand, grasping the object, and returning to standing—all while maintaining balance. This shows significant advancement in postural control and coordination.
+
+What to look for:
+- Standing while holding furniture with one or both hands
+- Controlled bending or squatting motion to lower body toward floor
+- Releasing one hand from furniture to reach for toy while maintaining balance
+- Successful grasp of toy from floor while in lowered position
+- Smooth return to standing position, possibly pulling back up on furniture
+- Maintained balance throughout the entire sequence without falling
+- Increasing confidence and speed in performing this movement over time
+- May initially sit or fall rather than controlled squat—refinement occurs gradually
+
+Why it matters:
+- Demonstrates advanced balance and postural control in standing position
+- Shows motor planning ability to coordinate complex multi-step movement sequence
+- Indicates sufficient core and leg strength for controlled descent and ascent
+- Important functional skill for independent play and exploration
+- Precursor to independent standing and walking without support
+- Reflects spatial awareness and depth perception development
+- Foundation for future skills like squatting, climbing, and navigating stairs
 
 ### DEVELOPMENTAL - Communication
 
@@ -3108,6 +3557,31 @@ Why it matters:
 - Provides practice with attention, anticipation, and social interaction
 - Classic developmental activity supporting multiple skill areas
 
+#### Play at least 1 nursery rhyme game such as peek-a-boo
+
+About
+
+By 9 months, infants engage actively in structured social games like peek-a-boo, pat-a-cake, or other nursery rhyme activities. According to NHS UK developmental guidelines, participation in these interactive games represents significant social-emotional and cognitive development. The baby demonstrates understanding of game structure (anticipation, turn-taking, predictable sequence), social reciprocity, object permanence (in peek-a-boo—understanding you still exist when face is covered), and shared joy in social interaction. These games build foundation for later pretend play, conversation, and social engagement.
+
+What to look for:
+- Active participation in peek-a-boo by pulling cloth from own face or caregiver's face
+- Anticipatory excitement or laughter before the "surprise" moment
+- Initiation of game by covering own face or vocalizing to request game
+- Understanding of turn-taking structure in interactive games
+- Appropriate motor actions (clapping for pat-a-cake, waving for bye-bye)
+- Sustained attention throughout game sequence (15-30 seconds or longer)
+- Expression of joy, excitement, or laughter during game
+- Repetition request—indicating desire to play game again
+
+Why it matters:
+- Demonstrates understanding of social interaction patterns and turn-taking
+- Shows emerging object permanence and memory for game sequences
+- Builds foundation for all future social games and interactive play
+- Supports language development through repetitive songs and phrases
+- Strengthens attachment through enjoyable shared experiences
+- Develops attention span and ability to sustain engagement
+- Important predictor of later social competence and communication skills
+
 #### 9M: Finger feeds soft foods
 
 About
@@ -3183,6 +3657,81 @@ Why it matters:
 - Foundation for more complex object manipulation
 - Normal, important exploratory behavior
 - Provides rich sensory feedback (auditory, tactile, proprioceptive)
+
+#### Find partially hidden items
+
+About
+
+Around 8 months, infants make significant progress in object permanence by actively searching for and finding objects that are partially hidden from view. According to Health Canada developmental guidelines, babies at this stage will lift a cloth or move a barrier to retrieve a toy that is partially covered, demonstrating understanding that the object continues to exist despite being partially out of sight. This represents Piaget's Stage 4 of object permanence development, where the infant shows intentional, goal-directed behavior to retrieve hidden objects. Complete object permanence (finding fully hidden objects) typically emerges a few months later.
+
+What to look for:
+- Visual attention when toy is partially covered with cloth or paper
+- Reaching for and lifting cover to reveal the hidden portion
+- Successful retrieval of partially covered object
+- Persistence in searching even if first attempt unsuccessful
+- May show surprise or satisfaction upon finding object
+- Searches immediately after hiding, showing memory of object's location
+- Gradually increasing ability to find objects with more coverage
+
+Why it matters:
+- Indicates advancing cognitive development and memory skills
+- Shows problem-solving ability and goal-directed behavior
+- Foundation for more sophisticated object permanence understanding
+- Supports emotional development—understanding caregiver exists when out of sight reduces separation anxiety
+- Enables more complex play and exploration behaviors
+- Important milestone in understanding physical world properties
+- Predictor of later problem-solving and reasoning abilities
+
+#### Watch falling objects
+
+About
+
+At 8 months, infants show intense visual interest in objects that fall, tracking them as they drop and often looking to the floor to see where they landed. According to Health Canada developmental guidelines, this behavior represents developing understanding of gravity, spatial relationships, and object permanence. The baby will often deliberately drop objects repeatedly to watch them fall, studying the trajectory and sometimes searching for the object after it disappears from view. While this can be frustrating for caregivers, it's important scientific exploration as the baby learns fundamental concepts about how objects move through space.
+
+What to look for:
+- Visual tracking of objects from hand through air during descent
+- Eyes following object's path downward, even if trajectory isn't perfectly vertical
+- Looking down to floor or location where object landed
+- Deliberate dropping or releasing of objects to observe falling
+- Repeated experimentation—dropping same object multiple times
+- Different responses to different falling speeds or trajectories
+- Expression of interest, concentration, or satisfaction during observation
+- May vocalize or look to caregiver as if sharing the interesting observation
+
+Why it matters:
+- Demonstrates understanding of basic physics concepts (gravity, trajectory)
+- Shows developing visual tracking abilities and spatial awareness
+- Indicates curiosity and scientific thinking through repeated experimentation
+- Supports understanding of cause-and-effect relationships
+- Foundation for later understanding of object movement and spatial relationships
+- Helps develop visual-motor coordination and depth perception
+- Repetitive dropping is normal, healthy exploration—not misbehavior
+
+#### Look between objects
+
+About
+
+Around 8 months, infants demonstrate visual comparison skills by looking back and forth between two or more objects, as if comparing or studying their relationships. According to Health Canada developmental guidelines, this scanning behavior shows emerging ability to visually examine multiple items, notice differences and similarities, and make comparative observations. The baby might look between two toys before choosing one, scan between parent's face and an object, or visually compare items held in each hand. This represents developing attention control, visual discrimination, and early categorization skills.
+
+What to look for:
+- Eyes moving back and forth between two objects in view
+- Systematic visual scanning pattern rather than random looking
+- Sustained attention while comparing (3-5 seconds or more)
+- May occur before making choice between two options
+- Looking between object and person, as if referencing or communicating
+- Visual comparison of objects in each hand
+- Eventual decision-making or action following the comparison
+- Increased frequency of this behavior during problem-solving or decision-making situations
+
+Why it matters:
+- Indicates developing visual discrimination and comparison skills
+- Shows ability to divide and control attention between multiple objects
+- Foundation for later categorization, sorting, and matching skills
+- Supports decision-making and choice behaviors
+- Important for joint attention—looking between person and object
+- Demonstrates cognitive flexibility and comparative thinking
+- Precursor to early pointing and referential communication
+- Shows baby is actively analyzing and making sense of environment
 
 ### GROWTH - Physical
 
@@ -3353,6 +3902,54 @@ Why it matters:
 - Number of teeth doesn't correlate with intelligence or development
 
 ### VISION - Development
+
+#### Eyes focus on far objects
+
+About
+
+By 9 months, infants demonstrate mature distance vision, showing the ability to focus clearly on objects and people across the room or at farther distances. According to the South Africa Department of Health Road to Health Booklet, assessment of far vision at 9 months is important for detecting visual impairments that may not be apparent when baby only views near objects. At this age, babies should show visual interest in people, toys, and activities happening 6-10 feet away or farther, tracking these distant objects with clear visual attention. This milestone indicates that the eye's focusing mechanism (accommodation) and visual acuity have developed sufficiently for functional distance vision.
+
+What to look for:
+- Visual attention to people or objects across the room (6-10 feet or more)
+- Tracking a person walking across a room at distance
+- Responding to distant visual stimuli like pets, siblings, or toys
+- No squinting or apparent difficulty when viewing far objects
+- Equal interest in near and far visual targets
+- Reaching or moving toward objects initially seen at distance
+- Maintaining visual attention on distant moving objects like ceiling fans or mobiles
+
+Why it matters:
+- Indicates healthy visual acuity development needed for exploration and learning
+- Distance vision important for safety as baby becomes mobile
+- Supports social development through visual connection with caregivers across room
+- Enables learning through observation of distant activities and events
+- Early detection of vision problems allows for timely intervention
+- Important for spatial awareness and navigation as mobility increases
+- Poor distance vision may manifest as lack of interest in environment or delayed social responses
+
+#### Eyes move well together (no squint)
+
+About
+
+Continued assessment of binocular coordination at 9 months ensures that eye alignment remains stable as visual demands increase. According to the South Africa Department of Health developmental screening guidelines, checking for strabismus (squint) at 9 months is critical because intermittent misalignment may become more apparent as babies engage in more complex visual tasks like depth perception for reaching and crawling. Persistent or new-onset strabismus at this age requires prompt evaluation. Normal binocular vision at 9 months means both eyes work together smoothly, maintain alignment during all visual activities, and support emerging depth perception needed for motor milestones.
+
+What to look for:
+- Consistent eye alignment in all directions of gaze during varied visual activities
+- Both eyes fixating on the same target during reaching, crawling, or object exploration
+- Smooth, coordinated eye movements when tracking moving objects or people
+- Symmetrical corneal light reflexes when light shined at face from 12 inches away
+- No deviation inward (esotropia), outward (exotropia), or vertical misalignment
+- Absence of compensatory head positioning (tilting or turning head)
+- Consistent performance across different lighting conditions and times of day
+
+Why it matters:
+- Critical period for visual development—misalignment can cause permanent vision loss if untreated
+- Binocular vision essential for depth perception needed for crawling, reaching, stairs
+- Proper eye alignment supports fine motor skill development and hand-eye coordination
+- Intermittent strabismus sometimes more noticeable during fatigue or illness
+- Early referral to pediatric ophthalmologist improves treatment outcomes
+- Affects social development as baby uses gaze for communication and joint attention
+- Untreated strabismus may lead to amblyopia (lazy eye) and permanent vision reduction
 
 #### 8M: Crawling helps develop eye-hand-foot-body coordination
 
@@ -3599,6 +4196,82 @@ Why it matters:
 - Timeline from cruising to walking varies widely (normal)
 - Foundation for independent walking, typically emerging soon
 
+#### Stand briefly without support
+
+About
+
+Around 12 months, many infants achieve momentary independent standing without holding onto furniture or people for support. According to Health Canada developmental guidelines, this brief unsupported standing—typically lasting 2-10 seconds initially—represents a major milestone in balance, postural control, and motor development. The baby may stand independently after letting go of furniture, when placed in standing position, or when transitioning between activities. While standing time is brief and balance precarious, this represents the crucial bridge between supported standing and independent walking. Falls are frequent and normal during this stage.
+
+What to look for:
+- Standing alone for 2-10 seconds without holding onto support
+- May occur spontaneously when letting go of furniture
+- Arms often held out at sides or up for balance
+- Feet typically positioned at shoulder-width or wider for stability
+- Expression of concentration or surprise at the achievement
+- May stand longer when distracted or focused on toy
+- Eventual sitting or falling as balance is lost—gradual increase in duration over weeks
+- Increased confidence and frequency of attempts over time
+
+Why it matters:
+- Major milestone indicating readiness for independent walking
+- Demonstrates sophisticated balance and postural control systems
+- Shows sufficient leg and core strength to maintain upright position against gravity
+- Important for vestibular system development and spatial orientation
+- Builds confidence for further mobility milestones
+- Provides different perspective for visual and cognitive exploration
+- Typical progression: supported standing → brief unsupported standing → cruising → walking
+
+#### Walk with support
+
+About
+
+By 12 months, most infants demonstrate walking ability when hands are held by a caregiver or when pushing a stable toy or furniture. According to Health Canada developmental guidelines, supported walking shows that the reciprocal gait pattern, weight shifting, and leg coordination needed for walking are emerging, but balance is not yet sufficient for independent ambulation. The baby demonstrates alternating leg movements, heel-to-toe weight transfer (though often still walking on toes), and trunk stability while moving forward. The amount of support needed varies—some babies need both hands held, others only one hand or light fingertip touch.
+
+What to look for:
+- Reciprocal leg movements (one leg forward, then the other) when supported
+- Active stepping pattern rather than being pulled along passively
+- Some weight-bearing through legs while walking
+- Trunk relatively upright, though may lean forward
+- Variable walking speed and step length
+- Hands held high or holding furniture, walker toy, or caregiver hands
+- Stops, starts, and turns with support
+- Feet may be flat, or baby may walk on toes initially
+
+Why it matters:
+- Indicates motor readiness for independent walking emerging
+- Shows developing reciprocal gait pattern essential for walking
+- Demonstrates sufficient leg strength and coordination for mobility
+- Important confidence-building stage before independent walking
+- Allows exploration of environment while developing balance skills
+- Typical progression from supported walking to independent steps over weeks to months
+- Most children walk independently between 9-18 months—wide variation is normal
+
+#### Climb stairs with help
+
+About
+
+Around 12 months, infants begin attempting to navigate stairs by crawling up with caregiver supervision and assistance. According to Health Canada developmental guidelines, early stair climbing typically involves crawling up on hands and knees (or hands and feet in bear crawl position), with an adult providing physical support and spotting for safety. This represents important development of motor planning, spatial awareness, strength, and coordination. Going up stairs is typically mastered before descending, which requires more sophisticated motor control and balance. Stair navigation remains a supervised activity requiring adult presence for safety.
+
+What to look for:
+- Crawling up stairs on hands and knees with adult supervision
+- May use hands-and-feet "bear crawl" position on stairs
+- One step at a time, bringing both hands and both knees to each step before advancing
+- Shows interest in attempting stairs but lacks safety awareness
+- Requires physical assistance, spotting, or encouragement from caregiver
+- May show hesitation or caution at first, gaining confidence over time
+- Descent much more challenging—often accomplished by sliding down backward
+- Appropriate fear or caution about height and drop-off
+
+Why it matters:
+- Demonstrates advancing gross motor skills and spatial awareness
+- Important functional skill for navigating home environment
+- Shows strength in arms, legs, and core for climbing movements
+- Develops motor planning and bilateral coordination
+- Critical safety concern—gates and supervision essential at this age
+- Foundation for later skills like walking up/down stairs with rail
+- Builds confidence in mobility and environmental navigation
+- Teaches body awareness and understanding of heights and safety
+
 #### 12M: Drinks from cup without lid
 
 About
@@ -3695,6 +4368,56 @@ Why it matters:
 - Important for self-feeding and self-care tasks
 - Indicates typical fine motor development progression
 
+#### Poke with index finger
+
+About
+
+Around 12 months, infants develop isolated index finger movement, demonstrating the ability to extend and use the index finger independently from other fingers to poke, point, or explore objects. According to Health Canada developmental guidelines, this finger isolation represents important refinement in fine motor control and hand-eye coordination. Babies use this skill to press buttons, poke at food, explore holes or textures, and eventually for pointing to communicate. The ability to isolate and control a single digit shows maturation of fine motor skills and is foundational for many functional activities including writing, typing, and tool use.
+
+What to look for:
+- Index finger extended while other fingers remain flexed or loosely curled
+- Poking motion directed at buttons, holes, textures, or small objects
+- Visual attention to target before and during poking
+- Deliberate, controlled finger movement rather than whole-hand touching
+- May poke at food, caregiver's face, book pictures, or toys
+- Eventually progresses to pointing gesture for communication (pointing at desired objects)
+- Hand approaches target with index finger leading
+- Successful contact of fingertip with intended target
+
+Why it matters:
+- Indicates neurological maturation allowing individual finger control
+- Foundation for pointing gesture—crucial communication milestone
+- Precursor to pincer grasp refinement and tool use
+- Shows hand-eye coordination advancing to precise finger control
+- Important for exploration and learning about object properties
+- Enables interaction with more complex toys and everyday objects
+- Sets foundation for later fine motor skills like writing and buttoning
+
+#### Push toys
+
+About
+
+By 12 months, infants demonstrate the coordination to push toys intentionally along the floor or surface while sitting or sometimes while attempting to walk. According to Health Canada developmental guidelines, toy pushing shows motor planning, bilateral hand coordination, and understanding of cause-and-effect (my pushing makes it move). Babies may push cars, balls, blocks, or push-toys across surfaces, watching the results of their actions. Some babies use push toys for supported walking practice. This skill integrates vision, motor control, spatial awareness, and cognitive understanding.
+
+What to look for:
+- Hands positioned on toy with pushing motion away from body
+- Toy moving across surface as result of intentional pushing
+- Visual attention to toy's movement while pushing
+- Repeated pushing actions showing intentional behavior
+- May push toys while sitting or while attempting supported walking
+- Bilateral hand use or alternating hands to push
+- Increasing control over direction and force of push
+- Expression of satisfaction or interest in the toy's movement
+
+Why it matters:
+- Demonstrates cause-and-effect understanding (my action causes movement)
+- Shows advancing motor planning and coordination skills
+- Supports mobility development when using push-toys for walking practice
+- Encourages spatial awareness and directional concepts
+- Provides proprioceptive feedback and motor learning
+- Foundation for more complex object manipulation skills
+- Supports cognitive development through active exploration and experimentation
+
 ### DEVELOPMENTAL - Communication
 
 #### 12M: Waves "bye-bye"
@@ -3768,6 +4491,32 @@ Why it matters:
 - Foundation for following directions
 - Indicates language comprehension developing
 - Understanding precedes consistent compliance (which develops later)
+
+#### Communicate needs without crying
+
+About
+
+By 12 months, infants develop alternative communication methods beyond crying to express their needs and desires. According to Health Canada developmental guidelines, babies at this age use gestures (pointing, reaching, pulling caregiver toward objects), vocalizations (specific sounds for different needs), eye gaze, and beginning words to communicate. While crying remains part of their communication repertoire, especially for intense needs or frustrations, the emergence of additional communication tools shows advancing language, cognitive, and social development. This represents an important shift toward more sophisticated, intentional communication.
+
+What to look for:
+- Pointing at desired objects or people
+- Reaching toward wanted items with intention and persistence
+- Leading caregiver by hand toward desired location or object
+- Specific vocalizations for different needs (different sounds for food, up, more)
+- Eye gaze alternating between desired object and caregiver
+- Using emerging words or word approximations (simple words like "ba" for ball)
+- Combination of gestures and vocalizations to strengthen message
+- Reduced reliance on crying as primary communication method
+
+Why it matters:
+- Shows advancing communication and language skills
+- Reduces frustration for both baby and caregiver through clearer communication
+- Demonstrates intentionality and understanding that communication affects others' behavior
+- Foundation for language development and social communication
+- Enables more complex social interactions and learning opportunities
+- Shows cognitive advancement in symbolic thinking (gesture or sound represents object/action)
+- Supports emotional regulation as baby gains more control over environment through communication
+- Delayed development of alternative communication may indicate need for evaluation
 
 ### DEVELOPMENTAL - Social & Emotional
 
@@ -3843,6 +4592,58 @@ Why it matters:
 - Indicates typical cognitive and motor development
 - Supports sense of competence and autonomy
 
+#### Copy during play
+
+About
+
+Around 12 months, infants begin demonstrating imitation skills by copying actions they observe during play. According to Health Canada developmental guidelines, this social learning through imitation represents significant cognitive and social development. Babies may copy simple actions like banging blocks, clapping hands, waving bye-bye, or stirring with a spoon after observing caregiver or peer demonstrations. Imitation is a fundamental learning mechanism that supports skill acquisition, social bonding, and cultural learning. Deferred imitation—copying actions seen previously rather than immediately—also begins emerging around this age.
+
+What to look for:
+- Repeating actions just demonstrated by caregiver or peer
+- May copy immediately or after brief delay
+- Actions include motor patterns (clapping, waving), object use (stirring, stacking), or sounds
+- Visual attention focused on person performing action before attempting to copy
+- Increasing accuracy in copying actions over time
+- Expression of satisfaction or joy when successfully imitating
+- Spontaneous imitation during play and daily routines
+- May look to caregiver as if checking their response to the imitation
+
+Why it matters:
+- Fundamental mechanism for learning skills and behaviors
+- Demonstrates ability to observe, remember, and reproduce actions
+- Supports social learning and cultural transmission
+- Indicates advancing cognitive skills including memory and motor planning
+- Foundation for pretend play, which heavily relies on imitation
+- Strengthens social bonds through shared activities
+- Important for language development as babies begin imitating sounds and words
+- Enables learning through observation without trial-and-error
+
+#### Test limits
+
+About
+
+Around 12 months, toddlers begin actively testing limits and boundaries, repeating behaviors that caregivers have indicated are not allowed or watching caregiver reactions to boundary-pushing behaviors. According to Health Canada developmental guidelines, limit testing is a normal and healthy part of development showing autonomy, curiosity about social rules, and cognitive experimentation. The baby might repeatedly drop food from highchair, touch forbidden objects while looking at caregiver, or persist in activities after being told "no." While challenging for parents, this represents important learning about cause-and-effect, social expectations, and personal agency.
+
+What to look for:
+- Repeating actions that have elicited "no" or redirection from caregivers
+- Looking at caregiver while engaging in or before engaging in forbidden behavior
+- Persistence after being redirected—returning to the same activity
+- Expression that suggests curiosity about or testing of caregiver's response
+- May smile, pause, or show anticipation before testing limits
+- Inconsistent compliance with limits—sometimes responding, sometimes testing
+- Exploration of different situations to understand where and when rules apply
+- No malicious intent—testing is driven by curiosity and learning, not defiance
+
+Why it matters:
+- Normal, healthy expression of developing autonomy and independence
+- Shows cognitive understanding that caregiver has expectations and rules
+- Demonstrates memory and cause-and-effect thinking
+- Important for learning about social boundaries and safety limits
+- Requires patient, consistent caregiver responses to support learning
+- Excessive punishment can undermine healthy autonomy development
+- Foundation for later understanding of rules, consequences, and self-regulation
+- Provides opportunities to teach rather than simply restrict
+
 ### DEVELOPMENTAL - Cognitive
 
 #### 12M: Puts something in container
@@ -3892,6 +4693,110 @@ Why it matters:
 - Explains some separation anxiety: baby knows parent exists when out of sight
 - Important Piagetian sensorimotor stage 5 development
 - Progresses to more complex hiding games and search tasks
+
+#### Explore objects multiple ways
+
+About
+
+Around 12 months, infants demonstrate cognitive flexibility and curiosity by exploring single objects through multiple different actions. According to Health Canada developmental guidelines, a baby at this age will examine a toy by looking at it, shaking it, banging it, turning it over, mouthing it, and trying various manipulations to discover its properties and functions. This multi-modal exploration shows advancing problem-solving skills, persistence, and scientific thinking. Rather than quickly discarding objects after brief examination, 12-month-olds engage in sustained, varied exploration that builds understanding of object properties and relationships.
+
+What to look for:
+- Using multiple actions on single object in sequence (shake, bang, mouth, turn, etc.)
+- Sustained attention with one toy (30 seconds to several minutes)
+- Systematic exploration pattern rather than random manipulation
+- Adjusting actions based on object properties (different exploration of soft vs. hard objects)
+- Using both hands in various positions to manipulate object
+- Visual examination from multiple angles
+- Testing different spatial relationships (inside, under, on top)
+- Expression of concentration and interest during exploration
+
+Why it matters:
+- Demonstrates cognitive flexibility and problem-solving skills
+- Shows understanding that objects have multiple properties to discover
+- Foundation for learning about physical properties: weight, texture, size, function
+- Supports development of scientific thinking and hypothesis testing
+- Indicates healthy curiosity and drive to learn
+- Enables deeper understanding of objects and how they work
+- Longer attention span shows advancing executive function skills
+- Important foundation for complex play and learning
+
+#### Know object names
+
+About
+
+By 12 months, infants demonstrate receptive language understanding by responding appropriately when common objects are named. According to Health Canada developmental guidelines, babies at this age know the names of familiar objects like bottle, ball, cup, or favorite toys, showing this knowledge by looking at, reaching for, or giving the object when it's named. This receptive language (understanding words) typically develops ahead of expressive language (saying words). A 12-month-old's receptive vocabulary is usually 50-100 words, though they may speak only 1-5 words. This comprehension is foundational for all language development.
+
+What to look for:
+- Looking at named object when asked "Where's the ball?"
+- Reaching for or retrieving object when named
+- Appropriate response to labels for familiar items (bottle, shoe, dog)
+- Recognizing names of family members and pets
+- Following simple one-step commands involving familiar objects ("Get the ball")
+- Correct identification of at least 3-5 common objects
+- Response may include pointing, looking, or retrieving
+- Understanding continues even when object is not in immediate view
+
+Why it matters:
+- Critical milestone in language comprehension development
+- Receptive language foundation for all later expressive language
+- Shows developing symbolic thinking—words represent objects
+- Enables following of increasingly complex instructions
+- Supports social interaction and learning through verbal communication
+- Significant discrepancy between receptive and expressive language is normal
+- Delayed receptive language warrants hearing test and developmental evaluation
+- Foundation for vocabulary expansion and sentence comprehension
+
+#### Respond to music
+
+About
+
+By 12 months, infants show clear behavioral responses to music, demonstrating auditory processing, memory, and motor coordination. According to Health Canada developmental guidelines, babies at this age may bounce, sway, clap, or move rhythmically when hearing music. They show preferences for certain songs, may appear to recognize familiar tunes, and demonstrate pleasure or excitement during musical activities. These responses indicate that baby is processing rhythm, melody, and patterns in music, and integrating auditory input with motor output. Musical engagement supports multiple areas of development including language, motor skills, and social bonding.
+
+What to look for:
+- Movement in response to music (bouncing, swaying, rocking)
+- Rhythmic patterns that match or approximate the music's tempo
+- Clapping or attempting to clap along with songs
+- Facial expressions of joy or excitement during music
+- Recognition of familiar songs shown through anticipatory movements or vocalizations
+- Stopping or changing behavior when music begins or ends
+- Different responses to different types of music (fast vs. slow, familiar vs. novel)
+- May vocalize or attempt to "sing" along
+
+Why it matters:
+- Indicates auditory processing and pattern recognition development
+- Music supports language development through rhythm and sound pattern exposure
+- Encourages motor coordination and body awareness
+- Provides opportunities for social bonding through shared musical experiences
+- Supports emotional regulation and expression
+- Enhances memory through repeated exposure to songs and melodies
+- Foundation for later musical abilities and appreciation
+- Musical activities support learning in multiple developmental domains simultaneously
+
+#### Explore cause and effect
+
+About
+
+Around 12 months, infants demonstrate deliberate experimentation with cause-and-effect relationships, repeatedly performing actions to observe predictable results. According to Health Canada developmental guidelines, babies at this age actively test their hypotheses about how the world works: dropping objects to watch them fall, pushing buttons to activate sounds, pulling strings to make toys move, or banging objects to create noise. This scientific exploration represents crucial cognitive development as baby learns that their actions have predictable, controllable effects on their environment. This understanding is foundational for problem-solving and learning.
+
+What to look for:
+- Repeated actions to produce consistent outcomes (dropping, pushing, banging)
+- Visual attention focused on the result of actions
+- Immediate repetition after observing effect—clear experimentation pattern
+- Trying same action with different objects to test consistency
+- Expression of satisfaction or excitement when desired effect occurs
+- Persistence if expected effect doesn't occur—problem-solving attempts
+- Showing or looking to caregiver as if sharing the interesting discovery
+- Systematic exploration of toy features to discover functions
+
+Why it matters:
+- Foundation for understanding physical world and how it operates
+- Develops problem-solving skills and scientific thinking
+- Shows agency and understanding that actions have consequences
+- Enables learning through experimentation and discovery
+- Supports developing sense of mastery and competence
+- Critical for later reasoning and logical thinking abilities
+- Understanding cause-and-effect is prerequisite for tool use and planning
+- Foundation for understanding social cause-and-effect (my behavior affects others)
 
 ### GROWTH - Physical
 
@@ -4404,6 +5309,58 @@ Why it matters:
 - Falls can cause serious injury
 - Supervision and safety measures absolutely critical
 
+#### Use push-along toys
+
+About
+
+Around 15 months, toddlers use push-along toys (like toy lawnmowers, shopping carts, or push wagons) as both play objects and walking support. According to NHS UK developmental guidelines, push-along toys serve dual purposes: they provide balance support for developing walkers while building confidence in mobility skills. The toddler grasps the toy's handle, pushes it forward while walking behind it, and uses it for stability while navigating spaces. This activity strengthens leg muscles, practices balance, develops spatial awareness, and builds walking confidence in a functional, enjoyable way. It represents the stage between cruising furniture and fully independent walking.
+
+What to look for:
+- Grasping push-toy handle with one or both hands
+- Walking behind toy while pushing it forward
+- Using toy for balance support rather than walking independently
+- Coordinating forward movement with toy-pushing action
+- Navigating turns and direction changes with toy
+- Variable speed—sometimes slow and controlled, other times rushed
+- Increasing distance covered before needing to stop or sit
+- Growing confidence and independence in mobility using toy as support
+
+Why it matters:
+- Builds confidence for independent walking while providing support
+- Develops balance, coordination, and leg strength
+- Enables practice with walking mechanics in controlled, safe manner
+- Supports spatial awareness and navigation skills
+- Provides motivating, engaging way to practice mobility
+- Transitions toddler from furniture cruising toward independent walking
+- Functional play activity that combines motor practice with exploration
+- Can accelerate walking skill development through frequent, fun practice
+
+#### Walk stairs one at a time
+
+About
+
+Around 18 months, toddlers begin walking up stairs in an upright position rather than crawling, typically going one step at a time while holding a rail or caregiver's hand. According to Health Canada developmental guidelines, early stair walking involves placing both feet on each step (marking time pattern) before advancing to the next step, rather than using alternating feet. This shows significant advancement in balance, leg strength, motor planning, and spatial awareness. Ascending stairs is usually mastered before descending, which requires more sophisticated balance and control. Adult supervision remains essential for safety.
+
+What to look for:
+- Walking up stairs in upright position rather than crawling
+- Holding railing, wall, or caregiver's hand for support and balance
+- Placing both feet on same step before advancing to next step (not yet alternating feet)
+- May lead with preferred leg, using same leg to step up first each time
+- Careful, deliberate movement showing concentration
+- Improving confidence and speed over time
+- Descent still very challenging—may sit and scoot down or crawl down backward
+- Requires supervision but shows increasing independence
+
+Why it matters:
+- Significant gross motor milestone showing advancing balance and coordination
+- Important functional skill for navigating home and community environments
+- Demonstrates sufficient leg strength for upward propulsion
+- Shows spatial awareness and depth perception development
+- Indicates motor planning ability for complex sequential movements
+- Safety milestone—requires continued supervision but shows progress toward independence
+- Stair navigation integrates multiple skills: balance, strength, planning, visual-spatial awareness
+- Progression continues: both feet per step → alternating feet → independent stair use
+
 #### 16M: Builds 3-cube towers
 
 About
@@ -4619,6 +5576,32 @@ Why it matters:
 - Allows better story following
 - Foundation for paper book page-turning later
 - Encourages reading and book interaction
+
+#### Pour from containers
+
+About
+
+Around 18 months, toddlers develop the fine motor coordination and motor planning to pour from one container to another or from container to open surface. According to Health Canada developmental guidelines, this skill integrates multiple abilities: grasping containers, tilting at appropriate angle, coordinating two hands (one holding container, one stabilizing or holding receiving container), visual-motor guidance, and understanding of liquid/object properties. Initial attempts are imprecise with frequent spills, but gradual refinement occurs with practice. Pouring is both a functional self-help skill and important cognitive learning opportunity about volume, gravity, and spatial relationships.
+
+What to look for:
+- Grasping container with one or both hands
+- Tilting container toward target location with some control
+- Approximate coordination between pouring container and receiving container
+- Visual attention to both containers and to material being poured
+- Attempting to stop pour before overflow (though often unsuccessful initially)
+- Works best with large containers, thick liquids, or large solid objects initially
+- Gradual improvement in accuracy and control over weeks and months
+- May practice pouring repeatedly during play or meal times
+
+Why it matters:
+- Important self-help skill for increasing independence in eating and drinking
+- Develops bilateral hand coordination—different roles for each hand
+- Teaches cause-and-effect and understanding of object/liquid properties
+- Supports cognitive concepts: volume, gravity, spatial relationships, container properties
+- Requires motor planning and visual-motor integration
+- Foundation for later skills requiring precise hand coordination
+- Provides opportunities for learning through natural consequences (spills teach adjustment)
+- Indicates advancing fine motor control and wrist/finger strength
 
 ### DEVELOPMENTAL - Communication
 
@@ -5667,6 +6650,218 @@ Why it matters:
 - Enables participation in daily activities and self-help
 - Indicates typical cognitive and language development
 
+#### Recognize own name
+
+About
+
+By 15 months, toddlers consistently recognize and respond to their own name being called. According to Australian Department of Health guidelines, name recognition represents important self-awareness and language comprehension development. The toddler will turn toward the speaker, make eye contact, approach, or respond verbally when their name is called, showing they identify that specific label with themselves. This self-referential understanding is foundational for developing self-concept and personal identity. Response to name in various contexts and with different speakers demonstrates robust recognition, not just situational response.
+
+What to look for:
+- Turning head or body toward speaker when name is called
+- Making eye contact in response to name
+- Responding to name across different contexts (home, outdoors, with different people)
+- Stopping activity briefly when name is called, showing attention
+- Eventually responding verbally or with gesture
+- Faster response to own name compared to other names
+- Responding to name even when engaged in interesting activity
+- Recognition across different pronunciations and voices
+
+Why it matters:
+- Indicates developing self-awareness and personal identity
+- Shows receptive language and auditory processing functioning normally
+- Essential for social interactions and following instructions
+- Enables caregivers to gain child's attention for safety and communication
+- Foundation for learning other personal information (age, address later)
+- Demonstrates child differentiates self from others
+- Non-response to name at this age warrants hearing and developmental screening
+- Important milestone for autism screening—lack of response may be early sign
+
+### DEVELOPMENTAL - Social & Emotional
+
+#### Offer toys to their reflection in the mirror
+
+About
+
+Around 18 months, toddlers may offer or show toys to their own reflection in the mirror, demonstrating an interesting stage in self-awareness development. According to NHS UK developmental guidelines, this behavior shows the toddler recognizes some relationship between themselves and the mirror image, though full self-recognition may still be developing. The child treats their reflection as an interesting social partner, engaging in social behaviors like offering, showing, or playing alongside the mirror image. This represents important self-other differentiation development and social behavior expression.
+
+What to look for:
+- Extending toy toward mirror as if offering it to the reflection
+- Looking between the toy and the mirror image
+- Social behaviors directed toward reflection (smiling, offering, showing)
+- May attempt to give toy to reflection or place it against mirror
+- Expression of interest or confusion about the mirror interaction
+- Repeated attempts at engaging with reflection socially
+- May eventually progress to clear self-recognition (touching own nose when seeing mark in mirror)
+- Different behaviors toward mirrors compared to other children—showing emerging differentiation
+
+Why it matters:
+- Indicates developing self-awareness and self-other differentiation
+- Shows social behaviors emerging—offering and sharing gestures
+- Represents important stage in understanding relationship between self and visual representation
+- Demonstrates emerging theory of mind—treating reflection as potential social partner
+- Supports cognitive development about images, reflections, and representations
+- Part of normal progression toward full self-recognition (typically 18-24 months)
+- Shows prosocial behaviors like offering and sharing emerging
+- Provides insight into child's social-emotional and cognitive development
+
+#### Begin experiencing separation anxiety
+
+About
+
+Around 14 months, many toddlers experience separation anxiety, showing distress when separated from primary caregivers. According to Australian Department of Health guidelines, this developmental phase represents advancing cognitive abilities—specifically object permanence and memory—combined with strong attachment bonds. The toddler now understands that caregiver continues to exist when out of sight and remembers their absence, leading to protest, crying, or clinging when separation occurs. While challenging for families, separation anxiety is a healthy sign of secure attachment and cognitive development. Intensity typically peaks between 10-18 months, then gradually diminishes.
+
+What to look for:
+- Crying, clinging, or protesting when caregiver prepares to leave
+- Following caregiver from room to room
+- Distress upon caregiver's departure even for brief absences
+- Reduced play or exploration when separated
+- Wariness or anxiety around unfamiliar people or places
+- Excitement and relief upon caregiver's return
+- Behaviors may intensify during times of stress, illness, or routine changes
+- Shows preference for specific attachment figures (usually primary caregivers)
+
+Why it matters:
+- Indicates healthy attachment bond between child and caregiver
+- Demonstrates cognitive milestone—object permanence and memory
+- Shows child has developed preference and trust in specific caregivers
+- Normal developmental phase, not indicative of poor adjustment
+- Provides opportunities for building coping skills and resilience
+- Predictable departures, consistent routines, and calm goodbyes help
+- Excessive or persistent separation anxiety may warrant professional guidance
+- Gradually diminishes as child gains confidence in caregiver's reliable return
+
+#### Remove clothing
+
+About
+
+Around 14 months, toddlers begin demonstrating emerging self-care skills by removing simple clothing items. According to Health Canada developmental guidelines, clothing removal typically starts with loose items like socks, hats, or shoes, and shows developing fine motor skills, body awareness, and desire for independence. The toddler may pull off socks, push off shoes, or remove hats, sometimes in response to discomfort but often simply to practice this newfound skill. While clothing removal at inconvenient times can be challenging for caregivers, it represents important self-help skill development and autonomy expression.
+
+What to look for:
+- Successfully removing loose items: socks, hats, shoes, mittens
+- May remove clothing spontaneously throughout day
+- Using both hands to pull off items
+- Understanding of how clothing comes off (pulling, pushing)
+- Sometimes removing clothing in response to discomfort (wet, hot)
+- Expression of satisfaction or pride after successful removal
+- Gradually progressing to more difficult items (pants with elastic, loose shirts)
+- Removal much easier than putting clothing on—dressing skills lag behind undressing
+
+Why it matters:
+- Indicates developing self-help and independence skills
+- Shows advancing fine motor coordination and motor planning
+- Demonstrates body awareness and understanding of clothing
+- Important step toward independent dressing and self-care
+- Expression of emerging autonomy and desire for control
+- Provides opportunities for learning and practice with problem-solving
+- Foundation for more complex dressing skills that emerge over next 1-2 years
+- Shows cognitive understanding of how objects (clothing) relate to body
+
+#### Help with tasks
+
+About
+
+Around 18 months, toddlers show increasing interest and ability to help with household tasks and routines. According to Health Canada developmental guidelines, this helping behavior shows social awareness, desire to participate, imitation skills, and emerging functional skills. Toddlers may help with tasks like putting items in trash, wiping surfaces with cloth, putting toys in containers, helping set table, or assisting with laundry. While "help" may initially slow tasks down, this participation is crucial for skill development, building sense of competence, and fostering positive attitudes toward contributing to family activities.
+
+What to look for:
+- Showing interest in caregiver tasks and attempting to participate
+- Successfully completing very simple tasks: throwing trash away, putting objects in designated places
+- Following simple one-step instructions related to tasks
+- Imitating adult actions with household items (wiping, stirring, sweeping)
+- Expression of pride or satisfaction when helping
+- Persistence with task even if execution is imperfect
+- Learning through repeated participation in daily routines
+- Developing sense of belonging and contribution to family
+
+Why it matters:
+- Builds functional life skills and independence over time
+- Develops sense of competence, contribution, and family belonging
+- Teaches following instructions and completing sequences of actions
+- Supports motor skills, coordination, and motor planning
+- Encourages positive attitudes toward responsibility and helping
+- Provides language-rich interactions during task participation
+- Foundation for more complex self-care and household skills
+- Supports self-esteem through successful contributions
+
+### DEVELOPMENTAL - Cognitive
+
+#### Recognize themselves in mirrors
+
+About
+
+Between 15-18 months, most toddlers develop explicit self-recognition, demonstrated through the classic "mirror self-recognition test" where children touch their own face (rather than the mirror) when seeing a mark on their nose in a mirror reflection. According to Australian Department of Health guidelines, this milestone represents a significant cognitive achievement showing self-awareness and understanding of visual representation. The child understands the mirror image is a representation of themselves, not another child. This self-recognition is considered evidence of self-concept development and is a uniquely human cognitive milestone shared with only a few other species.
+
+What to look for:
+- Touching own face rather than mirror when seeing mark on self in reflection
+- Using mirror functionally to examine own appearance or adjust clothing/accessories
+- Different behaviors toward mirrors compared to younger ages (less social interaction with reflection)
+- May show self-conscious behaviors in front of mirror (posing, checking appearance)
+- Looking at mirror while touching own body part
+- Expression showing recognition that reflection is self
+- Interest in examining own appearance from different angles
+- Using mirror to look at back of own head or body
+
+Why it matters:
+- Major cognitive milestone indicating self-awareness and self-concept
+- Demonstrates understanding of symbolic representation (image represents self)
+- Foundation for more complex self-awareness including personality traits, emotions, preferences
+- Correlates with emerging use of self-referential language ("me," "mine," own name)
+- Shows sophisticated cognitive processing and perceptual integration
+- Relates to development of empathy, self-consciousness, and social behaviors
+- One of few cognitive abilities showing clear emergence point in development
+- Provides insight into consciousness and sense of self
+
+#### Use objects as tools
+
+About
+
+Around 18 months, toddlers demonstrate sophisticated cognitive and motor skills by using objects as tools to achieve goals. According to Health Canada developmental guidelines, tool use shows problem-solving, means-end understanding, and functional object knowledge. Examples include using stick to reach distant object, pushing stool to climb for desired item, using spoon to retrieve object, or using one toy to activate another. This represents major cognitive advancement showing the child understands objects have functions and can be used purposefully to extend their capabilities and solve problems.
+
+What to look for:
+- Using one object to obtain or affect another object
+- Selecting appropriate tool for specific problem (stick for reaching, stool for height)
+- Demonstrating planning before acting—gathering tool before attempting goal
+- Persistence with tool use even if initial attempts unsuccessful
+- Problem-solving when tool doesn't work—trying different objects or approaches
+- Understanding functional relationships between tools and goals
+- Imitating tool use observed in adult activities
+- Increasing sophistication and variety of tool use over time
+
+Why it matters:
+- Demonstrates advancing problem-solving and reasoning abilities
+- Shows means-end thinking—understanding intermediate steps lead to goals
+- Indicates cognitive flexibility and creative thinking
+- Foundation for all future tool use from utensils to technology
+- Shows understanding of object functions and properties
+- Enables more sophisticated play and exploration
+- Correlates with language development and symbolic thinking
+- Important milestone in cognitive development unique to humans and few other species
+
+#### Fit related objects together
+
+About
+
+Around 18 months, toddlers demonstrate spatial reasoning and understanding of object relationships by successfully fitting related objects together. According to Health Canada developmental guidelines, this includes skills like stacking rings on post, fitting shapes into shape sorter, nesting cups, completing simple puzzles, or inserting keys into locks. This milestone shows visual-spatial processing, problem-solving, fine motor coordination, and understanding that objects have specific relationships and fits. The toddler tries different orientations, makes adjustments, and experiences satisfaction when objects fit together correctly.
+
+What to look for:
+- Stacking rings or cups with some accuracy
+- Placing shapes into shape-sorting toys (may need help with rotation)
+- Nesting containers inside each other
+- Completing 2-3 piece inset puzzles
+- Attempting to fit keys in locks or similar fitting activities
+- Trial-and-error approach, rotating objects to achieve fit
+- Increasing accuracy and speed with familiar toys over time
+- Visual examination before attempting to fit pieces together
+
+Why it matters:
+- Demonstrates spatial reasoning and visual-perceptual skills
+- Shows problem-solving through trial-and-error and adjustment
+- Develops fine motor precision and hand-eye coordination
+- Teaches about relationships, size concepts, and shape properties
+- Foundation for more complex construction and puzzle skills
+- Provides problem-solving practice with immediate feedback
+- Supports cognitive development through active manipulation and discovery
+- Important prerequisite for later academic skills including math and geometry
+
 ---
 
 ## 18-24 MONTHS
@@ -5985,6 +7180,191 @@ Why it matters:
 - Indicates hand-eye coordination advancing
 - Foundation for more complex utensil skills
 
+#### Run
+
+About
+
+Around 18 months, toddlers transition from walking to running, showing increasing speed, confidence, and coordination in their mobility. According to Australian Department of Health guidelines, early running appears stiff and hurried, with brief periods where both feet leave the ground simultaneously—the defining characteristic of running versus walking. Initial running is often unsteady with frequent falls, rigid arm positioning, and difficulty stopping or turning. Over subsequent months, running becomes smoother, more controlled, and more frequent as balance, leg strength, and motor control mature. Running enables exploration, play, and physical activity at new levels.
+
+What to look for:
+- Brief flight phase where both feet are off ground simultaneously
+- Faster forward movement compared to walking speed
+- Initially stiff, flat-footed running style
+- Arms held in rigid "high guard" position for balance
+- Difficulty stopping, slowing, or changing direction smoothly
+- Frequent stumbling or falling, especially when turning or on uneven surfaces
+- Improved control and fluidity over weeks and months
+- Expression of joy and excitement while running
+- Gradually increasing distance and duration of running
+
+Why it matters:
+- Major gross motor milestone showing advancing coordination and balance
+- Enables active play, exploration, and physical development
+- Demonstrates sufficient leg strength and cardiovascular endurance
+- Supports social play opportunities with peers
+- Provides important sensory and vestibular input
+- Foundation for more complex motor skills like jumping, hopping, kicking
+- Requires appropriate supervision as mobility and risk increase simultaneously
+- Part of normal physical activity essential for healthy development
+
+#### Descend stairs with assistance
+
+About
+
+Around 18 months, toddlers begin learning to descend stairs with caregiver assistance, which is significantly more challenging than ascending. According to Australian Department of Health guidelines, early stair descent typically involves sliding down on bottom, crawling down backward, or walking down while holding firmly to rail and adult hand. Going down forward-facing while walking requires sophisticated balance, leg control, and spatial awareness. Most toddlers use marking time pattern (both feet on each step) and need substantial support. Descent skills lag behind ascent by several months due to greater balance and control requirements.
+
+What to look for:
+- Attempting stair descent with caregiver supervision and support
+- May prefer sliding down on bottom or crawling backward initially
+- If walking down: holding rail or caregiver hand firmly, placing both feet on each step
+- Careful, tentative movement showing uncertainty about balance
+- Leading with same leg each step (preferred leg)
+- May sit down if feels unsafe or loses confidence
+- Requires adult support and reassurance
+- Gradual improvement in confidence and control over months
+- Forward-facing walking descent significant achievement, typically 18-24 months
+
+Why it matters:
+- Important functional skill for independent navigation of environment
+- Demonstrates advancing balance, spatial awareness, and motor control
+- Shows problem-solving as child develops strategies for safe descent
+- Critical safety skill—requires ongoing supervision at this age
+- More challenging than ascent due to greater balance demands and visual-spatial complexity
+- Successful stair navigation supports independence and environmental access
+- Part of comprehensive gross motor development
+- Foundation for later independent stair use without support
+
+#### Pull toys while walking
+
+About
+
+Between 20-24 months, toddlers can coordinate walking while pulling toys behind them, demonstrating advancing motor planning and coordination. According to Health Canada developmental guidelines, this skill requires walking forward while managing a toy on string or handle pulled behind, which involves bilateral coordination (different actions for each hand), backward spatial awareness (knowing where toy is without seeing it), and maintaining balance while managing the toy. This seemingly simple activity actually represents sophisticated integration of multiple developmental skills including motor control, spatial processing, and sustained attention.
+
+What to look for:
+- Walking forward while pulling toy on string behind
+- Maintaining grasp on string/handle while walking
+- Occasional looking back to check toy location
+- Adjusting speed or path if toy gets stuck
+- Balance maintained despite asymmetric arm position
+- Walking for extended periods while pulling toy (across room, down hallway)
+- Pride or enjoyment in pulling toy successfully
+- Problem-solving when toy encounters obstacles
+
+Why it matters:
+- Demonstrates bilateral coordination with asymmetric hand use
+- Shows spatial awareness extending beyond visual field (knowing toy position behind)
+- Indicates motor planning advancement—coordinating multiple actions simultaneously
+- Supports attention development—maintaining task while navigating environment
+- Provides proprioceptive feedback and sensory integration practice
+- Foundation for more complex motor sequences requiring multi-tasking
+- Builds confidence in mobility and coordination abilities
+- Functional play skill supporting imaginative and exploratory play
+
+#### Carry multiple toys
+
+About
+
+Around 20-24 months, toddlers demonstrate increased carrying capacity and motor planning by transporting multiple objects simultaneously while walking. According to Health Canada developmental guidelines, carrying multiple toys requires problem-solving (how to hold several items), bilateral coordination (using both arms/hands), balance adjustment (compensating for load), and sustained motor planning. The toddler must gather items, determine carrying strategy, maintain grasp while walking, and navigate environment—all while managing multiple objects. This represents significant advancement in executive function and motor skills.
+
+What to look for:
+- Gathering 2-3 toys before attempting to move
+- Using both arms to cradle or hold multiple items
+- Creative problem-solving about how to carry many objects (in arms, pockets, shirt)
+- Adjusting balance and gait to accommodate load
+- Persistence when items drop—stopping to retrieve and continue
+- Transporting items across distances (room to room)
+- Pride in successfully carrying many items
+- Eventually progressing to carrying larger or heavier item collections
+
+Why it matters:
+- Demonstrates advancing motor planning and problem-solving
+- Shows bilateral coordination and balance adjustments
+- Indicates sustained attention and goal-directed behavior
+- Supports functional independence in cleaning up, helping, moving objects
+- Builds spatial awareness and proprioceptive understanding of body in space
+- Shows cognitive planning—anticipating need and gathering items beforehand
+- Foundation for more complex functional tasks requiring coordination and planning
+- Reflects growing confidence in motor abilities and desire to accomplish goals
+
+#### Climb and descend chairs
+
+About
+
+Between 20-24 months, toddlers develop the ability to climb onto and down from standard-height chairs independently. According to Health Canada developmental guidelines, chair climbing requires leg strength to propel body upward, arm strength to pull/push, core strength for balance, spatial planning, and motor sequencing. The toddler must approach chair appropriately, position body, climb up (often belly-first across seat), rotate to sitting position, and eventually learn to descend safely. While this skill promotes independence, it also introduces safety concerns requiring supervision.
+
+What to look for:
+- Independent approach and climbing onto chair without adult lifting
+- Varied strategies: stepping up, pulling with arms and pushing with legs, belly-first then rotating
+- Successful positioning into seated position on chair
+- Attempting to descend independently (forward, backward, or sliding)
+- Trial-and-error problem-solving with different chair heights and types
+- Improving speed and efficiency with practice
+- May use furniture or wall for additional support initially
+- Gradual refinement toward smoother, safer technique
+
+Why it matters:
+- Promotes functional independence in daily activities (meals, activities at table)
+- Demonstrates multiple gross motor skills integrating: climbing, balance, rotation, descent
+- Shows spatial planning and motor sequencing abilities
+- Builds strength, coordination, and body awareness
+- Important for participation in family and classroom activities
+- Safety concern—requires supervision and teaching safe techniques
+- Success builds confidence and sense of competence
+- Foundation for more complex climbing and navigation skills
+
+#### Build 4+ block tower
+
+About
+
+By 24 months, toddlers demonstrate refined fine motor coordination and spatial skills by building vertical towers of four or more blocks. According to Health Canada developmental guidelines, block stacking at this height requires precise hand-eye coordination, refined release timing, spatial perception of alignment, balance understanding, and sustained attention. The toddler must carefully place each block centered over the previous one, release at precise moment, and make micro-adjustments. Tower building also shows cognitive understanding of stability and basic physics. Typical progression: 2 blocks at 15 months, 4 blocks at 24 months, 8+ blocks by 30 months.
+
+What to look for:
+- Successfully stacking 4-6 blocks in vertical tower
+- Careful placement showing attention to centering and alignment
+- Controlled release of block at precise moment
+- Visual attention to top of tower during placement
+- Adjustments to improve stability if tower wobbles
+- Concentration and persistence through completion
+- May knock down own tower and rebuild (experimenting with cause-effect)
+- Pride or satisfaction with tall tower accomplishment
+- Gradual increase in height and stability over time
+
+Why it matters:
+- Indicates fine motor skill refinement and hand-eye coordination
+- Demonstrates spatial perception and understanding of balance/stability
+- Shows sustained attention and goal-directed behavior
+- Requires motor planning and precise execution
+- Foundation for more complex construction and building skills
+- Provides problem-solving practice through trial and error
+- Supports cognitive development about physics concepts
+- Important milestone for assessing fine motor and cognitive development
+
+#### Complete shape-matching puzzle
+
+About
+
+By 24 months, toddlers can complete simple shape-matching puzzles where geometric shapes fit into corresponding holes. According to Health Canada developmental guidelines, shape puzzles (circle, square, triangle) require visual discrimination, spatial reasoning, problem-solving through trial and error, fine motor manipulation, and rotation skills. The toddler must recognize shape properties, select correct piece, orient it properly, and fit it into space. This represents integration of perceptual, cognitive, and motor skills. Progression continues toward more complex interlocking puzzles over subsequent months.
+
+What to look for:
+- Matching basic geometric shapes (circle, square, triangle) to correct spaces
+- Visual examination of shapes before attempting placement
+- Rotating shapes to find correct orientation
+- Successful insertion after 1-3 attempts
+- Learning from errors—trying different orientation or different shape
+- Completing 3-5 piece inset puzzle independently
+- Improving speed and accuracy with familiar puzzles
+- Eventually matching by shape recognition rather than only trial-and-error
+
+Why it matters:
+- Demonstrates visual-perceptual skills and shape recognition
+- Shows spatial reasoning and problem-solving abilities
+- Requires fine motor precision and manipulation skills
+- Foundation for more complex puzzle-solving and reasoning tasks
+- Supports shape and geometry concept development
+- Indicates ability to learn through trial-and-error and adjust approach
+- Important for school readiness and academic skill development
+- Provides assessment tool for cognitive and perceptual development
+
 ### DEVELOPMENTAL - Communication
 
 #### 20M: Points to body parts
@@ -6274,6 +7654,84 @@ Why it matters:
 - Foundation for sentence complexity
 - Indicates language processing advancing
 - Important for expressing needs and observations
+
+#### Name well-known objects
+
+About
+
+By 24 months, toddlers can expressively label common, familiar objects in their environment. According to NHS UK developmental guidelines, object naming shows vocabulary development, word-object association, and expressive language skills. A 24-month-old can typically name 10-20 common objects including toys, clothing, food, household items, and body parts. This expressive vocabulary emerges from earlier receptive understanding (pointing to named objects) and represents ability to recall and produce verbal labels independently. Naming is foundational for all later language development including descriptions, sentences, and conversations.
+
+What to look for:
+- Spontaneously labeling objects during play or daily activities
+- Correctly naming at least 10-15 common objects when asked "What's this?"
+- Naming familiar items in books or pictures
+- Labels may be approximations or simplified versions of adult words
+- Vocabulary including toys, food, clothing, animals, household items
+- Using names functionally to request or comment on objects
+- Rapid vocabulary growth—learning several new words per week
+- Pronunciation may be unclear but words are recognizable and consistent
+
+Why it matters:
+- Critical milestone in expressive language development
+- Shows word learning and vocabulary acquisition progressing normally
+- Foundation for combining words into phrases and sentences
+- Enables more effective communication of needs and interests
+- Supports cognitive development through verbal labeling and categorization
+- Predictor of later language and literacy skills
+- Vocabulary size at age 2 correlates with later academic achievement
+- Delayed naming/vocabulary warrants speech-language evaluation
+
+#### Mimic animal sounds
+
+About
+
+Around 24 months, toddlers engage in language play by imitating animal sounds they've learned. According to Australian Department of Health guidelines, animal sound imitation represents important phonological play, sound production practice, and symbolic representation. The toddler learns that specific sounds represent specific animals ("moo" for cow, "woof" for dog), demonstrating symbolic thinking. Animal sounds are typically easier to produce than many conventional words and provide enjoyable practice with varied speech sounds. This playful language learning supports phonological awareness and expressive language development.
+
+What to look for:
+- Producing recognizable animal sounds for familiar animals (dog, cat, cow, duck)
+- Spontaneous animal sounds during play with toy animals or pictures
+- Responding to "What does [animal] say?" with appropriate sound
+- Using animal sounds in pretend play or storytelling
+- Learning sounds for 5-10 different animals
+- Enjoyment and enthusiasm during animal sound production
+- May use animal sounds to label animals before using conventional names
+- Incorporating sounds into songs, books, or interactive games
+
+Why it matters:
+- Provides enjoyable practice with varied speech sounds and phonological patterns
+- Demonstrates symbolic thinking—sounds represent animals
+- Supports phonological awareness important for later literacy
+- Encourages expressive language in playful, low-pressure context
+- Builds vocabulary and categorical thinking about animals
+- Strengthens caregiver-child interaction through shared play
+- Easier production than many conventional words, building confidence
+- Shows imitation skills and learning through observation
+
+#### Use social language (please/thank you)
+
+About
+
+Between 18-24 months, toddlers begin learning and using basic social language conventions like "please," "thank you," and "sorry." According to Health Canada developmental guidelines, social language use represents understanding of pragmatics—the social rules governing language use—and awareness that certain words are expected in certain situations. Initial use is prompted by reminders, but gradually becomes more spontaneous. While toddlers don't yet fully grasp concepts of politeness or gratitude, they learn these linguistic conventions through modeling and reinforcement, building foundation for social communication skills.
+
+What to look for:
+- Attempting to say "please," "thank you," or "sorry" with prompting
+- May use simplified versions ("peas," "tank you")
+- Gradually increasing spontaneous use without reminders
+- Using social language in appropriate contexts (after receiving item, after wrongdoing)
+- Responding to caregiver model and prompts
+- Incorporating social language into play scenarios
+- Variable consistency—sometimes remembering, sometimes needing reminders
+- Growing awareness of social expectations in communication
+
+Why it matters:
+- Introduces pragmatic language skills and social communication rules
+- Foundation for politeness, social skills, and positive interactions
+- Teaches that language has social purposes beyond requesting and labeling
+- Supports positive peer and adult relationships
+- Shows growing awareness of social expectations and conventions
+- Builds foundation for more complex social language later
+- Reflects modeling and values from family and culture
+- Important for school readiness and social success
 
 ### DEVELOPMENTAL - Social & Emotional
 
@@ -6951,6 +8409,33 @@ Why it matters:
 - Supports creativity and problem-solving
 - Important cognitive sophistication indicator
 
+#### Separation anxiety usually strongest at this age
+
+About
+
+Around 18 months, separation anxiety often reaches peak intensity for many toddlers. According to Australian Department of Health guidelines, this intensification occurs as cognitive and emotional development advance—the toddler has strong memory of caregiver, full object permanence, intense attachment bonds, but limited understanding of time and caregiver's certain return. The 18-month-old experiences intense distress during separations, even brief ones, showing crying, clinging, following, and sometimes difficulty sleeping or eating during caregiver absences. While challenging, this represents healthy attachment and cognitive development. Intensity typically begins diminishing after 18-24 months.
+
+What to look for:
+- Intense protest, crying, or clinging during caregiver departures
+- Difficulty being consoled by alternative caregivers
+- Following caregiver everywhere within the home
+- Heightened anxiety even for brief separations (different room)
+- Sleep disruptions or regression related to separation concerns
+- Checking for caregiver's presence frequently
+- Intense joy and relief upon reunion
+- Anxiety may increase during stressful periods, illness, or transitions
+- Behaviors gradually diminishing after 18-24 months for most children
+
+Why it matters:
+- Indicates secure attachment and healthy bond with primary caregivers
+- Demonstrates advancing cognitive abilities: memory, object permanence, time concepts
+- Normal developmental phase, not indicative of problematic attachment
+- Requires patient, predictable responses from caregivers
+- Consistent goodbye rituals and reliable returns help build trust
+- Gradual exposure to brief separations supports coping skill development
+- Excessive or persistent anxiety beyond age 3 may warrant professional guidance
+- Understanding this as temporary phase helps caregivers respond supportively
+
 ### GROWTH
 
 #### 20M: Boys 25 lb; Girls 23 lb 7 oz
@@ -7274,6 +8759,32 @@ Why it matters:
 ---
 
 ## 24-36 MONTHS
+
+### VISION - Development
+
+#### Sees small shapes clearly at 6 metres
+
+About
+
+By 36 months (3 years), children's visual acuity has matured significantly, and they should demonstrate the ability to see small shapes or letters clearly at 6 metres distance. According to the South Africa Department of Health Road to Health Booklet, formal vision screening at this age provides quantifiable assessment of distance visual acuity. Testing typically uses simple shapes or symbols (like tumbling E charts or LEA symbols) at standardized distances to ensure vision development is on track. Normal 3-year-old visual acuity is approximately 20/40, meaning they can see at 20 feet what a person with perfect vision sees at 40 feet. Clear distance vision at this age is essential for learning, safety, and environmental navigation.
+
+What to look for:
+- Ability to identify simple shapes or symbols shown at 6 metre (approximately 20 feet) distance
+- Matching or naming shapes presented during vision screening
+- Equal performance from both eyes when tested separately
+- No squinting, moving closer, or difficulty seeing distant objects
+- Clear, focused gaze on distant targets
+- No head tilting or unusual positioning to see
+- Consistent responses indicating reliable vision at distance
+
+Why it matters:
+- Distance visual acuity critical for learning and environmental awareness
+- Early detection of refractive errors (nearsightedness, farsightedness, astigmatism) enables correction
+- Uncorrected vision problems can impact learning, coordination, and confidence
+- Critical period for treating vision problems—early intervention yields best outcomes
+- Difficulty seeing at distance may manifest as clumsiness, reduced interest in environment, or avoidance of activities
+- Vision screening at age 3 recommended by pediatric vision guidelines
+- Glasses or intervention may be needed if acuity below age-expected norms
 
 ### DEVELOPMENTAL - Gross Motor Skills
 
@@ -7667,6 +9178,269 @@ Why it matters:
 - Supports pre-academic skills
 - Precursor to independent drawing and writing
 
+#### Make directional lines with writing tools
+
+About
+
+Around 36 months, children begin making deliberate directional marks with crayons, markers, or pencils, including vertical lines, horizontal lines, and eventually circular scribbles or attempts at circles. According to Health Canada developmental guidelines, directional line-making represents progression from random scribbling to intentional, controlled marks. The child demonstrates wrist and finger control to move writing tool in specific directions, shows motor planning to execute intended marks, and may imitate demonstrations of different line types. This is foundational pre-writing skill leading to letter and shape formation.
+
+What to look for:
+- Vertical lines (up-and-down strokes) made intentionally
+- Horizontal lines (side-to-side strokes)
+- Attempting to imitate specific line types when demonstrated
+- Circular scribbling or attempting circles
+- Controlled movement rather than random scribbling
+- Visual attention to marks being made
+- May name or describe marks ("This is a road")
+- Emerging ability to stay within boundaries or follow paths with marker
+
+Why it matters:
+- Critical pre-writing skill showing motor control development
+- Demonstrates increasing fine motor precision and coordination
+- Shows motor planning—executing intentional movements
+- Foundation for letter formation and writing skills
+- Indicates visual-motor integration developing appropriately
+- Necessary prerequisite for forming shapes, letters, numbers
+- Supports cognitive development as marks become meaningful representations
+- Delays in directional line-making may warrant occupational therapy evaluation
+
+#### Build 6+ block tower
+
+About
+
+By 36 months, children demonstrate advanced fine motor skills and spatial understanding by building vertical towers of 6-10 blocks. According to Health Canada developmental guidelines, this represents progression from 4-block tower at age 2. Taller towers require increasingly precise placement, better release control, finer balance adjustments, and sustained attention. The child must carefully center each block, make micro-adjustments for stability, and show patience through multi-step construction. Tower-building assesses fine motor coordination, visual-motor integration, spatial reasoning, and attention span simultaneously.
+
+What to look for:
+- Successfully stacking 6-10 blocks in stable vertical tower
+- Careful, deliberate placement of each block
+- Visual attention to centering and alignment
+- Controlled hand movements and precise release timing
+- Problem-solving when tower becomes unstable
+- Sustained focus throughout construction process
+- Pride in tall tower accomplishment
+- May knock down and rebuild, experimenting with height limits
+- Progression toward taller, more stable towers over time
+
+Why it matters:
+- Demonstrates advancing fine motor precision and hand-eye coordination
+- Shows sustained attention and goal-directed behavior
+- Indicates spatial reasoning and understanding of balance/stability
+- Provides problem-solving practice through trial-and-error
+- Foundation for more complex construction and building activities
+- Supports cognitive understanding of stability, height, gravity
+- Important developmental milestone used in pediatric assessments
+- Enables participation in more sophisticated construction play
+
+#### Hold pencil correctly
+
+About
+
+Around 36 months, many children begin transitioning toward more mature pencil grasp patterns. According to Health Canada developmental guidelines, by age 3, children often use static tripod or quadrupod grasp—holding writing tool with thumb and 1-2 fingers while resting on side of hand, though movement still comes mainly from whole arm rather than fingers. This represents progression from earlier palmer (fist) grasp or digital pronate grasp. True dynamic tripod grasp with finger movements typically emerges around 4-5 years. The key milestone at age 3 is beginning to hold pencil with fingers rather than full fist, showing refinement toward mature grasp.
+
+What to look for:
+- Holding pencil with thumb and fingers rather than full-fist grasp
+- Pencil resting on side of hand or between thumb and index finger
+- Typically using 3-4 fingers to stabilize pencil
+- Movement coming from arm and wrist rather than finger manipulation
+- Increasing endurance for drawing/coloring activities
+- Transition period—may alternate between grasp patterns
+- Refinement toward more mature grasp over subsequent months
+- Dominant hand preference becoming clearer
+
+Why it matters:
+- Foundation for handwriting and fine motor control
+- Shows fine motor development progressing appropriately
+- Enables more controlled, precise marks and drawings
+- Important pre-writing skill for school readiness
+- Persistent primitive grasps past age 4 may benefit from occupational therapy
+- Efficient grasp reduces hand fatigue and supports writing endurance
+- Correlates with improved drawing and pre-writing abilities
+- Assessment component in developmental evaluations
+
+#### Screw/unscrew items
+
+About
+
+Around 36 months, children develop the bilateral coordination and wrist rotation skills to screw and unscrew items like jar lids, nuts and bolts on toys, or twist-on toy components. According to Health Canada developmental guidelines, this skill requires coordinated use of both hands with different roles: one hand stabilizes object while the other performs rotation, demonstrating bilateral coordination and motor planning. The rotational wrist movement (supination and pronation) is sophisticated motor pattern emerging during preschool years. This functional skill is important for self-care and tool use.
+
+What to look for:
+- Successfully unscrewing large lids or caps (easier than screwing on)
+- One hand stabilizing container while other hand rotates lid
+- Appropriate rotational direction (though may require trial-and-error)
+- Wrist rotation visible—turning motion coming from wrist, not just whole arm
+- Attempting to screw lids back on (more challenging, emerging skill)
+- Playing with toys requiring twisting/rotation
+- Increasing success rate with practice
+- Functional use during play or daily activities
+
+Why it matters:
+- Demonstrates bilateral coordination with differentiated hand roles
+- Shows wrist rotation developing—important for many functional skills
+- Indicates motor planning and problem-solving abilities
+- Important functional skill for self-care (opening containers, doors)
+- Foundation for more complex tool use and manipulation
+- Supports independence in daily activities
+- Assesses fine motor coordination and motor planning
+- Difficulty with rotation may indicate need for occupational therapy support
+
+#### Manipulate latches
+
+About
+
+By 36 months, children demonstrate problem-solving and fine motor skills by manipulating various latches, locks, clasps, and fasteners. According to Health Canada developmental guidelines, latch manipulation requires understanding how mechanisms work, motor planning to execute opening/closing sequence, and fine motor precision. Children at this age can typically manage simple latches like cabinet doors, toy latches, simple buckles, and may begin attempting zippers. This represents integration of cognitive understanding (how latches work), visual-motor coordination, and fine motor execution.
+
+What to look for:
+- Opening and closing simple cabinet latches or gates
+- Manipulating latches on toys and containers
+- Attempting zippers, buckles, snaps (with varying success)
+- Problem-solving when latch doesn't immediately release
+- Visual examination of mechanism before attempting manipulation
+- Bilateral coordination—one hand stabilizing, other manipulating
+- Persistence when initial attempts unsuccessful
+- Functional use during play and daily activities
+- Increasing variety of latches/fasteners managed successfully
+
+Why it matters:
+- Demonstrates problem-solving and mechanical understanding
+- Shows fine motor coordination and bilateral hand use
+- Important for independence in self-care (clothing fasteners)
+- Indicates cognitive-motor integration (understanding then executing)
+- Safety consideration—may access previously secured areas
+- Foundation for more complex fastener management
+- Supports independence and self-help skill development
+- Assesses motor planning and fine motor dexterity
+
+#### Walk on tip toes when shown
+
+About
+
+By 36 months, most children can walk on their tiptoes when asked or shown how, demonstrating advanced balance, ankle strength, and motor imitation. According to NHS UK developmental guidelines, intentional toe-walking on command shows the child can adjust their typical gait pattern, maintain balance on smaller base of support, and follow motor demonstrations. While brief spontaneous toe-walking during play is normal throughout toddlerhood, the ability to sustain toe-walking across several steps when requested represents specific motor control and attention to task. This differs from persistent, involuntary toe-walking which may warrant evaluation.
+
+What to look for:
+- Rising onto toes and maintaining position while walking forward
+- Sustained toe-walking for 3-5 steps or more when requested
+- Adequate balance to walk on toes without immediately falling to flat feet
+- Imitating demonstration—shows ability to modify gait on request
+- Symmetrical ankle/calf strength in both legs
+- Returning to normal walking after toe-walking trial
+- Doing so playfully and with control, not as only walking pattern
+- Normal heel-toe walking pattern as primary gait
+
+Why it matters:
+- Demonstrates advanced balance and proprioceptive control
+- Shows ankle strength and range of motion adequate for varied movements
+- Indicates motor planning and ability to modify movements on request
+- Tests imitation and ability to follow movement demonstrations
+- Differentiates voluntary toe-walking (healthy exploration) from persistent involuntary toe-walking
+- Persistent, exclusive toe-walking past age 3 may indicate tight Achilles tendons, neurological concerns, or sensory processing differences
+- Foundation for more complex movements like ballet, hopping, jumping variations
+- Assesses child's ability to attend to and execute motor instructions
+
+#### Walk upstairs with alternate feet (still putting both feet on each step when coming down)
+
+About
+
+Around 36 months, children typically master alternating feet while walking upstairs—placing one foot per step rather than bringing both feet to each step. According to NHS UK developmental guidelines, this represents significant advancement in balance, coordination, motor planning, and strength compared to earlier marking-time pattern. The child places one foot on the step, transfers weight, brings the other foot to next step, and continues this reciprocal pattern. However, descending stairs with alternating feet is more challenging and typically emerges 6-12 months later; at age 3, most children still place both feet on each step when descending. Hand rail or wall support is usually still needed.
+
+What to look for:
+- Walking upstairs with one foot per step, alternating which foot leads
+- Relatively smooth, continuous upward movement
+- May still hold rail or wall for balance support
+- Both feet used reciprocally rather than one leg always leading
+- Improving fluency and confidence over time
+- Descent still using marking-time pattern (both feet per step) at this age
+- Occasional reversion to marking-time when tired or on unfamiliar stairs
+- Adult supervision still important for safety
+
+Why it matters:
+- Significant gross motor milestone indicating advancing coordination
+- Shows balance sophisticated enough for dynamic weight shifts while ascending
+- Demonstrates motor planning for alternating movement pattern
+- Important functional skill for independent navigation
+- Progression milestone: both feet per step → alternating feet ascending → alternating feet descending
+- Enables faster, more efficient stair use as independence grows
+- Asymmetry or difficulty may indicate motor concerns warranting evaluation
+- Safety implications—supervision still needed but independence increasing
+
+#### Stand independently on one foot for 1 second
+
+About
+
+By 36 months, children develop sufficient balance to stand on one foot briefly without support, typically for 1-3 seconds initially. According to NHS UK developmental guidelines, this single-leg balance represents sophisticated postural control, proprioceptive feedback processing, and vestibular system maturation. The child must shift weight entirely to one leg, maintain core and hip stability, make continuous micro-adjustments for balance, and sustain attention on the task. Duration of single-leg stance increases progressively: 1-2 seconds at age 3, 4-6 seconds at age 4, and 8-10 seconds at age 5. This skill is foundational for hopping, skipping, and many functional activities.
+
+What to look for:
+- Lifting one foot off ground and maintaining balance for 1-3 seconds
+- Minimal wobbling or immediate loss of balance
+- Arms may extend for balance assistance
+- Visual focus helps maintain balance
+- Typically easier with preferred leg initially
+- May touch down briefly then resume one-foot stance
+- Increasing duration with practice and maturity
+- Expression of concentration while balancing
+- Eventually progressing to 3-5 seconds by age 3.5-4 years
+
+Why it matters:
+- Important balance milestone indicating vestibular and proprioceptive system maturation
+- Foundation for hopping, skipping, and other single-leg activities
+- Shows core strength and postural control advancing
+- Functional for daily activities like dressing while standing (pulling on pants)
+- Used in developmental and neurological assessments
+- Difficulty with single-leg balance may indicate motor or neurological concerns
+- Gradual progression in duration indicates normal development trajectory
+- Essential prerequisite for sports, dance, and complex motor activities
+
+#### Catch a large ball
+
+About
+
+By 36 months, children develop the coordination to catch a large ball (8-10 inches) thrown gently from short distance (3-5 feet). According to NHS UK developmental guidelines, catching requires visual tracking, predictive timing, coordinated arm positioning, and hand-eye coordination. The 3-year-old typically catches by trapping ball against chest with both arms rather than using hands alone. This represents integration of visual perception (tracking ball's path), motor planning (moving arms to intercept), and timing (closing arms at right moment). Catching smaller balls or from greater distances develops gradually over subsequent years.
+
+What to look for:
+- Arms extending toward approaching ball
+- Visual tracking of ball's path from thrower to self
+- Trapping ball against chest/body with both arms
+- Successful catch of large, gently thrown ball at least occasionally
+- Timing improving—arms closing around ball rather than too early or late
+- Increasing success rate with practice
+- Using body as backstop rather than hands-only catching
+- Anticipatory positioning showing predictive understanding
+
+Why it matters:
+- Demonstrates visual-motor integration and hand-eye coordination
+- Shows predictive timing and motor planning abilities
+- Foundation for sports participation and physical play with peers
+- Requires spatial awareness and tracking of moving objects
+- Social skill supporting cooperative play and games
+- Builds confidence in physical abilities and peer interactions
+- Progressive skill: large ball to chest → smaller balls → hands-only catching
+- Important gross motor milestone for school readiness and physical education
+
+#### Throw ball overhead
+
+About
+
+Around 36 months, children master overhead throwing technique, projecting ball forward using overhead arm motion. According to Health Canada developmental guidelines, overhead throwing represents advanced coordination compared to earlier underhand or two-hand throwing. The child raises arm overhead (or near overhead), uses trunk rotation, and releases ball with forward motion, showing improved strength, coordination, and motor planning. While accuracy and distance are limited at this age, the overhead pattern emergence is the milestone. This skill enables participation in many play activities and games with peers.
+
+What to look for:
+- Arm moving in upward and forward arc during throw
+- Overhead or near-overhead arm position at release
+- Ball projection forward (though direction and distance variable)
+- Some trunk rotation during throw
+- Preferred hand typically used for throwing
+- Improving trajectory and distance over time
+- May step forward with opposite foot (though mature pattern not yet expected)
+- Expression of effort and intention during throw
+
+Why it matters:
+- Demonstrates advancing gross motor coordination and strength
+- Shows motor pattern refinement from earlier simpler throwing
+- Important for sports, games, and physical play with peers
+- Indicates healthy shoulder girdle strength and range of motion
+- Foundation for more sophisticated throwing skills in preschool and school years
+- Supports social play opportunities requiring throwing skills
+- Provides assessment of motor planning and bilateral coordination
+- Typical motor development progression showing increasing complexity
+
 ### DEVELOPMENTAL - Communication
 
 #### 30M: Says 50 words
@@ -7957,6 +9731,110 @@ Why it matters:
 - Persistent errors with early sounds may warrant evaluation
 - Foundation for clear speech
 
+#### Say own name, age, and sex
+
+About
+
+By 36 months, children can typically state their own first name, their age ("I'm three"), and their sex ("I'm a boy/girl") when asked. According to NHS UK developmental guidelines, this self-referential information represents emerging self-identity, memory for personal facts, and expressive language skills. This information is not only developmentally significant but also functionally important—children beginning preschool need to identify themselves verbally. The ability to answer "What's your name?" and "How old are you?" shows social communication skills emerging alongside factual knowledge about self.
+
+What to look for:
+- Correctly stating first name when asked
+- Responding "three" or "I'm three" when asked age
+- Identifying own sex/gender when asked
+- May use nickname or shortened name consistently
+- Clear enough pronunciation for others to understand
+- Responding to these questions in social situations
+- May spontaneously share this information about self
+- Beginning to learn last name (though mastery typically comes later)
+
+Why it matters:
+- Indicates developing self-identity and self-awareness
+- Shows memory for personal information
+- Important safety skill—being able to identify oneself
+- Essential for school readiness and social situations
+- Demonstrates expressive language progressing appropriately
+- Enables participation in social conversations about self
+- Foundation for learning additional personal information (address, phone number later)
+- Used as developmental milestone in screening assessments
+
+#### Tell you what is happening when looking at a picture book
+
+About
+
+By 36 months, children demonstrate advancing language and cognitive skills by describing or narrating what they see happening in picture books. According to NHS UK developmental guidelines, picture description requires observing scenes, understanding depicted actions, formulating verbal descriptions, and sharing observations with listener. The 3-year-old uses simple sentences to describe actions ("The dog is running"), identify characters, and comment on events. This represents integration of comprehension, expression, and narrative skills foundational for literacy development and storytelling.
+
+What to look for:
+- Pointing to and commenting on pictures in books
+- Using simple sentences to describe what's happening in pictures
+- Identifying characters, objects, and actions
+- Answering questions about pictures ("What is the boy doing?")
+- Spontaneously narrating or describing scenes while looking at books
+- Showing comprehension of pictured events
+- Connecting pictures to own experiences ("Like my dog!")
+- Increasing length and detail in descriptions over time
+
+Why it matters:
+- Demonstrates language comprehension and expression integrating
+- Shows understanding of pictorial representation and storytelling
+- Foundation for reading comprehension and literacy skills
+- Indicates cognitive ability to interpret visual information
+- Supports vocabulary development through book exposure
+- Important pre-literacy skill for school readiness
+- Provides opportunities for rich language interaction with caregivers
+- Shows narrative understanding emerging—events have sequences and meanings
+
+#### Vocabulary of 200+ words
+
+About
+
+By 36 months, most children have expressive vocabularies of approximately 200-1000 words. According to Australian Department of Health guidelines, vocabulary expansion accelerates dramatically during the third year of life, with children often learning several new words daily. The 200-word minimum at age 3 represents productive vocabulary—words the child says—which is smaller than receptive vocabulary (words understood). Vocabulary includes nouns, verbs, adjectives, and early function words, enabling increasingly complex communication. Vocabulary size at age 3 is strong predictor of later language and academic skills.
+
+What to look for:
+- Using at least 200 different words across varied contexts
+- Rapid vocabulary growth—regularly using new words
+- Vocabulary including nouns, verbs, descriptors, some pronouns and prepositions
+- Naming objects, actions, attributes, feelings
+- Using words functionally to communicate varied intentions
+- Combining words into longer sentences and phrases
+- Pronunciation may be imperfect but words are recognizable
+- Asking "what's that?" frequently, showing word-learning motivation
+
+Why it matters:
+- Critical milestone in language development
+- Vocabulary size strongly predicts later academic achievement
+- Enables complex communication and expression of ideas
+- Foundation for sentence development and grammatical complexity
+- Shows language-learning mechanisms functioning normally
+- Smaller vocabulary (under 100 words) at age 3 warrants speech-language evaluation
+- Supports cognitive development, social interaction, and learning
+- Early intervention for language delays more effective than later intervention
+
+#### Uses past-tense verbs correctly
+
+About
+
+Around 36 months, children begin using past-tense verb forms to talk about completed events. According to Australian Department of Health guidelines, past-tense emergence represents grammatical development and understanding of time concepts. Initially, children often overgeneralize the regular past-tense rule, producing forms like "goed" or "eated" (demonstrating they've learned the -ed rule, even if misapplying it). Gradually, irregular past tenses ("went," "ate," "ran") are learned through exposure. Using past tense enables children to share experiences, tell stories about what happened, and demonstrate temporal understanding.
+
+What to look for:
+- Using past-tense forms when talking about completed events
+- May include correct regular forms ("walked," "played," "jumped")
+- Often overgeneralizes rule to irregular verbs ("goed," "falled," "eated")
+- Talking about events that happened earlier ("I played outside")
+- Combination of correct and overgeneralized forms is normal
+- Gradual increase in use of correct irregular past forms
+- Shows understanding that grammar marks time
+- Enables storytelling and sharing past experiences
+
+Why it matters:
+- Indicates grammatical development and morphological learning
+- Shows emerging understanding of time concepts (past vs. present)
+- Enables more complex communication about non-present events
+- Overgeneralization errors show active grammar learning (not just imitation)
+- Foundation for narrative skills and story-telling
+- Important for sharing experiences and communicating about past events
+- Demonstrates language system developing beyond single words to grammar
+- Irregular past tenses gradually mastered over preschool years
+
 ### DEVELOPMENTAL - Social & Emotional
 
 #### 30M: Plays next to and sometimes with other children
@@ -8174,6 +10052,188 @@ Why it matters:
 - Supports health and illness prevention
 - Indicates cooperation and following directions
 - Important life skill
+
+#### Show concern for friends or family who cry
+
+About
+
+Around 36 months, children demonstrate developing empathy by showing concern when friends or family members are crying or distressed. According to Australian Department of Health guidelines, this empathetic response represents important social-emotional development. The 3-year-old may approach upset person, ask what's wrong, offer comfort ("It's okay"), attempt to help, or show worried facial expressions. While true perspective-taking is still developing, this concern shows emotional awareness and prosocial motivation. Empathy development continues throughout childhood, but visible concern emerges during preschool years.
+
+What to look for:
+- Noticing when others are crying, upset, or hurt
+- Approaching the distressed person
+- Asking what's wrong or if person is okay
+- Attempting to offer comfort (patting, hugging, bringing toy)
+- Worried or concerned facial expression
+- Verbal expressions of concern ("Are you sad?" "Don't cry")
+- May seek adult help for distressed person
+- Different response to others' distress compared to earlier egocentric responses
+
+Why it matters:
+- Indicates empathy and emotional awareness developing
+- Shows beginning understanding of others' feelings
+- Foundation for prosocial behavior and caring relationships
+- Important for positive peer interactions and friendships
+- Demonstrates emotional regulation—not becoming overwhelmed by others' distress
+- Predicts later social competence and moral development
+- Supports development of helping behaviors and compassion
+- Encourages secure, connected relationships with others
+
+#### Show affection for playmates
+
+About
+
+Around 36 months, children express affection toward friends and preferred playmates, demonstrating friendship formation. According to Health Canada developmental guidelines, affection expressions may include hugging, holding hands, sharing toys, saving seats, seeking specific children for play, and verbal expressions of liking ("She's my friend"). These peer affections indicate social interest beyond family, ability to form relationships, and social-emotional health. Early friendships are often based on proximity and shared activities rather than deep understanding, but they're developmentally important for social skill development.
+
+What to look for:
+- Seeking out preferred playmates for activities
+- Hugging, holding hands, or other physical affection with friends
+- Sharing toys or treats with liked peers
+- Saying specific children are friends
+- Showing excitement when seeing preferred playmates
+- Preference for playing with certain children
+- Including friends in activities and play
+- Showing some loyalty or preference in social groups
+
+Why it matters:
+- Demonstrates healthy peer relationship development
+- Shows social interest and ability to connect with peers
+- Provides opportunities for social skill practice
+- Foundation for more complex friendships in later childhood
+- Supports emotional development through peer connections
+- Enables cooperative play and shared activities
+- Indicates social-emotional health and security
+- Important for school readiness and classroom social adjustment
+
+#### Understand possession concepts
+
+About
+
+By 36 months, children demonstrate understanding of possession and ownership, including concepts of "mine," "yours," "his," and "hers." According to Health Canada developmental guidelines, understanding possession represents cognitive development about object ownership and emerging theory of mind—recognizing that different people own different things. The 3-year-old can identify own belongings, recognize others' possessions, and use possessive language appropriately (though sharing may still be challenging). This understanding is foundational for social rules about property and respect for others' belongings.
+
+What to look for:
+- Correctly identifying own possessions ("That's mine")
+- Recognizing and naming others' belongings ("That's daddy's")
+- Using possessive pronouns and forms ("my," "yours," "his," "hers")
+- Protesting when others take personal items
+- Understanding that different people own different objects
+- Beginning to ask permission before using others' items (with prompting)
+- Distinguishing between owned and shared items
+- May show strong attachment to personal belongings
+
+Why it matters:
+- Indicates cognitive understanding of ownership concepts
+- Foundation for understanding social rules about property
+- Shows developing theory of mind—recognizing others have belongings
+- Enables learning about sharing, borrowing, and asking permission
+- Important for peer interactions and social appropriateness
+- Supports learning about respect for others' possessions
+- While sharing remains challenging, understanding ownership is foundation
+- Part of self-concept development—recognizing own possessions as part of self
+
+#### Anticipate activities
+
+About
+
+By 36 months, children demonstrate memory and routine understanding by anticipating upcoming activities and events. According to Health Canada developmental guidelines, anticipation shows the child recognizes patterns in daily routines, remembers sequences of events, and predicts what comes next. The 3-year-old may prepare for bath time when dinner ends, get shoes when told "we're leaving," or ask about planned activities. This anticipation represents memory development, temporal understanding, and engagement with daily structure, helping children feel secure and prepared.
+
+What to look for:
+- Preparing for next activity when cued (getting shoes when told "time to go")
+- Talking about upcoming events ("After snack, we go playground?")
+- Following daily routine patterns independently
+- Showing excitement or preparation for anticipated activities
+- Understanding temporal sequences ("First lunch, then nap")
+- Reduced resistance when activities are predictable and anticipated
+- Asking about planned activities and routines
+- Remembering and mentioning events happening later ("Tomorrow we see grandma")
+
+Why it matters:
+- Demonstrates memory and understanding of routines
+- Shows emerging temporal understanding (sequence and timing)
+- Reduces anxiety through predictability and preparation
+- Supports cooperation with transitions and schedule changes
+- Indicates cognitive development and pattern recognition
+- Helps child feel secure in knowing what comes next
+- Foundation for more sophisticated time concepts (days, weeks, future planning)
+- Enables participation in planning and discussing activities
+
+#### Store toys appropriately
+
+About
+
+Around 36 months, children can participate meaningfully in organizing and storing toys in appropriate locations. According to Health Canada developmental guidelines, appropriate storage demonstrates memory for where items belong, motor ability to manipulate containers and toys, and emerging responsibility for possessions. The 3-year-old can sort toys by category (blocks with blocks, dolls with dolls), place items in designated bins or shelves, and participate in clean-up routines with support. This represents executive function development, functional skills, and early responsibility learning.
+
+What to look for:
+- Participating in clean-up by putting toys in designated places
+- Sorting toys by category with some accuracy
+- Remembering where specific toys are stored
+- Following instructions about where toys belong
+- Using bins, shelves, toy boxes appropriately
+- Completing multi-step clean-up tasks with guidance
+- Taking some pride or satisfaction in organized space
+- Improving speed and independence in clean-up over time
+
+Why it matters:
+- Develops executive function skills: organizing, categorizing, remembering
+- Supports emerging responsibility and care for possessions
+- Enables participation in household routines and expectations
+- Teaches categorization and organizational concepts
+- Builds sense of competence through completing helpful tasks
+- Reduces caregiver burden while teaching functional skills
+- Foundation for more complex organizational skills
+- Supports development of respect for belongings and space
+
+#### Request help when needed
+
+About
+
+By 36 months, children appropriately recognize when tasks exceed their abilities and verbally request help from adults. According to Health Canada developmental guidelines, help-seeking represents important balance between independence drive and realistic assessment of own limitations. The 3-year-old says "I need help," "Can you help me?" or "This is too hard" when encountering challenges, showing self-awareness, communication skills, and willingness to seek support. This is healthier than either giving up silently or becoming overly frustrated, and it enables learning through scaffolded support.
+
+What to look for:
+- Verbally requesting help when encountering difficulty
+- Using phrases like "Help please," "I can't do it," "It's too hard"
+- Seeking specific adult assistance rather than general frustration
+- Accepting offered help appropriately
+- Balance between independent attempts and help-seeking
+- Not immediately giving up, but requesting help after trying
+- Appropriate help-seeking across different contexts (home, preschool, play)
+- Reduced frustration when able to request help effectively
+
+Why it matters:
+- Demonstrates self-awareness of own abilities and limitations
+- Shows healthy independence balanced with realistic need for support
+- Reduces frustration and supports emotional regulation
+- Enables learning through appropriate scaffolding
+- Important social-communication skill for school and peer settings
+- Indicates secure attachment—trusting adults will provide help
+- Supports problem-solving through appropriate resource-seeking
+- Foundation for self-advocacy throughout life
+
+#### Know full name
+
+About
+
+By 36 months, most children can state both their first and last name when asked. According to Health Canada developmental guidelines, knowing full name represents memory development, self-identity, and personal information knowledge. While younger children typically know only first names, learning full name usually emerges around age 3. This is functionally important for preschool enrollment, social situations, and safety. Learning full name also builds foundation for later learning of address, phone number, and other personal information.
+
+What to look for:
+- Stating first and last name when asked "What's your full name?"
+- Clear enough pronunciation for others to understand
+- Consistent response across different contexts
+- Understanding that full name includes first and last
+- Eventual inclusion of middle name if taught
+- May spontaneously introduce self with full name
+- Responding appropriately in social or school settings
+- Remembering own name reliably
+
+Why it matters:
+- Important personal safety information
+- Required for preschool and school enrollment
+- Supports self-identity and self-concept development
+- Demonstrates memory and personal information learning
+- Enables self-identification in various social contexts
+- Foundation for learning other personal information
+- Shows language skills progressing to multi-word expressions
+- Used in developmental assessments and school readiness evaluations
 
 ### DEVELOPMENTAL - Cognitive
 
@@ -8593,6 +10653,58 @@ Why it matters:
 - Comprehension difficulties warrant evaluation
 - Critical for social and academic success
 
+#### Include animals in pretend play
+
+About
+
+Around 36 months, children's pretend play expands to regularly include animals—both realistic play (making animals "walk," "eat," "sleep") and fantastical scenarios (animals talking, having tea parties, driving cars). According to Health Canada developmental guidelines, incorporating animals into pretend play shows symbolic thinking development, narrative skills, and imagination expansion. Children may make animal sounds, assign animals roles in stories, and create scenarios involving multiple animal characters. This represents advancing cognitive complexity in play and emerging storytelling abilities.
+
+What to look for:
+- Including toy animals in play scenarios regularly
+- Making animal sounds during play
+- Assigning roles or actions to animals ("The horse is sleeping")
+- Creating stories or scenarios featuring animals
+- Caring for toy animals (feeding, bathing, putting to bed)
+- Realistic and fantastical animal play both occurring
+- Combining animals with other toys in complex play
+- Verbal narration of animal activities during play
+
+Why it matters:
+- Demonstrates symbolic thinking and imagination
+- Shows narrative skills and story creation emerging
+- Supports language development through play narration
+- Indicates cognitive flexibility (animals in both realistic and fantastical roles)
+- Provides opportunities for emotional expression through play characters
+- Enhances vocabulary learning about animals and actions
+- Foundation for more complex pretend play and storytelling
+- Shows healthy play development and creativity
+
+#### Sort by shape/color
+
+About
+
+By 36 months, children demonstrate cognitive classification skills by sorting objects based on single attributes like shape or color. According to Health Canada developmental guidelines, sorting shows understanding that objects can be grouped by shared properties, attention to specific features, and ability to classify consistently. The 3-year-old can sort a mixed group of objects by one dimension—putting all circles together and squares together, or all red objects together and blue objects together—though shifting between multiple dimensions (color AND shape) is still challenging.
+
+What to look for:
+- Successfully sorting objects into groups by color (all red, all blue, etc.)
+- Grouping objects by shape (circles, squares, triangles)
+- Consistent sorting criteria—not randomly grouping items
+- Completing sorting tasks with 2-3 different categories
+- May need adult guidance about which attribute to use
+- Difficulty switching between sorting dimensions in single task
+- Verbal labeling of categories while sorting
+- Improving speed and accuracy over time
+
+Why it matters:
+- Demonstrates emerging categorization and classification skills
+- Shows attention to visual attributes and detail
+- Foundation for more complex sorting, matching, and pattern recognition
+- Important pre-math skill for understanding sets and categories
+- Supports cognitive flexibility and problem-solving
+- Enables participation in educational games and activities
+- Assessment component in developmental screenings
+- Prerequisite for later academic skills including graphing, data organization
+
 ---
 
 ## 36-48 MONTHS
@@ -8843,6 +10955,84 @@ Why it matters:
 - Supports visual-motor integration
 - Important pre-academic skill
 
+#### Stand on one foot up to 4 seconds
+
+About
+
+By 48 months (4 years), children typically demonstrate improved single-leg balance, standing on one foot for 4-6 seconds without support. According to Health Canada developmental guidelines, this represents significant advancement from the 1-2 second balance at age 3. The 4-year-old shows better postural control, stronger proprioceptive feedback processing, vestibular system maturation, and improved attention to task. Balance duration continues increasing with age: 1-2 seconds at 3 years, 4-6 seconds at 4 years, 8-10 seconds at 5 years. Single-leg balance is essential prerequisite for hopping, skipping, and many functional activities.
+
+What to look for:
+- Standing on one foot for 4-6 seconds without touching down
+- Improved stability compared to age 3 attempts
+- Arms may still assist balance but less dramatically
+- Increased success on both preferred and non-preferred leg
+- Visual focus on stable target helps maintain balance
+- Smooth, controlled balance rather than extreme wobbling
+- Can sometimes perform while distracted or during conversation
+- Progression toward 8-10 second balance by age 5
+
+Why it matters:
+- Demonstrates advancing balance and postural control
+- Essential for hopping, skipping, galloping, and complex motor skills
+- Required for many playground activities and sports
+- Shows vestibular and proprioceptive systems maturing
+- Functional for dressing while standing (pulling on pants, shoes)
+- Assessment tool in pediatric evaluations
+- Foundation for dance, sports, and physical activities
+- Correlates with overall motor coordination development
+
+#### Catch bouncing ball
+
+About
+
+By 48 months, children advance beyond catching rolled or gently tossed balls to catching balls that bounce before reaching them. According to Health Canada developmental guidelines, catching bouncing balls requires predictive timing, tracking of changing trajectory, anticipatory positioning, and coordinated hand-eye movements. The 4-year-old must track ball's descent, bounce, and upward arc, then position hands and close them at precise moment. This represents more sophisticated perceptual-motor integration compared to catching tossed balls. Catching skill continues progressing toward smaller balls and varied throwing patterns.
+
+What to look for:
+- Tracking ball through bounce and upward trajectory
+- Moving body/arms to position for catch after bounce
+- Successfully catching bounced ball at least occasionally
+- Using arms and hands more actively (not just chest trap)
+- Timing improving—closing hands at appropriate moment
+- Anticipating ball's path after bounce
+- Increasing success rate with practice
+- Some catches using hands rather than only trapping against body
+
+Why it matters:
+- Demonstrates advancing visual-motor integration
+- Shows predictive timing and trajectory understanding
+- Foundation for sports participation and ball games
+- Indicates perceptual skills handling complex, changing movement
+- Supports social play opportunities requiring catching skills
+- Progressive milestone in coordination development
+- Builds confidence in physical abilities and peer interactions
+- Important gross motor skill for school-age physical activities
+
+#### Perform finger sequences
+
+About
+
+Around 48 months, children demonstrate refined finger control by performing sequences of finger movements such as touching each finger to thumb in order, making finger patterns, or coordinating multi-step finger actions. According to Health Canada developmental guidelines, finger sequencing shows fine motor coordination, motor planning, and bilateral hand skills advancing. These sequences may include finger plays from songs, imitation of demonstrated patterns, or functional sequences like finger spelling or counting on fingers. This refined finger control is foundational for handwriting, instrument playing, and many functional tasks.
+
+What to look for:
+- Touching each finger to thumb in sequence
+- Performing finger plays from songs and rhymes
+- Imitating demonstrated finger patterns
+- Isolating individual fingers during tasks
+- Coordinating both hands in finger sequences (pat-a-cake, itsy-bitsy spider)
+- Improving speed and smoothness of sequences over time
+- Remembering multi-step finger patterns
+- Using finger sequences functionally (counting, pointing)
+
+Why it matters:
+- Demonstrates refined fine motor control and finger independence
+- Shows motor planning and sequencing abilities
+- Important for handwriting, buttoning, typing, instrument playing
+- Indicates neurological maturation allowing finger control
+- Supports functional tasks requiring finger dexterity
+- Foundation for more complex fine motor skills
+- Assesses motor planning and coordination
+- Progressive skill showing increasing complexity and speed
+
 ### DEVELOPMENTAL - Communication
 
 #### 48M: Says 4+ word sentences
@@ -9085,6 +11275,84 @@ Why it matters:
 - Persistent errors beyond age norms may warrant evaluation
 - Foundation for complete articulation
 
+#### Sing several nursery rhymes
+
+About
+
+By 48 months, children can sing or recite several complete nursery rhymes from memory. According to NHS UK developmental guidelines, singing nursery rhymes demonstrates memory, language skills, phonological awareness, and enjoyment of rhythm and repetition. The 4-year-old typically knows 3-6 nursery rhymes completely, including melody and most lyrics. Nursery rhyme knowledge strongly predicts later literacy skills because rhymes develop phonological awareness (sound patterns in language), vocabulary, and narrative understanding. Singing together supports language development and caregiver-child bonding.
+
+What to look for:
+- Singing 3-6 complete nursery rhymes from memory
+- Including both melody and most lyrics accurately
+- May sing spontaneously during play or routines
+- Requesting favorite songs repeatedly
+- Joining in when others sing familiar rhymes
+- Learning new rhymes with repeated exposure
+- Awareness of rhyming patterns in songs
+- Expression of enjoyment and engagement while singing
+
+Why it matters:
+- Strong predictor of later reading and literacy skills
+- Develops phonological awareness essential for reading
+- Supports vocabulary expansion and language patterns
+- Enhances memory and sequential learning abilities
+- Provides rhythm and music exposure important for development
+- Strengthens caregiver-child bonding through shared singing
+- Cultural learning through traditional songs and rhymes
+- Foundation for poetry, reading fluency, and language enjoyment
+
+#### Name 5 different colours
+
+About
+
+By 48 months, most children can correctly identify and name five or more colors. According to NHS UK developmental guidelines, color naming shows vocabulary development, visual discrimination, and ability to learn categorical labels for perceptual properties. The 4-year-old typically knows primary colors (red, blue, yellow) and several secondary colors (green, orange, purple), with additional colors (pink, black, white, brown) often known as well. Color knowledge supports descriptive language, sorting/classification, and is used extensively in educational settings.
+
+What to look for:
+- Correctly naming at least 5 different colors
+- Identifying colors on objects, clothing, toys, pictures
+- Responding accurately when asked "What color is this?"
+- Using color names in spontaneous speech
+- Matching objects by color
+- May know 8-10 colors by age 4.5-5
+- Consistent color naming across contexts
+- Understanding color as stable property of objects
+
+Why it matters:
+- Important vocabulary and language development milestone
+- Shows visual perception and discrimination skills
+- Essential for following instructions in educational settings
+- Enables more descriptive and specific communication
+- Used extensively in early childhood education
+- Foundation for color-based sorting, patterns, art activities
+- Assessment component in school readiness evaluations
+- Supports learning through color-coded systems and materials
+
+#### Sentences contain 6+ words
+
+About
+
+By 48 months, children's expressive language has advanced to producing sentences of six or more words regularly. According to Australian Department of Health guidelines, longer sentences indicate grammatical development, vocabulary expansion, and ability to express complex ideas. The 4-year-old produces sentences like "Can I have some more juice please?" or "Yesterday we went to grandma's house and played." Sentence length is less important than grammatical complexity and meaning, but 6+ word utterances show language maturation. Most 4-year-olds also use compound and complex sentence structures.
+
+What to look for:
+- Regular production of sentences with 6+ words
+- Grammatically complex sentences (not just strung-together words)
+- Sentences expressing detailed ideas or narratives
+- Use of conjunctions (and, but, because) to connect ideas
+- Descriptive details included in sentences
+- Question forms using 6+ words
+- Narrative sentences describing events or stories
+- Clear pronunciation allowing understanding despite sentence length
+
+Why it matters:
+- Demonstrates grammatical development and language maturation
+- Shows ability to express complex and detailed ideas
+- Enables effective communication of needs, stories, experiences
+- Foundation for academic language and learning
+- Indicates vocabulary and grammar integration progressing
+- Important for social communication and peer interactions
+- Supports narrative skills and storytelling
+- Assessment milestone for language development
+
 ### DEVELOPMENTAL - Social & Emotional
 
 #### 48M: Pretends to be something else during play
@@ -9303,6 +11571,162 @@ Why it matters:
 - Complete independence comes later (age 7-8)
 - Important health and self-care skill
 
+#### Calm themselves down when upset (which may take up to 15 minutes)
+
+About
+
+By 48 months, children demonstrate emerging emotional regulation skills by eventually calming themselves when upset, though the process may take 10-15 minutes. According to NHS UK developmental guidelines, self-calming represents important emotional development showing the child can eventually regulate intense emotions without constant adult intervention. The 4-year-old may use strategies like deep breathing, moving away from situation, self-talk, or distraction. While they cannot yet prevent all emotional overwhelm, the ability to eventually calm down independently represents significant progress from toddler years.
+
+What to look for:
+- Eventually calming from upset state without continuous adult soothing
+- Process may take 10-15 minutes but child gets there independently
+- Using self-regulation strategies (breathing, moving away, self-talk)
+- Decreasing intensity of emotional expression over time during episode
+- Accepting minimal caregiver support (presence without constant intervention)
+- Returning to regulated state and resuming activities
+- Gradually decreasing time needed to calm over months
+- Learning and using coping strategies taught by caregivers
+
+Why it matters:
+- Critical emotional regulation skill for school readiness
+- Shows developing ability to manage intense emotions
+- Reduces reliance on adult co-regulation for every upset
+- Important for peer relationships and social success
+- Foundation for more sophisticated emotional regulation
+- Enables participation in structured settings like preschool
+- Shows prefrontal cortex development supporting self-control
+- Progressive skill continuing to develop throughout childhood
+
+#### Show sympathy to friends when hurt or upset
+
+About
+
+By 48 months, children demonstrate empathy by showing sympathy when friends or peers are hurt or upset. According to NHS UK developmental guidelines, sympathetic responses at age 4 include verbal expressions ("I'm sorry you're hurt"), offering comfort, getting adult help, or showing concerned facial expressions. This represents advancing theory of mind—understanding others' feelings—and prosocial motivation. While empathy continues developing throughout childhood, visible sympathy toward peers is significant milestone showing social-emotional maturity and caring relationships forming.
+
+What to look for:
+- Noticing when friends or peers are hurt or upset
+- Verbal expressions of sympathy or concern
+- Offering comfort (patting, hugging, kind words)
+- Seeking adult help for hurt or upset peer
+- Appropriate facial expressions showing concern
+- Asking if friend is okay or what's wrong
+- Attempting to help or solve problem causing distress
+- Different response to others' distress than younger children's responses
+
+Why it matters:
+- Demonstrates empathy and emotional awareness developing
+- Shows understanding of others' feelings and perspectives
+- Foundation for caring, prosocial relationships
+- Important for positive peer interactions and friendships
+- Predicts later social competence and moral development
+- Supports cooperative play and classroom harmony
+- Indicates secure attachment allowing focus on others' needs
+- Foundation for compassion and helping behaviors throughout life
+
+#### May have imaginary friends
+
+About
+
+Around 48 months, approximately one-third of children create imaginary friends or companions. According to Australian Department of Health guidelines, imaginary friends are normal and healthy, representing advanced imagination, symbolic thinking, and creativity. These invisible companions may have names, personalities, preferences, and participate in daily activities and conversations. Imaginary friends serve multiple functions: companionship, control (child directs all interactions), emotional processing, creativity outlet, and sometimes scapegoat for misbehavior. They typically appear between ages 3-7 and eventually fade when no longer needed.
+
+What to look for:
+- Talking about or to an invisible friend consistently
+- Assigning name, characteristics, and preferences to imaginary companion
+- Including imaginary friend in activities, meals, play
+- Insisting others acknowledge or accommodate imaginary friend
+- Using imaginary friend in pretend play scenarios
+- Sometimes blaming imaginary friend for misbehaviors
+- Maintaining relationship with imaginary friend over weeks or months
+- Clear distinction between imaginary friend and reality (child knows friend isn't real)
+
+Why it matters:
+- Normal and healthy aspect of imagination development
+- Shows advanced symbolic thinking and creativity
+- Provides companionship and emotional support
+- Allows child to explore social roles and relationships safely
+- Outlet for emotional expression and processing experiences
+- Demonstrates rich imagination and narrative skills
+- Not indicative of social problems—children with imaginary friends often have good peer relationships
+- Usually fades naturally when no longer needed
+
+#### Anticipate experiences
+
+About
+
+By 48 months, children demonstrate advancing memory and temporal understanding by anticipating upcoming experiences based on past experiences. According to Health Canada developmental guidelines, the 4-year-old remembers previous events and predicts what will happen in similar situations: anticipating birthday party activities, knowing what happens at doctor visits, predicting grocery store routines. This anticipation shows episodic memory (remembering specific events), pattern recognition, and emerging understanding of future based on past. Anticipation helps children feel prepared and reduces anxiety about new situations.
+
+What to look for:
+- Talking about what will happen at upcoming events based on past experience
+- Preparing or planning for anticipated activities
+- Reduced anxiety when situations are familiar and anticipated
+- Verbal predictions about event sequences ("First we check in, then we wait")
+- Remembering and mentioning specific details from previous similar experiences
+- Asking questions to clarify what will happen
+- Showing excitement or appropriate emotions about anticipated events
+- Understanding that future events will be similar to past events
+
+Why it matters:
+- Demonstrates episodic memory and pattern recognition
+- Shows temporal understanding linking past, present, future
+- Reduces anxiety through predictability and preparation
+- Supports planning and preparation skills
+- Indicates cognitive development and memory maturation
+- Helps child feel secure and prepared for experiences
+- Foundation for more sophisticated future thinking and planning
+- Enables learning from experience and applying to new situations
+
+#### Cooperate with peers
+
+About
+
+By 48 months, children demonstrate emerging cooperation skills in play and activities with peers. According to Health Canada developmental guidelines, cooperation at age 4 includes taking turns, sharing materials, working toward shared goals, and adjusting behavior to accommodate others' ideas. The 4-year-old participates in cooperative games, collaborative building projects, and shared pretend play scenarios requiring negotiation and compromise. While conflicts still occur frequently, genuine cooperation emerges, showing social understanding and relationship skills developing.
+
+What to look for:
+- Taking turns in games and activities
+- Sharing toys and materials with peers during play
+- Working together toward shared goals (building together, shared pretend play)
+- Listening to and incorporating peers' ideas
+- Adjusting own behavior to accommodate others
+- Negotiating and compromising during disagreements
+- Participating successfully in group activities
+- Maintaining friendships requiring cooperation
+
+Why it matters:
+- Essential skill for school success and classroom participation
+- Shows understanding of social reciprocity and shared goals
+- Enables complex cooperative play and friendships
+- Reduces conflicts and supports positive peer relationships
+- Foundation for teamwork and collaborative skills throughout life
+- Indicates theory of mind and perspective-taking developing
+- Supports emotional regulation in social contexts
+- Important for preschool and school adjustment
+
+#### Problem-solve conflicts
+
+About
+
+Around 48 months, children begin developing conflict resolution skills, attempting to solve peer disagreements through discussion, compromise, or seeking solutions. According to Health Canada developmental guidelines, 4-year-olds may suggest taking turns, propose alternative activities, or use words to express feelings and negotiate. While adult guidance is often still needed, the emergence of problem-solving attempts represents important social development. The child shows understanding that conflicts have solutions, demonstrates verbal skills replacing physical aggression, and attempts perspective-taking.
+
+What to look for:
+- Using words instead of physical aggression during conflicts
+- Suggesting solutions ("How about we take turns?")
+- Expressing own feelings and needs verbally
+- Attempting to understand peer's perspective
+- Proposing compromises or alternatives
+- Seeking adult help appropriately when unable to resolve independently
+- Reduced frequency or intensity of conflicts compared to younger ages
+- Learning and applying conflict resolution strategies taught by adults
+
+Why it matters:
+- Critical social skill for peer relationships and school success
+- Shows emotional regulation and impulse control developing
+- Demonstrates verbal skills replacing physical responses
+- Indicates perspective-taking and empathy emerging
+- Reduces aggressive behavior and promotes positive interactions
+- Foundation for lifelong conflict resolution skills
+- Important for classroom harmony and friendship maintenance
+- Shows cognitive and social-emotional development integrating
+
 ### DEVELOPMENTAL - Cognitive
 
 #### 48M: Names some colors
@@ -9376,6 +11800,162 @@ Why it matters:
 - Indicates developmental progression
 - Supports creative expression
 - Important cognitive assessment marker
+
+#### Follow instructions to put an object under or over something
+
+About
+
+By 48 months, children understand and follow spatial preposition instructions including "under" and "over." According to NHS UK developmental guidelines, following spatial instructions demonstrates receptive language, spatial concept understanding, and ability to execute multi-step commands. The 4-year-old can place objects in specified spatial relationships based on verbal instructions alone, showing they've internalized these abstract spatial concepts. Understanding progresses: in/out (18-24 months), on/off (24-30 months), under/over (36-48 months), beside/behind/in front (48-60 months).
+
+What to look for:
+- Correctly placing objects under something when instructed
+- Placing objects over something when instructed
+- Following instructions without visual demonstration
+- Understanding instructions with varied objects and locations
+- Responding accurately on first attempt (not trial-and-error)
+- Understanding "under" and "over" in conversations and books
+- Eventually understanding additional prepositions (beside, behind)
+- Using these prepositions appropriately in own speech
+
+Why it matters:
+- Demonstrates receptive language and vocabulary development
+- Shows spatial reasoning and concept understanding
+- Essential for following classroom instructions
+- Foundation for more complex spatial language and reasoning
+- Important for math concepts and spatial relationships
+- Enables understanding of positional descriptions in books and conversation
+- Assessment tool for language and cognitive development
+- Foundation for later understanding of complex spatial relationships
+
+#### Recognize big and small items
+
+About
+
+By 48 months, children reliably identify and label objects as "big" or "small," demonstrating understanding of relative size concepts. According to NHS UK developmental guidelines, size concept understanding shows cognitive development in comparison, categorization, and dimensional awareness. The 4-year-old can select the big ball versus small ball, identify which animal is bigger, and use size language appropriately. Understanding progresses from big/small to adding medium, then to more sophisticated comparisons (bigger/biggest, smaller/smallest). Size concepts are foundational for mathematical thinking and descriptive language.
+
+What to look for:
+- Correctly identifying big versus small objects when asked
+- Selecting big or small item when requested
+- Using "big" and "small" appropriately in own speech
+- Comparing two objects and identifying which is bigger/smaller
+- Understanding size comparisons with various objects
+- Beginning to understand gradations (big, bigger, biggest)
+- Recognizing size differences across different object types
+- Using size concepts in play and conversation
+
+Why it matters:
+- Foundation for mathematical concepts and measurement
+- Shows comparative thinking and dimensional awareness
+- Important vocabulary for descriptive communication
+- Essential for following instructions involving size
+- Foundation for more complex size comparisons and measurement
+- Supports sorting and categorization skills
+- Used in educational settings extensively
+- Assessment component in cognitive evaluations
+
+#### Understand time concepts
+
+About
+
+Around 48 months, children begin grasping basic time concepts including understanding of "before/after," "yesterday/today/tomorrow," and simple sequences. According to Australian Department of Health guidelines, time understanding shows cognitive advancement allowing mental representation of past and future. The 4-year-old understands that some things have already happened (yesterday) and others will happen later (tomorrow), though clock time remains abstract. Time concepts enable better communication about events, preparation for transitions, and understanding of temporal sequences in stories and life.
+
+What to look for:
+- Using and understanding "yesterday," "today," "tomorrow"
+- Understanding "before" and "after" in sequence contexts
+- Talking about past events using past tense appropriately
+- Discussing future events with anticipation
+- Understanding day/night differences and daily routine sequence
+- Emerging awareness of days of week (especially weekend vs. weekday)
+- Sequential understanding in stories and events
+- Beginning concept that time passes and events have order
+
+Why it matters:
+- Foundation for all temporal reasoning and time management
+- Enables communication about non-present events
+- Reduces anxiety through understanding of future events
+- Important for following multi-step instructions with temporal order
+- Foundation for clock time understanding (emerges 5-7 years)
+- Supports narrative understanding and storytelling
+- Essential for school routines and schedule understanding
+- Shows cognitive development in abstract thinking
+
+#### Recall story details
+
+About
+
+By 48 months, children demonstrate memory and comprehension by recalling details from stories they've heard recently. According to Health Canada developmental guidelines, story recall shows listening comprehension, memory, attention, and narrative understanding. The 4-year-old can answer questions about character names, main events, sequence of events, and sometimes story outcomes after hearing a story once or twice. This skill is crucial for literacy development and shows readiness for more complex story comprehension and analysis.
+
+What to look for:
+- Answering who/what/where questions about recent stories
+- Recalling character names and main events
+- Remembering sequence of key events
+- Describing what happened in story using own words
+- Predicting what might happen next based on story so far
+- Connecting story events to own experiences
+- Showing comprehension through discussion or play based on stories
+- Requesting favorite stories repeatedly and recalling them
+
+Why it matters:
+- Critical for reading comprehension and literacy development
+- Demonstrates listening attention and memory skills
+- Shows narrative understanding and story structure awareness
+- Foundation for academic learning requiring comprehension
+- Indicates language processing and integration
+- Enables rich discussion and learning from stories
+- Supports vocabulary and concept development through stories
+- Assessment tool for language and cognitive development
+
+#### Create and tell stories
+
+About
+
+Around 48 months, children create and tell their own simple stories, demonstrating imagination, narrative skills, and expressive language. According to Health Canada developmental guidelines, 4-year-old stories typically include characters, setting, and simple events, though plot development and coherent sequences are still emerging. Stories may be based on personal experiences, familiar stories, or pure imagination. Story creation shows symbolic thinking, sequencing abilities, and language sophistication advancing. Stories become more complex and coherent over subsequent years.
+
+What to look for:
+- Creating original stories with characters and events
+- Beginning, middle, and end structure (simple and sometimes disjointed)
+- Including descriptive details and dialogue
+- Mixing reality and fantasy in creative ways
+- Acting out stories through play
+- Telling stories verbally to adults or peers
+- Stories based on experiences, read stories, or pure imagination
+- Increasing length and detail in stories over time
+
+Why it matters:
+- Demonstrates imagination and creative thinking
+- Shows narrative structure understanding emerging
+- Indicates expressive language and vocabulary sophistication
+- Foundation for writing and composition skills later
+- Supports literacy development and story comprehension
+- Provides emotional expression and processing through stories
+- Shows cognitive ability to sequence events and create coherent narratives
+- Important precursor to academic storytelling and writing
+
+#### Know address
+
+About
+
+By 48 months, many children can state their home address, typically including house number and street name. According to Health Canada developmental guidelines, knowing address represents important safety information, memory development, and personal information learning. Some 4-year-olds learn complete address including city, while others know street address only. Learning address is facilitated by songs, repeated practice, and understanding its functional importance. This personal safety information is crucial for emergencies and independence.
+
+What to look for:
+- Stating house number and street name when asked
+- Clear enough pronunciation for others to understand
+- Consistent response across different contexts
+- May know city name if taught
+- Understanding that address tells where home is located
+- Ability to recite address upon request
+- May need occasional prompting but retrieves information independently
+- Practicing address through songs or games
+
+Why it matters:
+- Critical personal safety information for emergencies
+- Required for school enrollment and forms
+- Demonstrates memory for complex personal information
+- Shows understanding of home location concept
+- Important for building independence and responsibility
+- Foundation for learning phone number and other safety information
+- Used in school readiness and safety assessments
+- Provides security in case of separation or emergency
 
 ### GROWTH
 
@@ -9675,6 +12255,34 @@ Why it matters:
 - Supports vestibular development (balance system)
 - Common component of gymnastics and physical education
 - Not all children enjoy inversions—forcing is not recommended
+
+---
+
+#### Jump backwards
+
+About
+
+Around 60 months (5 years), children develop the coordination to jump backward, demonstrating advanced motor planning and balance. According to Australian Department of Health guidelines, backward jumping requires spatial awareness without visual guidance, balance control, and coordination of propulsion while moving in unconventional direction. This skill emerges after forward jumping is mastered and shows sophisticated motor control. The 5-year-old can typically jump backward 2-3 consecutive times, though distance and consistency improve over time. This skill supports varied movement patterns and complex physical activities.
+
+What to look for:
+- Jumping backward with both feet leaving ground simultaneously
+- Moving backward through space while jumping
+- Maintaining balance throughout backward jumps
+- Successfully completing 2-3 backward jumps in succession
+- Arms swinging or positioning to assist balance
+- Spatial awareness preventing bumping into objects behind
+- Improving distance and control over time
+- Less refined than forward jumping but demonstrating capability
+
+Why it matters:
+- Demonstrates advanced motor planning and balance
+- Shows spatial awareness and body control in multiple directions
+- Indicates vestibular system maturity allowing backwards movement
+- Foundation for complex movement patterns in sports and dance
+- Requires motor planning without full visual feedback
+- Shows progression in gross motor skill complexity
+- Supports varied physical play and game participation
+- Assessment of motor coordination and planning abilities
 
 ---
 
@@ -10043,6 +12651,189 @@ Why it matters:
 - Some errors normal through early school years
 - Important for effective communication
 
+#### Know personal information like name and address
+
+About
+
+By 60 months (5 years), children should know comprehensive personal safety information including full name, age, address, and ideally phone number. According to NHS UK developmental guidelines, this personal information knowledge is crucial for school entry and safety. The 5-year-old can state first and last name clearly, provide street address and city, state age, and may know phone number. This represents memory development, understanding of information importance, and safety awareness. Schools typically expect this information mastery at kindergarten entry.
+
+What to look for:
+- Stating full name (first and last, possibly middle)
+- Providing complete home address (number, street, city)
+- Correctly stating current age
+- Knowing and reciting phone number (may need practice)
+- Clear pronunciation allowing others to understand
+- Consistent responses across contexts
+- Understanding why this information is important
+- Recalling information reliably upon request
+
+Why it matters:
+- Critical personal safety information for emergencies
+- Required for school enrollment and identification
+- Shows memory for complex sequenced information
+- Enables independence and self-advocacy
+- Important in case of separation from caregivers
+- Demonstrates responsibility and safety awareness
+- Used in school readiness assessments
+- Foundation for learning additional important information
+
+#### Converse with a group of people
+
+About
+
+By 60 months, children demonstrate advancing social communication by conversing appropriately in group settings, not just one-on-one interactions. According to Australian Department of Health guidelines, group conversation requires taking turns speaking, listening while others speak, staying on topic, and directing comments to the group rather than dominating. The 5-year-old can participate in family dinner conversations, circle time discussions at school, and group play conversations, showing sophisticated social awareness and communication pragmatics.
+
+What to look for:
+- Participating appropriately in group conversations
+- Taking turns speaking rather than interrupting constantly
+- Listening to others' contributions
+- Contributing relevant comments to shared topic
+- Using appropriate volume and not dominating conversation
+- Making eye contact with multiple people in group
+- Following conversational flow and topic changes
+- Asking and answering questions in group context
+
+Why it matters:
+- Essential skill for classroom participation and learning
+- Demonstrates social pragmatics and conversation rules understanding
+- Shows ability to navigate complex social communication
+- Important for peer relationships and group activities
+- Indicates attention, listening, and language processing skills
+- Foundation for academic discussions and collaborative learning
+- Supports social inclusion and friendship formation
+- Assessment of social communication competence
+
+#### Understand opposites
+
+About
+
+By 60 months, children understand and can identify opposite concepts including big/small, hot/cold, up/down, happy/sad, fast/slow, and others. According to Australian Department of Health guidelines, understanding opposites demonstrates categorical thinking, vocabulary knowledge, and relational concepts. The 5-year-old can answer "What's the opposite of big?" or select opposite examples when shown pairs. Opposite understanding supports comparative thinking, vocabulary development, and is used extensively in educational settings.
+
+What to look for:
+- Correctly identifying opposites for common word pairs
+- Understanding at least 5-10 opposite pairs
+- Answering "What's the opposite of __?" questions
+- Selecting opposite examples from choices
+- Using opposite concepts appropriately in speech
+- Understanding dimensional opposites (big/small) and emotional opposites (happy/sad)
+- Applying opposite concepts across different contexts
+- Eventually understanding that some words have multiple opposites
+
+Why it matters:
+- Demonstrates categorical and relational thinking
+- Shows vocabulary sophistication and word relationships
+- Essential for comparative language and descriptions
+- Used extensively in educational curriculum and assessments
+- Supports critical thinking and analysis skills
+- Foundation for more complex relational concepts
+- Enables understanding of contrasts and comparisons
+- Important language skill for academic success
+
+#### Know phone number
+
+About
+
+By 60 months, many children can recite their home or parent's phone number from memory. According to Health Canada developmental guidelines, phone number knowledge is important safety information enabling children to contact caregivers in emergencies. Learning phone numbers requires memory for longer sequences than addresses and benefits from songs, repetition, and practice. Some 5-year-olds know multiple phone numbers (home, parents' cells), while others master one. This information is typically expected for kindergarten entry.
+
+What to look for:
+- Reciting full 10-digit phone number correctly
+- Consistent recall across different times and contexts
+- Understanding that phone number reaches specific person/home
+- May know one or multiple phone numbers
+- Using songs or rhythms to remember sequence
+- Stating number clearly enough to be understood
+- Understanding functional purpose of phone number
+- Ability to recall when asked by adults
+
+Why it matters:
+- Critical safety information for emergencies
+- Enables child to contact caregivers if separated
+- Shows memory for extended numerical sequences
+- Required or expected for school entry
+- Demonstrates responsibility and safety awareness
+- Important for independence and self-advocacy
+- Provides reassurance and security for child and parents
+- Foundation for learning additional important numbers
+
+#### Understand relationships between objects
+
+About
+
+By 60 months, children understand and describe relationships between objects, including spatial relationships, functional relationships, and categorical relationships. According to Health Canada developmental guidelines, relationship understanding shows advancing cognitive abilities to analyze how objects connect, interact, or relate. The 5-year-old explains that spoon and bowl go together (functional), understands that car goes on road (spatial/functional), recognizes that apple and banana are both fruits (categorical). This relational thinking is foundational for reasoning, categorization, and academic learning.
+
+What to look for:
+- Explaining why objects go together or are related
+- Identifying functional relationships (cup and saucer, key and lock)
+- Understanding categorical relationships (fruits, animals, vehicles)
+- Describing spatial relationships between objects
+- Recognizing part-whole relationships (wheel is part of car)
+- Using relationship language ("goes with," "used for," "part of")
+- Sorting objects based on relationships or categories
+- Applying relationship understanding across varied contexts
+
+Why it matters:
+- Demonstrates advancing cognitive and reasoning abilities
+- Foundation for categorization and classification skills
+- Essential for academic learning across subjects
+- Shows understanding of how world is organized
+- Supports problem-solving and logical thinking
+- Enables complex language describing associations
+- Important for science, math, and reading comprehension
+- Assessment component in cognitive evaluations
+
+#### Refer to people by relationship
+
+About
+
+By 60 months, children use relationship terms to refer to people, understanding and using labels like "my sister," "his mom," "her teacher," "my friend." According to Health Canada developmental guidelines, using relationship language demonstrates understanding that people are connected through various relationships and can be described by their relation to others. The 5-year-old understands family relationships (mom, dad, sister, brother, grandparents), social relationships (friend, teacher), and possessive relationships, using appropriate pronouns and descriptors.
+
+What to look for:
+- Correctly identifying family relationships (mom, dad, siblings, grandparents)
+- Using relationship terms for non-family (teacher, friend, neighbor)
+- Understanding possessive relationships ("his mom," "her dad")
+- Explaining relationships ("She's my sister")
+- Understanding reciprocal relationships (if she's my sister, I'm her brother)
+- Using appropriate pronouns with relationships
+- Explaining who people are using relationship language
+- Understanding family structure and connections
+
+Why it matters:
+- Demonstrates social understanding and relationship concepts
+- Shows grammatical sophistication with possessive and pronouns
+- Important for social communication and describing people
+- Indicates understanding of family structure and social connections
+- Foundation for more complex relationship understanding
+- Supports narrative skills and storytelling
+- Essential for communicating about people to others
+- Shows cognitive and social development integrating
+
+#### Tell coherent stories with minimal comprehension difficulties
+
+About
+
+By 60 months, children tell stories with clear narrative structure, logical sequence, and sufficient detail for listeners to understand without constant clarification. According to Health Canada developmental guidelines, coherent storytelling demonstrates language maturation, narrative understanding, sequencing abilities, and audience awareness. The 5-year-old includes characters, setting, problem, events, and resolution in stories. Listeners can follow and understand stories without confusion, showing child provides necessary context and sequence. Stories may be based on experiences or imagination but follow logical structure.
+
+What to look for:
+- Stories with clear beginning, middle, and end
+- Including necessary information for listener understanding
+- Logical sequence of events
+- Appropriate use of past tense and narrative language
+- Including details about characters, settings, and events
+- Connecting events with logical relationships
+- Listener can understand story without constant questions
+- Increasing length and complexity of stories
+- Using temporal language ("first," "then," "after," "finally")
+
+Why it matters:
+- Critical milestone for literacy and academic success
+- Demonstrates narrative comprehension and production
+- Shows language sophistication and grammatical development
+- Essential for writing development and composition
+- Indicates executive function skills in organizing and sequencing
+- Supports social communication and sharing experiences
+- Foundation for reading comprehension and analysis
+- Assessment component for school readiness
+
 ### DEVELOPMENTAL - Social & Emotional
 
 #### 60M: Follows rules/takes turns in games
@@ -10380,6 +13171,84 @@ Why it matters:
 - Indicates self-help skills advanced
 - Encourages autonomy and confidence
 - Important independence achievement
+
+#### Have a best friend
+
+About
+
+By 60 months, many children identify a specific peer as a "best friend," showing friendship formation and social preferences. According to NHS UK developmental guidelines, best friendships at age 5 are typically based on shared interests, frequent play opportunities, and mutual enjoyment, though they may change frequently. Having a best friend demonstrates social competence, ability to form relationships, and emotional connection beyond family. These early friendships support social skill development, emotional well-being, and school adjustment. Best friends may or may not be stable—frequent changes in "best friends" are normal at this age.
+
+What to look for:
+- Naming a specific child as "best friend"
+- Preferring to play with particular peer consistently
+- Showing affection and loyalty toward friend
+- Seeking out friend at school or social settings
+- Sharing special items or privileges with friend
+- Talking about friend frequently at home
+- Showing distress when separated from or in conflict with friend
+- May have multiple "best friends" or friendships that change
+
+Why it matters:
+- Indicates healthy social development and relationship formation
+- Shows ability to connect with peers beyond superficial play
+- Provides emotional support and companionship
+- Important for school adjustment and social well-being
+- Teaches relationship skills: loyalty, sharing, conflict resolution
+- Supports emotional development through peer connection
+- Predicts social competence and adjustment
+- Normal and healthy even if friendships change frequently
+
+#### Sit still and listen to a short story or play with an activity for 15 to 20 minutes
+
+About
+
+By 60 months, children demonstrate sustained attention by sitting relatively still and focusing on activities or stories for 15-20 minutes. According to NHS UK developmental guidelines, this attention span is crucial for school readiness where circle time, lessons, and activities require sustained focus. The 5-year-old can listen to age-appropriate stories, engage with activities like puzzles or drawing, or participate in structured lessons with age-appropriate movement breaks. This represents executive function development, particularly attention control and behavioral regulation.
+
+What to look for:
+- Remaining seated and focused during 15-20 minute activities
+- Listening attentively to longer stories or lessons
+- Engaging with activities without constant redirection
+- Appropriate body control—fidgeting allowed but not disruptive movement
+- Following along with group activities for extended periods
+- Asking relevant questions showing attention and comprehension
+- Completing activities or projects requiring sustained focus
+- Variable attention depending on interest and time of day (normal)
+
+Why it matters:
+- Critical for kindergarten and school success
+- Shows executive function and attention control developing
+- Enables participation in structured learning activities
+- Demonstrates behavioral regulation and impulse control
+- Necessary for classroom instruction and group learning
+- Indicates readiness for academic demands
+- Supports learning through sustained engagement
+- Assessment component for school readiness
+
+#### Feel good when friends are happy
+
+About
+
+Around 60 months, children demonstrate empathetic joy—feeling happy when friends or others experience positive events. According to Australian Department of Health guidelines, this represents advancing empathy showing the 5-year-old shares in others' positive emotions, not just responding to distress. The child smiles when friend succeeds, celebrates others' birthdays enthusiastically, expresses happiness about friends' good news, and shows genuine joy for others. This empathetic happiness indicates prosocial development, theory of mind, and capacity for caring relationships.
+
+What to look for:
+- Smiling or expressing happiness when friends succeed or receive good things
+- Celebrating friends' achievements or special events
+- Showing genuine pleasure (not jealousy) at friends' good fortune
+- Verbal expressions of happiness for others ("I'm happy for you!")
+- Sharing in group joy and positive experiences
+- Asking about and caring about friends' positive experiences
+- Appropriate emotional responses matching others' positive emotions
+- Understanding that others' happiness can contribute to own happiness
+
+Why it matters:
+- Demonstrates advancing empathy and emotional awareness
+- Shows prosocial orientation and caring for others
+- Important for positive, supportive friendships
+- Indicates theory of mind—understanding others' feelings
+- Reduces jealousy and promotes cooperative relationships
+- Predicts social competence and relationship quality
+- Foundation for compassionate, empathetic behavior throughout life
+- Supports classroom harmony and positive peer culture
 
 ### DEVELOPMENTAL - Cognitive
 
@@ -10916,6 +13785,32 @@ Why it matters:
 - Supports proper permanent tooth alignment
 
 ### VISION
+
+#### Should have vision screening before school (Snellen E chart)
+
+About
+
+Between ages 5-6, before school entry, children should receive formal vision screening using standardized tools like the Snellen E chart (also called tumbling E chart). According to the South Africa Department of Health Road to Health Booklet, systematic vision screening at school readiness age ensures any vision problems are identified and corrected before academic demands increase. The Snellen E chart shows the letter E in different orientations, and children indicate which direction the "fingers" of the E point. Normal 5-year-old visual acuity is approximately 20/30. Uncorrected vision problems significantly impact learning, so pre-school screening is crucial.
+
+What to look for:
+- Formal vision screening conducted by healthcare provider or school nurse
+- Using Snellen E chart or similar standardized vision tool
+- Testing each eye separately to identify unilateral problems
+- Visual acuity of approximately 20/30 to 20/20 at age 5
+- Child able to follow instructions for vision testing
+- Screening includes assessment of eye alignment, movement, and focusing
+- Referral to eye care professional if screening indicates concerns
+- Glasses prescription if needed before school entry
+
+Why it matters:
+- Critical period—undetected vision problems significantly impact learning
+- School tasks require clear near and distance vision (board, books, writing)
+- Early correction with glasses prevents academic struggles and self-esteem issues
+- Vision screening recommended by pediatric and ophthalmology associations
+- Some vision problems only detectable through formal screening
+- Easier to establish glasses-wearing if corrected before school entry
+- Vision problems may be mistaken for learning difficulties or attention problems
+- Treatment outcomes best when intervention occurs early
 
 #### Visual acuity typically 20/20
 
