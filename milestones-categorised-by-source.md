@@ -2,24 +2,11 @@
 
 **Note:** Many milestones appear across multiple sources as they are based on similar developmental research. This document organizes the milestones from dev-milestones-comprehensive.md by their primary source organizations, maintaining the exact age range structure.
 
-## Sources Included
-
-1. **CDC / AAP** - Centers for Disease Control and Prevention / American Academy of Pediatrics (USA)
-2. **HSE** - Health Service Executive (Ireland)
-3. **WHO** - World Health Organization (International)
-4. **NHS** - National Health Service (United Kingdom)
-5. **Australian Department of Health** - Pregnancy Birth and Baby, Queensland Health, healthdirect (Australia)
-6. **Health Canada / Canadian Paediatric Society** - HealthLink BC, Caring for Kids (Canada)
-7. **South Africa DoH** - Department of Health, South Africa
-
-*Note: CDC and AAP milestones are combined as they were jointly developed through the 2022 "Learn the Signs. Act Early" collaboration - they represent the same evidence-based milestones.*
+**Sources:** HSE Ireland, CDC USA, WHO, AAP, South Africa DoH, NHS UK, Australian Dept of Health, Health Canada
 
 ---
 
 ## CDC (Centers for Disease Control and Prevention) / AAP (American Academy of Pediatrics) - USA
-
-**Framework:** CDC's "Learn the Signs. Act Early" program (2022 Revised Milestones) developed in collaboration with AAP
-**Key Feature:** Uses 75th percentile threshold - milestones represent what 75% or more of children can do by each age
 
 ### 0-1 MONTHS
 
@@ -114,9 +101,6 @@
 ---
 
 ## HSE (Health Service Executive) - Ireland
-
-**Framework:** HSE Ireland Developmental Milestones Framework
-**Key Feature:** Detailed month-by-month tracking integrated with health check appointments
 
 ### 0-1 MONTHS
 
@@ -250,83 +234,7 @@
 
 ---
 
-## WHO (World Health Organization)
-
-**Framework:** WHO Child Growth Standards and Motor Development Milestones
-**Key Feature:** International evidence-based growth and motor development standards from the WHO Multicentre Growth Reference Study
-
-### 0-1 MONTHS
-
-| Category | Subcategory | Milestones |
-|----------|-------------|------------|
-| **Growth** | Physical Measurements | • Length/height-for-age<br>• Weight-for-age<br>• Weight-for-length/height<br>• Body mass index-for-age (BMI-for-age)<br>• Head circumference-for-age<br>• Arm circumference-for-age |
-
-### 1-3 MONTHS
-
-| Category | Subcategory | Milestones |
-|----------|-------------|------------|
-| **Growth** | Physical Measurements | • Length/height-for-age<br>• Weight-for-age<br>• Weight-for-length/height<br>• Body mass index-for-age (BMI-for-age)<br>• Head circumference-for-age<br>• Arm circumference-for-age |
-
-### 3-6 MONTHS
-
-| Category | Subcategory | Milestones |
-|----------|-------------|------------|
-| **Developmental** | Gross Motor Milestones | • Sitting without support (window of achievement provided) |
-| **Growth** | Physical Measurements | • Length/height-for-age<br>• Weight-for-age<br>• Weight-for-length/height<br>• Body mass index-for-age (BMI-for-age)<br>• Head circumference-for-age<br>• Arm circumference-for-age |
-
-### 6-9 MONTHS
-
-| Category | Subcategory | Milestones |
-|----------|-------------|------------|
-| **Developmental** | Gross Motor Milestones | • Sitting without support<br>• Hands-and-knees crawling<br>• Standing with assistance |
-| **Growth** | Physical Measurements | • Length/height-for-age<br>• Weight-for-age<br>• Weight-for-length/height<br>• Body mass index-for-age (BMI-for-age)<br>• Head circumference-for-age<br>• Arm circumference-for-age |
-
-### 9-12 MONTHS
-
-| Category | Subcategory | Milestones |
-|----------|-------------|------------|
-| **Developmental** | Gross Motor Milestones | • Standing with assistance<br>• Walking with assistance<br>• Standing alone |
-| **Growth** | Physical Measurements | • Length/height-for-age<br>• Weight-for-age<br>• Weight-for-length/height<br>• Body mass index-for-age (BMI-for-age)<br>• Head circumference-for-age<br>• Arm circumference-for-age |
-
-### 12-18 MONTHS
-
-| Category | Subcategory | Milestones |
-|----------|-------------|------------|
-| **Developmental** | Gross Motor Milestones | • Walking alone |
-| **Growth** | Physical Measurements | • Length/height-for-age<br>• Weight-for-age<br>• Weight-for-length/height<br>• Body mass index-for-age (BMI-for-age)<br>• Head circumference-for-age<br>• Arm circumference-for-age |
-
-### 18-24 MONTHS
-
-| Category | Subcategory | Milestones |
-|----------|-------------|------------|
-| **Growth** | Physical Measurements | • Length/height-for-age<br>• Weight-for-age<br>• Weight-for-length/height<br>• Body mass index-for-age (BMI-for-age)<br>• Head circumference-for-age<br>• Arm circumference-for-age |
-
-### 24-36 MONTHS (2-3 YEARS)
-
-| Category | Subcategory | Milestones |
-|----------|-------------|------------|
-| **Growth** | Physical Measurements | • Length/height-for-age<br>• Weight-for-age<br>• Weight-for-length/height<br>• Body mass index-for-age (BMI-for-age)<br>• Head circumference-for-age<br>• Arm circumference-for-age |
-
-### 36-48 MONTHS (3-4 YEARS)
-
-| Category | Subcategory | Milestones |
-|----------|-------------|------------|
-| **Growth** | Physical Measurements | • Length/height-for-age<br>• Weight-for-age<br>• Weight-for-length/height<br>• Body mass index-for-age (BMI-for-age)<br>• Head circumference-for-age<br>• Arm circumference-for-age |
-
-### 48-60 MONTHS (4-5 YEARS)
-
-| Category | Subcategory | Milestones |
-|----------|-------------|------------|
-| **Growth** | Physical Measurements | • Length/height-for-age<br>• Weight-for-age<br>• Weight-for-length/height<br>• Body mass index-for-age (BMI-for-age)<br>• Head circumference-for-age<br>• Arm circumference-for-age |
-
-*Note: WHO provides "windows of achievement" for six gross motor milestones rather than specific age targets. WHO primarily focuses on growth standards and fundamental motor milestones rather than detailed developmental milestones across all domains.*
-
----
-
 ## NHS (National Health Service) - United Kingdom
-
-**Framework:** NHS UK Developmental Guidance with Ages and Stages Questionnaire (ASQ-3)
-**Key Feature:** Integrated with UK health visiting service; emphasis on practical, parent-friendly guidance
 
 ### 0-1 MONTHS
 
@@ -421,9 +329,6 @@
 
 ## Australian Department of Health (Pregnancy Birth and Baby, Queensland Health, healthdirect)
 
-**Framework:** Five developmental areas tracked through universal child health surveillance
-**Key Feature:** Strong emphasis on individual variation; integrated with Australian child health system
-
 ### 0-1 MONTHS
 
 | Category | Subcategory | Milestones |
@@ -508,9 +413,6 @@
 
 ## Health Canada / Canadian Paediatric Society (HealthLink BC, Caring for Kids)
 
-**Framework:** Five developmental areas; provincial health resources
-**Key Feature:** Emphasis that "children's experiences in early years affect health and well-being for rest of life"
-
 ### 0-1 MONTHS
 
 | Category | Subcategory | Milestones |
@@ -589,9 +491,6 @@
 ---
 
 ## South Africa Department of Health (Road to Health Booklet)
-
-**Framework:** Road to Health Booklet (RTHB) Developmental Screening Checklist
-**Key Feature:** 21-question developmental screening checklist covering 14 weeks to 6 years; focuses on key milestones at immunization visits
 
 ### 0-1 MONTHS
 
