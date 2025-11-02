@@ -2,6 +2,18 @@
 
 **Note:** Many milestones appear across multiple sources as they are based on similar developmental research. This document organizes the milestones from dev-milestones-comprehensive.md by their primary source organizations, maintaining the exact age range structure.
 
+## Sources Included
+
+1. **CDC / AAP** - Centers for Disease Control and Prevention / American Academy of Pediatrics (USA)
+2. **HSE** - Health Service Executive (Ireland)
+3. **WHO** - World Health Organization (International)
+4. **NHS** - National Health Service (United Kingdom)
+5. **Australian Department of Health** - Pregnancy Birth and Baby, Queensland Health, healthdirect (Australia)
+6. **Health Canada / Canadian Paediatric Society** - HealthLink BC, Caring for Kids (Canada)
+7. **South Africa DoH** - Department of Health, South Africa
+
+*Note: CDC and AAP milestones are combined as they were jointly developed through the 2022 "Learn the Signs. Act Early" collaboration - they represent the same evidence-based milestones.*
+
 ---
 
 ## CDC (Centers for Disease Control and Prevention) / AAP (American Academy of Pediatrics) - USA
@@ -573,6 +585,88 @@
 | | Communication | • Speaks clearly<br>• Tells simple story with full sentences<br>• Uses future tense<br>• Says name and address |
 | | Social & Emotional | • Wants to please friends<br>• Wants to be like friends<br>• More likely to agree with rules<br>• Likes to sing, dance, act<br>• Aware of gender<br>• Can tell real from pretend<br>• Shows more independence |
 | | Cognitive | • Counts 10 or more objects<br>• Names at least 4 colors<br>• Understands things used daily (money, food)<br>• Draws person with at least 6 body parts<br>• Prints some letters or numbers |
+
+---
+
+## South Africa Department of Health (Road to Health Booklet)
+
+**Framework:** Road to Health Booklet (RTHB) Developmental Screening Checklist
+**Key Feature:** 21-question developmental screening checklist covering 14 weeks to 6 years; focuses on key milestones at immunization visits
+
+### 0-1 MONTHS
+
+| Category | Subcategory | Milestones |
+|----------|-------------|------------|
+| **Developmental** | Cognitive | • Fixes on bright objects and follows with eyes |
+
+### 1-3 MONTHS
+
+| Category | Subcategory | Milestones |
+|----------|-------------|------------|
+| **Developmental** | Gross Motor Skills | • **2M:** Keeps head upright when held |
+| | Cognitive | • **3M:** Uses eyes to follow objects in circular pattern |
+| **Hearing** | Development | • Responds to sound by stopping sucking, blinking or turning |
+
+### 3-6 MONTHS
+
+| Category | Subcategory | Milestones |
+|----------|-------------|------------|
+| **Developmental** | Gross Motor Skills | • **4M:** Turns head towards sound of your voice<br>• **6M:** Holds a toy in each hand |
+| | Social & Emotional | • **6M:** Recognizes faces |
+| **Hearing** | Development | • **3M:** Search for sound with eyes |
+
+### 6-9 MONTHS
+
+| Category | Subcategory | Milestones |
+|----------|-------------|------------|
+| **Developmental** | Gross Motor Skills | • **9M:** Sits without support |
+| | Social & Emotional | • **9M:** Looks when you call name |
+| **Vision** | Development | • **6M:** Eyes move well together (no squint)<br>• **9M:** Eyes focus on far objects, Eyes move well together (no squint) |
+
+### 9-12 MONTHS
+
+| Category | Subcategory | Milestones |
+|----------|-------------|------------|
+| **Developmental** | *No specific milestones isolated for South Africa DoH in this range* | |
+
+### 12-18 MONTHS
+
+| Category | Subcategory | Milestones |
+|----------|-------------|------------|
+| **Developmental** | Gross Motor Skills | • **14M:** Walks independently<br>• **15M:** Takes few steps alone<br>• **18M:** Walks without holding on, Feeds self with fingers |
+| | Communication | • **15M:** Point to familiar objects when named<br>• **18M:** Says 3+ words |
+| **Vision** | Development | • Recognizes/points to pictures in books |
+| **Hearing** | Development | • Follows simple one-step commands<br>• **15M:** Follows directions with gesture+words |
+
+### 18-24 MONTHS
+
+| Category | Subcategory | Milestones |
+|----------|-------------|------------|
+| **Developmental** | *No specific milestones isolated for South Africa DoH in this range* | |
+
+### 24-36 MONTHS (2-3 YEARS)
+
+| Category | Subcategory | Milestones |
+|----------|-------------|------------|
+| **Developmental** | Gross Motor Skills | • **36M:** Walks, Runs, Climbs, Jumps confidently |
+| **Vision** | Development | • **36M:** Sees small shapes clearly at 6 metres |
+
+### 36-48 MONTHS (3-4 YEARS)
+
+| Category | Subcategory | Milestones |
+|----------|-------------|------------|
+| **Developmental** | Gross Motor Skills | • **48M:** Hops on one foot |
+| | Communication | • **48M:** Says 4+ word sentences |
+| | Cognitive | • **48M:** Draws person with 3+ body parts |
+
+### 48-60 MONTHS (4-5 YEARS)
+
+| Category | Subcategory | Milestones |
+|----------|-------------|------------|
+| **Developmental** | Gross Motor Skills | • **60M:** Hops on one foot |
+| | Communication | • **60M:** Keeps conversation with 3+ back-and-forth exchanges, Converse with a group of people |
+| | Cognitive | • **60M:** Draws person with 6+ body parts |
+| **Vision** | Development | • **Should have vision screening before school (Snellen E chart)** |
 
 ---
 
