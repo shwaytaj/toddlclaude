@@ -141,7 +141,37 @@ Parents are overwhelmed trying to track their baby's developmental milestones ac
 
 ---
 
-### 9. Out of Scope (V1)
+### 9. Pricing & Business Model
+
+**Business Model:** Subscription-based (paid only)
+
+**Pricing Structure:**
+
+**Option 1: Flat Rate**
+- $10 USD per month per family
+- Unlimited children per account
+- 1-month free trial included
+
+**Option 2: Per-Child Pricing (Under Consideration)**
+- $10 USD per month for first child
+- Additional $5 USD per month for each additional child
+- 1-month free trial included
+
+**Key Details:**
+- Paid subscription required (no freemium tier in V1)
+- Free trial: 1 month full access
+- Billing: Monthly recurring subscription
+- Access to all features during trial and subscription period
+
+**Trial Features:**
+- Full access to all milestone tracking features
+- Complete AI-powered activity recommendations
+- Hyper-personalized toy suggestions
+- No credit card required for trial (TBD)
+
+---
+
+### 10. Out of Scope (V1)
 
 - Community/social features
 - Direct toy purchasing within app
@@ -151,19 +181,20 @@ Parents are overwhelmed trying to track their baby's developmental milestones ac
 
 ---
 
-### 10. Open Questions
+### 11. Open Questions
 
 - How will medical history data be collected and validated?
 - What is the source of developmental milestone standards?
 - How will toy recommendations be curated and updated?
-- What is the business model (subscription, freemium, one-time purchase)?
 - Will there be expert/pediatrician review of recommendations?
 - How will personalization algorithm be trained and validated?
+- Should credit card be required for free trial sign-up?
+- Which pricing option (flat rate vs. per-child) should be implemented for V1?
 
 
 ---
 
-### 11. Dependencies & Risks
+### 12. Dependencies & Risks
 
 **Dependencies:**
 - Medical expertise for content validation
