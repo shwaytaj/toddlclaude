@@ -133,6 +133,9 @@ Structure content around questions parents actually ask:
 - Target long-tail, specific queries
 - Always include the citation links inline wherever possible
 - Remove any m dashes.
+- Do not add any information about any specific author
+- Do not have any marketing call to action that asks the user to subscribe
+- Dont have any mention of toddl.health
 
 **Strong Examples:**
 - "What Are the Signs My Baby Is On Track?"

@@ -32,9 +32,6 @@ featuredImage: "/images/baby-milestones-guide.jpg"
 
 # Is My Baby Developing Normally? A Science-Backed Guide for Anxious First-Time Mothers
 
-**Last Updated:** November 12, 2025  
-**Medically Reviewed by:** Dr. Michael Chen, Board-Certified Developmental Pediatrician  
-**Written by:** Dr. Sarah Johnson, Pediatrician with 15 years experience
 
 *Reading time: 12 minutes*
 
@@ -284,13 +281,6 @@ This article is for informational purposes only and does not constitute medical 
 ---
 
 ### Medical Review & Sources
-
-**Last Updated:** November 12, 2025  
-**Next Review Date:** November 12, 2026  
-**Medical Reviewer:** Dr. Michael Chen, Board-Certified Developmental Pediatrician
-
-This article was medically reviewed and is based on current pediatric research and clinical guidelines from trusted health organizations.
-
 **Primary Sources:**
 
 1. Centers for Disease Control and Prevention (CDC). (2025). "Learn the Signs. Act Early. Developmental Milestones." Available at: https://www.cdc.gov/act-early/milestones/index.html
@@ -305,32 +295,3 @@ This article was medically reviewed and is based on current pediatric research a
 - Developmental-Behavioral Pediatrics (6th Edition, 2023)
 - Journal of Developmental & Behavioral Pediatrics
 
-**Conflict of Interest:** None declared.
-
----
-
-### About the Author
-
-**Dr. Sarah Johnson, MD, FAAP**  
-Board-Certified Pediatrician
-
-Dr. Johnson has 15 years of experience in pediatric care and is a Fellow of the American Academy of Pediatrics. She specializes in preventive pediatrics and developmental surveillance, having helped thousands of families navigate early childhood health and development. Dr. Johnson completed her medical degree at Johns Hopkins University and her pediatric residency at Children's Hospital of Philadelphia. She practices at Dublin Children's Health Centre and frequently speaks on topics related to reducing parental anxiety while maintaining appropriate developmental vigilance.
-
-**Medical Reviewer: Dr. Michael Chen, MD**  
-Board-Certified Developmental Pediatrician with 12 years of clinical experience. Dr. Chen is an Associate Professor of Pediatrics at Trinity College Dublin and leads research on early identification of developmental delays. He completed fellowship training in Neurodevelopmental Disabilities at Boston Children's Hospital.
-
----
-
-### Share Your Experience
-
-What developmental concerns have you navigated with your baby? Share your experiences in the comments below to help other parents feel less alone. We read every comment and often feature your questions in future articles.
-
----
-
-**Subscribe to toddl.health Newsletter**
-
-Get evidence-based parenting tips delivered monthly. Join thousands of parents receiving expert guidance on child health, development, and behavior - personalized to your baby's actual developmental stage and medical history.
-
-[Subscribe to Newsletter]
-
----
