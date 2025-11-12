@@ -3,8 +3,6 @@ title: "Is My Baby Developing Normally? A Science-Backed Guide for Anxious First
 description: "Evidence-based guide to baby milestones for anxious first-time mothers. Learn when to worry, what's normal, and how to support development naturally."
 date: 2025-11-12
 dateModified: 2025-11-12
-author: "Pediatrician"
-medicalReviewer: "Board-Certified Developmental Pediatrician"
 tags: [baby milestones, child development, parenting anxiety, first-time mothers, developmental delays, baby development concerns]
 category: Child Development
 readingTime: 12 minutes
@@ -12,10 +10,6 @@ featuredImage: "/images/baby-milestones-guide.jpg"
 ---
 
 # Is My Baby Developing Normally? A Science-Backed Guide for Anxious First-Time Mothers
-
-**Last Updated:** November 12, 2025  
-**Medically Reviewed by:** Board-Certified Developmental Pediatrician  
-**Written by:** Board-Certified Pediatrician
 
 *Reading time: 12 minutes*
 
@@ -193,11 +187,7 @@ This article is for informational purposes only and does not constitute medical 
 
 ### Medical Review & Sources
 
-**Last Updated:** November 12, 2025  
-**Next Review Date:** November 12, 2026  
-**Medical Reviewer:** Dr. Michael Chen, Board-Certified Developmental Pediatrician
-
-This article was medically reviewed and is based on current pediatric research and clinical guidelines from trusted health organizations.
+This article is based on current pediatric research and clinical guidelines from trusted health organizations.
 
 **Primary Sources:**
 
