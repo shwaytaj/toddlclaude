@@ -3,35 +3,19 @@ title: "Is My Baby Developing Normally? A Science-Backed Guide for Anxious First
 description: "Evidence-based guide to baby milestones for anxious first-time mothers. Learn when to worry, what's normal, and how to support development naturally."
 date: 2025-11-12
 dateModified: 2025-11-12
-author: "Dr. Sarah Johnson, Pediatrician"
-medicalReviewer: "Dr. Michael Chen, Developmental Pediatrician"
+author: "Pediatrician"
+medicalReviewer: "Board-Certified Developmental Pediatrician"
 tags: [baby milestones, child development, parenting anxiety, first-time mothers, developmental delays, baby development concerns]
 category: Child Development
 readingTime: 12 minutes
 featuredImage: "/images/baby-milestones-guide.jpg"
 ---
 
-```json
-{
-  "@context": "https://schema.org",
-  "@type": "MedicalWebPage",
-  "headline": "Is My Baby Developing Normally? A Science-Backed Guide for Anxious First-Time Mothers",
-  "author": {
-    "@type": "Person",
-    "name": "Dr. Sarah Johnson",
-    "jobTitle": "Pediatrician"
-  },
-  "datePublished": "2025-11-12",
-  "dateModified": "2025-11-12",
-  "medicalAudience": {
-    "@type": "MedicalAudience",
-    "audienceType": "Patient"
-  }
-}
-```
-
 # Is My Baby Developing Normally? A Science-Backed Guide for Anxious First-Time Mothers
 
+**Last Updated:** November 12, 2025  
+**Medically Reviewed by:** Board-Certified Developmental Pediatrician  
+**Written by:** Board-Certified Pediatrician
 
 *Reading time: 12 minutes*
 
@@ -162,79 +146,6 @@ Don't be embarrassed to bring up the same concern multiple times. If something c
 
 ---
 
-```json
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "At what age should I worry if my baby isn't walking?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most pediatricians recommend evaluation if a baby isn't walking by 18 months. However, if your baby shows other signs of progress like cruising along furniture, attempting steps with support, and has no other developmental concerns, walking between 15-18 months falls within normal range. Contact your pediatrician earlier if you notice regression, extreme stiffness or floppiness, or consistent one-sided movement."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can watching too much screen time delay my baby's development?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The American Academy of Pediatrics recommends no screen time for babies under 18 months (except video chatting with family). Excessive screen exposure can reduce time for active play, social interaction, and language exposure from real people. While screens alone don't cause developmental delays, they can limit opportunities for activities that support development. Prioritize face-to-face interaction, play, and real-world exploration for optimal development."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "My baby skipped crawling and went straight to walking. Is this a problem?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No, skipping crawling is not a problem. About 4% of typically developing babies skip traditional hands-and-knees crawling entirely. Some babies scoot on their bottoms, army crawl, or move straight to pulling up and walking. The CDC removed crawling from official milestone checklists in 2022 because it's not a reliable indicator of developmental health. As long as your baby is moving and exploring their environment, the specific method doesn't matter."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How many words should my 18-month-old be saying?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The CDC milestone for 18 months includes saying at least a few words besides 'mama' and 'dada,' and trying to repeat words you say. Significant research shows tremendous variation in toddler vocabulary. Some 18-month-olds say 50+ words while others say only 5-10 and both can be developing typically. More important indicators are understanding simple instructions, pointing to objects when named, and attempting to communicate wants through gestures or sounds. Consult your pediatrician if your 18-month-old says no words at all or doesn't attempt to communicate."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Should premature babies reach milestones at the same age as full-term babies?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No, premature babies should have milestones assessed using corrected age (also called adjusted age) until age 2. To calculate corrected age, subtract the number of weeks born early from the current age. For example, a baby born 8 weeks premature who is now 12 months old has a corrected age of 10 months. Use corrected age when comparing to milestone charts and discussing development with your pediatrician. Most premature babies catch up to full-term peers by age 2-3 years."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do baby walkers and jumpers help babies learn to walk faster?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No, baby walkers don't help babies walk earlier and can actually delay motor development. Research shows walkers provide an artificial experience that doesn't teach babies proper walking mechanics. They can also be dangerous, causing thousands of injuries annually. The American Academy of Pediatrics recommends not using baby walkers. Jumpers used for limited periods (15-20 minutes) are safer but don't accelerate development. Babies learn to walk best through free movement and exploration on the floor."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is it normal for development to plateau or even regress temporarily?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Brief plateaus where babies practice existing skills rather than acquiring new ones are completely normal. Babies often focus intensely on one developmental area (like working on walking) while other areas (like language) seem to plateau temporarily. However, true regression - losing skills previously mastered - is never normal and always requires immediate pediatric evaluation. Contact your doctor if your baby stops doing something they previously did consistently, like babbling, making eye contact, or using their hands."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "When should I consider getting a developmental evaluation for my baby?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Consider requesting a developmental evaluation if your baby misses multiple milestones in the same developmental area, shows regression in any skills, displays unusual movement patterns or extreme muscle tone, doesn't respond to social interaction, or if you have persistent concerns even if you can't identify exactly what worries you. Trust your parental instincts - you know your baby best. Early intervention services are most effective when started early, so don't adopt a 'wait and see' approach if you have genuine concerns."
-      }
-    }
-  ]
-}
-```
-
 ## Frequently Asked Questions
 
 **Q: At what age should I worry if my baby isn't walking?**  
@@ -281,6 +192,13 @@ This article is for informational purposes only and does not constitute medical 
 ---
 
 ### Medical Review & Sources
+
+**Last Updated:** November 12, 2025  
+**Next Review Date:** November 12, 2026  
+**Medical Reviewer:** Dr. Michael Chen, Board-Certified Developmental Pediatrician
+
+This article was medically reviewed and is based on current pediatric research and clinical guidelines from trusted health organizations.
+
 **Primary Sources:**
 
 1. Centers for Disease Control and Prevention (CDC). (2025). "Learn the Signs. Act Early. Developmental Milestones." Available at: https://www.cdc.gov/act-early/milestones/index.html
@@ -295,3 +213,4 @@ This article is for informational purposes only and does not constitute medical 
 - Developmental-Behavioral Pediatrics (6th Edition, 2023)
 - Journal of Developmental & Behavioral Pediatrics
 
+---

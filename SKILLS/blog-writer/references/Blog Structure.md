@@ -137,6 +137,7 @@ Structure content around questions parents actually ask:
 - Do not have any marketing call to action that asks the user to subscribe
 - Dont have any mention of toddl.health
 - Don't render any actual json schemas in the blog content
+- Don't include any lines about any conflict of interest
 
 **Strong Examples:**
 - "What Are the Signs My Baby Is On Track?"
