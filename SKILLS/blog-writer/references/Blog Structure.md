@@ -131,6 +131,8 @@ Structure content around questions parents actually ask:
 - Start with question words: What, How, When, Why, Is, Should
 - Include conversational language ("My baby..." not "The infant...")
 - Target long-tail, specific queries
+- Always include the citation links inline wherever possible
+- Remove any m dashes.
 
 **Strong Examples:**
 - "What Are the Signs My Baby Is On Track?"
