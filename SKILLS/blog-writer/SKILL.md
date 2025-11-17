@@ -85,8 +85,16 @@ Create the article as a .md file in /mnt/user-data/outputs/ with:
 - Don't forget Quick Answers after H2 headings
 - Don't use generic H2s (must be natural questions)
 - Don't cite sources without dates
-- Don't skip medical disclaimer or reviewer info
+- Don't skip medical disclaimer
 - Don't forget structured data schemas
+- Remove any m dashes.
+- Do not add any information about any specific author or any medical reviewer. 
+- Dont mention that the blog was reviewed by any medical reviewer.
+- Do not have any marketing call to action that asks the user to subscribe
+- Dont have any mention of toddl.health
+- Don't render any actual json schemas in the blog content
+- Don't include any lines about any conflict of interest
+- Remove any mentions of "Last Updated"
 
 ## Content Safety
 
