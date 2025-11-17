@@ -92,7 +92,7 @@ Create the article as a .md file in /mnt/user-data/outputs/ with:
 - Dont mention that the blog was reviewed by any medical reviewer.
 - Do not have any marketing call to action that asks the user to subscribe
 - Dont have any mention of toddl.health
-- Don't render any actual json schemas in the blog content
+- Don't render any actual json schemas or any scripts in the blog content
 - Don't include any lines about any conflict of interest
 - Remove any mentions of "Last Updated"
 
