@@ -151,8 +151,7 @@ Child Information:
 - Gender: [gender]
 - Birth Details: Born [premature/on time/post-mature] ([X] weeks [early/late])
 - Medical History: [child medical history or "None provided"]
-
-Parent Medical History: [parent medical history or "None provided"]
+- Parent Medical History: [parent medical history or "None provided"]
 
 Please recommend 10-15 specific toys or tools with search queries, each supported by evidence-based sources explaining their developmental benefits.
 ```
